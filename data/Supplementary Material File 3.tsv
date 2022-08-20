@@ -1,0 +1,3887 @@
+gene_symbol	cancer	probability
+FLT3	Neoplasm Metastasis	1.0
+KDR	Carcinoma, Hepatocellular	1.0
+KIT	Breast Neoplasms	1.0
+KIT	Lung Neoplasms	1.0
+ROS1	Neoplasm Metastasis	1.0
+RET	Carcinoma, Hepatocellular	1.0
+ERBB4	Neoplasm Metastasis	1.0
+KIT	Giant Cell Tumors	0.9933982683982683
+KIT	Giant Cell Tumor of Tendon Sheath	0.9838988095238094
+PDGFRB	Carcinoma, Hepatocellular	0.97
+PDGFRA	Lung Neoplasms	0.965
+CSF1R	Giant Cell Tumors	0.9422138925428554
+PDGFRA	Adenocarcinoma	0.94
+KIT	Adenocarcinoma	0.93
+BRAF	Nevi and Melanomas	0.925
+MOK	Carcinoma, Non-Small-Cell Lung	0.925
+IGF1R	Carcinoma	0.9150261173700699
+KIT	Mesenteric Cyst	0.915
+AMHR2	Carcinoma, Non-Small-Cell Lung	0.915
+TAF1	Carcinoma, Non-Small-Cell Lung	0.915
+FGFR1	Leukemia	0.91
+BRAF	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.905
+CILK1	Carcinoma, Non-Small-Cell Lung	0.905
+IGF1R	Carcinoma, Hepatocellular	0.9
+EPHA5	Carcinoma, Non-Small-Cell Lung	0.9
+AXL	Carcinoma, Non-Small-Cell Lung	0.8951572731788828
+EPHA2	Lung Neoplasms	0.89
+BCR	Lung Neoplasms	0.885
+FGFR1	Neoplasm Metastasis	0.885
+FLT3	Neoplasms, Fibrous Tissue	0.88
+BRAF	Sarcoma 37	0.88
+ERBB3	Carcinoma, Hepatocellular	0.88
+KDR	Mesenteric Cyst	0.88
+AXL	Lung Neoplasms	0.88
+BRAF	Dentigerous Cyst	0.875
+BRAF	Trophoblastic Tumor, Placental Site	0.875
+RYK	Lung Neoplasms	0.875
+SGK3	Carcinoma, Non-Small-Cell Lung	0.875
+BRAF	ACTH Syndrome, Ectopic	0.87
+BRAF	Cecal Neoplasms	0.87
+MTOR	Nonodontogenic Cysts	0.87
+PDGFRB	Nonodontogenic Cysts	0.87
+CIT	Carcinoma, Non-Small-Cell Lung	0.87
+FGFR1	Leukemia, Myeloid	0.87
+FGFR2	Leukemia	0.8650864779874214
+RPS6KB2	Carcinoma, Non-Small-Cell Lung	0.8650111507582515
+TGFBR1	Lung Neoplasms	0.865
+BRAF	Facial Neoplasms	0.865
+KIT	Colorectal Neoplasms	0.865
+HASPIN	Carcinoma, Non-Small-Cell Lung	0.865
+IGF1R	Colorectal Neoplasms	0.865
+MAP3K20	Carcinoma, Non-Small-Cell Lung	0.8621612903225807
+RPS6KB2	Lung Neoplasms	0.860037037037037
+BRAF	Carcinoma, Brown-Pearce	0.86
+EPHA2	Carcinoma, Non-Small-Cell Lung	0.86
+CLK2	Carcinoma, Non-Small-Cell Lung	0.86
+MAP3K4	Carcinoma, Non-Small-Cell Lung	0.857
+FLT3	Mesenteric Cyst	0.855
+BRAF	Spinal Neoplasms	0.855
+MAP2K7	Lung Neoplasms	0.855
+CAMK2A	Carcinoma, Non-Small-Cell Lung	0.85
+BRAF	Lymphocele	0.85
+BRAF	Mesenteric Cyst	0.85
+FGFR3	Neoplasm Metastasis	0.85
+EPHB2	Lung Neoplasms	0.85
+PDGFRB	Mesenteric Cyst	0.85
+PTK7	Leukemia	0.85
+MAP3K20	Lung Neoplasms	0.8464871328923526
+BCR	Carcinoma, Non-Small-Cell Lung	0.8450109170305677
+KIT	Nonodontogenic Cysts	0.845
+ACVR2B	Lung Neoplasms	0.845
+EPHB4	Carcinoma, Non-Small-Cell Lung	0.845
+PRKG2	Carcinoma, Non-Small-Cell Lung	0.845
+AXL	Leukemia	0.845
+EPHA7	Carcinoma, Non-Small-Cell Lung	0.845
+FLT3	Nonodontogenic Cysts	0.84
+BRAF	Nonodontogenic Cysts	0.84
+BRAF	Neoplasms, Fibrous Tissue	0.84
+KDR	Nonodontogenic Cysts	0.84
+RYK	Carcinoma, Non-Small-Cell Lung	0.84
+BRAF	Palatal Neoplasms	0.835
+BRAF	Neoplasms, Complex and Mixed	0.835
+TYRO3	Carcinoma, Non-Small-Cell Lung	0.83
+MST1R	Carcinoma, Non-Small-Cell Lung	0.83
+BRAF	Neoplasms, Muscle Tissue	0.83
+FGFR2	Neoplasm Metastasis	0.83
+ERBB3	Neoplasms, Second Primary	0.8261629892573262
+ROR2	Leukemia	0.8250891410048622
+ERBB3	Carcinoma, Squamous Cell	0.8250284495021337
+BRAF	Adenoma, Islet Cell	0.825
+CAMK2B	Carcinoma, Non-Small-Cell Lung	0.825
+KIT	Adenoma, Sweat Gland	0.825
+PDGFRA	Mesenteric Cyst	0.825
+JAK2	Carcinoma, Hepatocellular	0.825
+CSF1R	Giant Cell Tumor of Tendon Sheath	0.823805566016787
+PDGFRA	Colorectal Neoplasms	0.820176282051282
+ERBB3	Adenocarcinoma of Lung	0.82
+ERBB3	Stomach Neoplasms	0.82
+ERBB3	Leukemia, Myeloid, Acute	0.82
+TEC	Carcinoma, Non-Small-Cell Lung	0.8170000000000001
+EPHB2	Carcinoma, Non-Small-Cell Lung	0.8153333333333334
+FGFR2	Adenocarcinoma of Lung	0.8153213997642241
+SRC	Lung Neoplasms	0.8150245012250613
+BRAF	Adenoma, Sweat Gland	0.815
+EPHB1	Carcinoma, Non-Small-Cell Lung	0.815
+PIK3CA	Sarcoma 37	0.815
+INSR	Carcinoma, Hepatocellular	0.815
+TGFBR2	Carcinoma, Non-Small-Cell Lung	0.815
+IGF1R	Leukemia	0.815
+CASK	Carcinoma, Non-Small-Cell Lung	0.815
+FGFR1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.815
+SIK1	Carcinoma, Non-Small-Cell Lung	0.8100235577061423
+BMPR1B	Lung Neoplasms	0.8100111507582516
+PKDCC	Lymphoma	0.81
+CSNK1A1	Carcinoma, Non-Small-Cell Lung	0.81
+PTK2	Leukemia	0.81
+PDGFRB	Colonic Neoplasms	0.81
+NTRK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.81
+PDGFRA	Adenoma, Sweat Gland	0.81
+TRPM6	Carcinoma, Non-Small-Cell Lung	0.81
+BCR	Carcinoma, Hepatocellular	0.81
+MST1R	Lung Neoplasms	0.8060791349248672
+INSR	Carcinoma	0.8051212052388523
+FGFR3	Leukemia	0.8050891410048622
+FLT3	Adenoma, Sweat Gland	0.805
+TIE1	Carcinoma, Non-Small-Cell Lung	0.805
+MTOR	Mesenteric Cyst	0.805
+MTOR	Neoplasms, Fibrous Tissue	0.805
+EPHB2	Carcinoma, Hepatocellular	0.805
+PDGFRA	Nonodontogenic Cysts	0.805
+EPHA2	Leukemia	0.8016666666666665
+PTK7	Lung Neoplasms	0.800357296403749
+STK38	Lung Neoplasms	0.8001
+TGFBR1	Carcinoma, Non-Small-Cell Lung	0.8
+BMPR1B	Leukemia	0.8
+BMPR1B	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.8
+PIK3CA	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.8
+MOK	Neoplasm Metastasis	0.8
+DSTYK	Lymphoma	0.8
+OBSCN	Carcinoma, Non-Small-Cell Lung	0.8
+ZAP70	Lung Neoplasms	0.8
+MAP3K4	Lung Neoplasms	0.7950484050435204
+BRAF	Anal Gland Neoplasms	0.795
+ACVR2B	Carcinoma, Non-Small-Cell Lung	0.795
+ACVR1C	Carcinoma, Non-Small-Cell Lung	0.795
+EPHA4	Leukemia	0.795
+MATK	Carcinoma, Non-Small-Cell Lung	0.795
+IGF1R	Stomach Neoplasms	0.795
+PDIK1L	Carcinoma, Non-Small-Cell Lung	0.795
+FGFR1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.795
+PTK7	Carcinoma, Non-Small-Cell Lung	0.7925326909841707
+SRMS	Lymphoma	0.7903448275862069
+ROR2	Lung Neoplasms	0.7902681982305475
+MARK4	Carcinoma, Non-Small-Cell Lung	0.7900555555555556
+AKT2	Carcinoma, Non-Small-Cell Lung	0.7900239675516224
+RPS6KA6	Carcinoma, Non-Small-Cell Lung	0.7900124069478908
+MAP3K10	Carcinoma, Non-Small-Cell Lung	0.79
+DCLK2	Neoplasm Metastasis	0.79
+EPHB2	Leukemia	0.79
+MAP2K7	Carcinoma, Hepatocellular	0.7851369863013699
+TGFBR2	Lung Neoplasms	0.7850495049504951
+GRK7	Carcinoma, Non-Small-Cell Lung	0.7850111507582516
+MTOR	Spinal Neoplasms	0.785
+EPHB3	Carcinoma, Non-Small-Cell Lung	0.785
+PDGFRB	Adenoma, Sweat Gland	0.785
+IGF1R	Lymphoma, T-Cell	0.785
+CDK10	Carcinoma, Non-Small-Cell Lung	0.785
+JAK2	Thyroid Neoplasms	0.782
+PAN3	Lymphoma	0.7803448275862069
+ATP23	Lymphoma	0.7803448275862069
+YES1	Leukemia	0.78
+FAM20C	Carcinoma, Non-Small-Cell Lung	0.78
+ALK	Adenoma, Sweat Gland	0.78
+MTOR	Cecal Neoplasms	0.78
+BTK	Adenoma, Sweat Gland	0.78
+PIK3CA	Cecal Neoplasms	0.78
+AXL	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.78
+PRKCQ	Carcinoma, Non-Small-Cell Lung	0.777
+PRKCI	Carcinoma, Non-Small-Cell Lung	0.7758387257991468
+PDGFRA	Lymphoma, T-Cell	0.7751101321585904
+HASPIN	Lung Neoplasms	0.7750370370370371
+EPHB4	Lung Neoplasms	0.7750370370370371
+PKDCC	Neoplasm Metastasis	0.775
+ACVRL1	Carcinoma, Non-Small-Cell Lung	0.775
+PDGFRA	Adenoma, Islet Cell	0.775
+ABL1	Carcinoma, Krebs 2	0.775
+BCR	Lymphoma	0.775
+PDGFRA	Lymphoma, B-Cell	0.7701162790697674
+NUAK1	Carcinoma, Non-Small-Cell Lung	0.7700124069478907
+FLT3	Dentigerous Cyst	0.77
+FLT3	Neoplasms, Muscle Tissue	0.77
+FLT3	Spinal Neoplasms	0.77
+BRAF	Neoplasms, Adipose Tissue	0.77
+PKN2	Carcinoma, Non-Small-Cell Lung	0.77
+MTOR	Neoplasms, Muscle Tissue	0.77
+STK32B	Neoplasm Metastasis	0.77
+ROS1	Adenoma, Sweat Gland	0.77
+IGF1R	Lymphoma, B-Cell	0.77
+SRMS	Carcinoma, Non-Small-Cell Lung	0.77
+FGFR1	Leukemia, Lymphocytic, Chronic, B-Cell	0.77
+FGFR1	Carcinoma, Squamous Cell	0.7652337585322168
+CDK11B	Carcinoma, Non-Small-Cell Lung	0.7652098804950919
+ERBB3	Esophageal Neoplasms	0.7651572327044025
+CDK11B	Lung Neoplasms	0.7650684931506849
+ACVRL1	Lung Neoplasms	0.7650462962962963
+SRPK1	Carcinoma, Non-Small-Cell Lung	0.7650432138284251
+SBK1	Neoplasm Metastasis	0.765
+KIT	Esophageal Neoplasms	0.765
+EPHB2	Adenocarcinoma	0.765
+PIK3CA	Carcinoma, Brown-Pearce	0.765
+TGFBR2	Carcinoma, Hepatocellular	0.765
+IGF1R	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.765
+CAMK1G	Lymphoma	0.765
+ABL1	Nevus of Ota	0.765
+FGFR3	Adenocarcinoma of Lung	0.7633590828643716
+BRAF	Neoplasms, Neuroepithelial	0.7605140115627177
+SYK	Lung Neoplasms	0.7605072463768116
+PDGFRA	Carcinoma, Small Cell	0.7604233709659186
+CDC42BPG	Lymphoma	0.760344827586207
+YES1	Lung Neoplasms	0.7601947364804508
+ACVR2B	Leukemia	0.7600891410048622
+TIE1	Leukemia	0.7600370370370371
+EGFR	Mixed Tumor, Malignant	0.76
+BRAF	Submandibular Gland Neoplasms	0.76
+ERBB3	Liver Neoplasms	0.76
+KDR	Adenoma, Sweat Gland	0.76
+STYK1	Carcinoma, Non-Small-Cell Lung	0.76
+JAK1	Carcinoma, Hepatocellular	0.76
+PIK3CA	Dentigerous Cyst	0.76
+PIK3CA	Facial Neoplasms	0.76
+INSR	Stomach Neoplasms	0.76
+MAP3K9	Carcinoma, Non-Small-Cell Lung	0.76
+CCL8	Carcinoma, Non-Small-Cell Lung	0.76
+FGFR1	Lymphoma, B-Cell	0.76
+ERBB3	Sarcoma	0.758421679197995
+TEC	Lung Neoplasms	0.756932859665667
+PIM2	Carcinoma, Non-Small-Cell Lung	0.7567857142857142
+PRKG2	Lung Neoplasms	0.7564285714285713
+FGFR3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.7550864779874215
+NTRK1	Carcinoma	0.7550580746075917
+FGFR1	Liver Neoplasms	0.7550432138284251
+ACVR1B	Leukemia	0.755
+MTOR	Dentigerous Cyst	0.755
+AMHR2	Neoplasm Metastasis	0.755
+PDGFRB	Carcinoma, Bronchogenic	0.755
+CSNK1G1	Neoplasm Metastasis	0.755
+CDK15	Neoplasm Metastasis	0.755
+PDGFRA	Esophageal Neoplasms	0.755
+ROR2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.755
+FGFR1	Leukemia, Lymphoid	0.755
+FGFR1	Lymphoma, T-Cell	0.7510416666666666
+ABL1	Lymphoma, Primary Cutaneous Anaplastic Large Cell	0.7502325581395348
+IGF1R	Carcinoma, Squamous Cell	0.7501101321585903
+PTK2B	Carcinoma, Hepatocellular	0.7500431034482758
+ERBB3	Thyroid Neoplasms	0.75
+ERBB3	Lymphoma, B-Cell	0.75
+BTK	Neoplasms, Fibrous Tissue	0.75
+PIK3CA	Adenoma, Islet Cell	0.75
+EPHB4	Leukemia	0.75
+CCNK	Carcinoma, Non-Small-Cell Lung	0.75
+IGF1R	Leukemia, Myeloid	0.75
+NEK1	Carcinoma, Non-Small-Cell Lung	0.75
+CDK12	Carcinoma, Non-Small-Cell Lung	0.7466666666666666
+MATK	Lung Neoplasms	0.7464285714285714
+BCR	Carcinoma	0.7454172951231776
+TSSK6	Lymphoma	0.745344827586207
+PIK3CB	Carcinoma, Non-Small-Cell Lung	0.7452988734693307
+TRIM24	Carcinoma, Non-Small-Cell Lung	0.7452098804950918
+PIM2	Lung Neoplasms	0.7451326909841707
+FYN	Leukemia	0.7450877192982456
+DDR2	Carcinoma, Non-Small-Cell Lung	0.7450789473684211
+BCR	Adenocarcinoma	0.7450746268656716
+PTK7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.7450030450669913
+ERBB3	Laryngeal Neoplasms	0.745
+FASTKD1	Lymphoma	0.745
+ALK	Neoplasms, Fibrous Tissue	0.745
+AKT1	Lung Neoplasms	0.745
+PIK3CA	Lymphocele	0.745
+DYRK4	Lung Neoplasms	0.745
+DYRK4	Neoplasm Metastasis	0.745
+PDGFRA	Breast Neoplasms	0.745
+FGFR1	Hematologic Neoplasms	0.745
+BRAF	Germinoma	0.7405844989027698
+LIMK2	Lung Neoplasms	0.7403271438878583
+CCL5	Leukemia	0.7400864779874214
+PIK3CD	Carcinoma, Non-Small-Cell Lung	0.740048514379417
+CAMK2A	Lung Neoplasms	0.7400128810648348
+DYRK1B	Carcinoma, Non-Small-Cell Lung	0.7400111507582515
+BRAF	Hydatidiform Mole, Invasive	0.74
+BMPR1B	Carcinoma, Non-Small-Cell Lung	0.74
+STK32B	Lymphoma	0.74
+FLT4	Colorectal Neoplasms	0.74
+NLK	Leukemia	0.74
+RET	Adenoma, Sweat Gland	0.74
+PIK3CG	Carcinoma, Non-Small-Cell Lung	0.74
+MAK	Carcinoma, Non-Small-Cell Lung	0.74
+IGF1R	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.74
+ABL1	Anal Gland Neoplasms	0.74
+ABL1	Meigs Syndrome	0.74
+ABL1	Submandibular Gland Neoplasms	0.74
+STK4	Carcinoma, Non-Small-Cell Lung	0.74
+ACVR2A	Carcinoma, Non-Small-Cell Lung	0.74
+MAP3K13	Carcinoma, Non-Small-Cell Lung	0.74
+PTK2B	Lung Neoplasms	0.7371405255425654
+IGF1R	Hodgkin Disease	0.7352943485086343
+CDK19	Carcinoma, Non-Small-Cell Lung	0.7352783736457766
+GRK4	Lung Neoplasms	0.7352681982305476
+PTK2	Lung Neoplasms	0.735193992750485
+EPHA7	Lung Neoplasms	0.735126845637584
+BRAF	Leukemia, Experimental	0.735
+KDR	Spinal Neoplasms	0.735
+DDR2	Lung Neoplasms	0.735
+SYK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.735
+PRKACB	Carcinoma, Non-Small-Cell Lung	0.735
+IRAK2	Carcinoma, Non-Small-Cell Lung	0.735
+AKT1	Carcinoma, Hepatocellular	0.735
+PIK3CA	Adenoma, Sweat Gland	0.735
+PIK3CA	Nonodontogenic Cysts	0.735
+PTK2	Leukemia, Myeloid	0.735
+PDGFRB	Mixed Tumor, Malignant	0.735
+JAK2	Neoplasm Metastasis	0.735
+MAPK6	Carcinoma, Non-Small-Cell Lung	0.735
+KSR1	Carcinoma, Non-Small-Cell Lung	0.7320111507582516
+CILK1	Lung Neoplasms	0.7314554170661554
+CASK	Lung Neoplasms	0.7314554170661554
+CLK1	Lung Neoplasms	0.731439722186823
+IGF1R	Breast Neoplasms	0.7308603697111888
+BMPR2	Lung Neoplasms	0.7308591484135896
+BRAF	Carcinoma, Squamous Cell	0.7307171935768635
+PDGFRA	Neoplasms, Second Primary	0.730702597912015
+SRC	Colorectal Neoplasms	0.7307025862068965
+PHKG1	Lymphoma	0.730344827586207
+JAK2	Stomach Neoplasms	0.7302941176470589
+STK11	Carcinoma, Non-Small-Cell Lung	0.730194979117417
+SIK1	Lung Neoplasms	0.7300465413996833
+FRK	Neoplasm Metastasis	0.7300144927536232
+ERBB3	Lymphoma, T-Cell	0.73
+MTOR	Carcinoma, Brown-Pearce	0.73
+ACVR1	Carcinoma, Non-Small-Cell Lung	0.73
+CDC42BPA	Carcinoma, Non-Small-Cell Lung	0.73
+INSR	Leukemia	0.73
+PDGFRA	Spinal Neoplasms	0.73
+ABL1	Lymphatic Vessel Tumors	0.73
+ABL1	Nevi and Melanomas	0.73
+NEK6	Carcinoma, Non-Small-Cell Lung	0.73
+JAK2	Adenoma, Sweat Gland	0.73
+AMHR2	Lung Neoplasms	0.7264285714285714
+FGFR3	Carcinoma, Squamous Cell	0.7256104155220542
+PIK3CA	ACTH Syndrome, Ectopic	0.7250927835051547
+MERTK	Leukemia	0.7250891410048622
+MAP3K12	Carcinoma, Non-Small-Cell Lung	0.7250667063138071
+DAPK2	Carcinoma, Non-Small-Cell Lung	0.7250111507582515
+BCR	Stomach Neoplasms	0.7250097847358121
+BCR	Thyroid Neoplasms	0.7250047915668424
+BMPR2	Carcinoma, Non-Small-Cell Lung	0.725
+BRAF	Lymphatic Vessel Tumors	0.725
+TIE1	Leukemia, Myeloid	0.725
+TIE1	Lung Neoplasms	0.725
+STK32C	Neoplasm Metastasis	0.725
+MTOR	Adenoma, Sweat Gland	0.725
+FRK	Carcinoma, Non-Small-Cell Lung	0.725
+EPHB2	Leukemia, Myeloid	0.725
+EPHA4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.725
+JAK1	Adenoma, Sweat Gland	0.725
+EPHB4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.725
+ABL1	Adenoma, Sweat Gland	0.725
+HIPK3	Carcinoma, Non-Small-Cell Lung	0.725
+PKN1	Carcinoma, Non-Small-Cell Lung	0.725
+INSR	Colorectal Neoplasms	0.7242997635276116
+NPR1	Carcinoma, Non-Small-Cell Lung	0.7216666666666666
+TAF1	Lung Neoplasms	0.7214285714285714
+FGFR1	Adenocarcinoma	0.7211527009222661
+MAP2K7	Glioblastoma	0.7207871794871795
+PRKACG	Lymphoma	0.720344827586207
+NTRK3	Carcinoma	0.720268595481671
+PIM2	Leukemia	0.7202411435615411
+ACVR2A	Lung Neoplasms	0.7200872713817529
+BCR	Breast Neoplasms	0.7200537634408601
+TGFBR1	Carcinoma, Hepatocellular	0.72
+FLT3	Esophageal Squamous Cell Carcinoma	0.72
+ERBB3	Testicular Neoplasms	0.72
+CSNK1E	Carcinoma, Non-Small-Cell Lung	0.72
+TIE1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.72
+KIT	Dentigerous Cyst	0.72
+KALRN	Carcinoma, Non-Small-Cell Lung	0.72
+EPHA4	Carcinoma, Non-Small-Cell Lung	0.72
+RIPK4	Carcinoma, Non-Small-Cell Lung	0.72
+PIK3CA	Neoplasms, Complex and Mixed	0.72
+PIK3CA	Neoplasms, Fibrous Tissue	0.72
+TNK2	Leukemia	0.72
+MAP2K7	Adenoma, Sweat Gland	0.72
+SRMS	Lung Neoplasms	0.72
+ABL1	ACTH Syndrome, Ectopic	0.72
+JAK2	Adenoma, Islet Cell	0.72
+JAK2	Neoplasms, Fibrous Tissue	0.72
+CAMKV	Lymphoma	0.72
+FGFR1	Leukemia, Myeloid, Acute	0.72
+OBSCN	Lung Neoplasms	0.7164285714285714
+FGFR1	Neoplasms, Second Primary	0.7155050604608306
+AKT2	Carcinoma, Hepatocellular	0.7154545454545455
+DCLK2	Lymphoma	0.715344827586207
+STK40	Lymphoma	0.715344827586207
+PTK6	Lung Neoplasms	0.7152023022798776
+IGF1R	Liver Neoplasms	0.7151594928981925
+IGF1R	Esophageal Neoplasms	0.7151572327044025
+FGFR2	Leukemia, Myeloid	0.7151228070175438
+PIK3CA	Nevi and Melanomas	0.7150671140939597
+PIM1	Carcinoma, Non-Small-Cell Lung	0.7150245468277946
+TYRO3	Leukemia	0.715
+SRPK2	Carcinoma, Non-Small-Cell Lung	0.715
+PKDCC	Carcinoma, Non-Small-Cell Lung	0.715
+ALK	Nonodontogenic Cysts	0.715
+MTOR	Neoplasms, Complex and Mixed	0.715
+EPHA1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.715
+FYN	Leukemia, Myeloid	0.715
+MAP2K7	Glioma	0.715
+SRPK3	Neoplasm Metastasis	0.715
+PDGFRA	Dentigerous Cyst	0.715
+ABL1	Spinal Neoplasms	0.715
+SRC	Carcinoma	0.7149099251419778
+CDK10	Lung Neoplasms	0.71146829813099
+TSSK3	Lymphoma	0.710344827586207
+FLT1	Esophageal Neoplasms	0.7103125
+ABL1	Otorhinolaryngologic Neoplasms	0.7102325581395348
+CDK12	Lung Neoplasms	0.7101326909841706
+SGK3	Lung Neoplasms	0.710126845637584
+KDR	Mixed Tumor, Malignant	0.7100457326475665
+DCAF1	Carcinoma, Non-Small-Cell Lung	0.7100111507582515
+FLT3	Neoplasms, Complex and Mixed	0.71
+CDK16	Carcinoma, Non-Small-Cell Lung	0.71
+ERBB3	Leukemia, Promyelocytic, Acute	0.71
+KIT	Neoplasms, Glandular and Epithelial	0.71
+ALK	Mesenteric Cyst	0.71
+PIK3CA	Spinal Neoplasms	0.71
+DYRK1B	Lung Neoplasms	0.71
+NTRK1	Adenoma, Sweat Gland	0.71
+ATP23	Lung Neoplasms	0.71
+CSF1R	Adenocarcinoma of Lung	0.71
+FGFR2	Adenoma, Sweat Gland	0.71
+ABL1	Nonodontogenic Cysts	0.71
+ABL1	Neoplasms, Bone Tissue	0.71
+JAK2	Dentigerous Cyst	0.71
+WNK2	Carcinoma, Non-Small-Cell Lung	0.7070000000000001
+MAP3K2	Lung Neoplasms	0.7067023809523809
+FGFR1	Carcinoma, Neuroendocrine	0.7059698202263911
+PIM1	Lung Neoplasms	0.7058912525124573
+PAK1	Carcinoma, Non-Small-Cell Lung	0.7057349468713104
+FGFR2	Carcinoma, Squamous Cell	0.7053357819455479
+EPHB2	Neoplasm Metastasis	0.7052152383527078
+ACVR1	Lung Neoplasms	0.7050555555555555
+PTK2	Carcinoma, Hepatocellular	0.7050374732334046
+NEK6	Lung Neoplasms	0.705037037037037
+CDKL1	Carcinoma, Non-Small-Cell Lung	0.7050111507582515
+NUAK2	Carcinoma, Non-Small-Cell Lung	0.705
+ADCK1	Neoplasm Metastasis	0.705
+FASTKD1	Neoplasm Metastasis	0.705
+FGFR3	Adenoma, Sweat Gland	0.705
+TTN	Lung Neoplasms	0.705
+PRKX	Carcinoma, Non-Small-Cell Lung	0.705
+BMPR1B	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.705
+CILK1	Neoplasm Metastasis	0.705
+PDGFRB	Spinal Neoplasms	0.705
+NEK5	Neoplasm Metastasis	0.705
+SIK2	Carcinoma, Non-Small-Cell Lung	0.705
+ABL1	Hydatidiform Mole, Invasive	0.705
+ABL1	Leukemia, Experimental	0.705
+ABL1	Trophoblastic Tumor, Placental Site	0.705
+RPS6KA4	Carcinoma, Non-Small-Cell Lung	0.705
+STK38	Carcinoma, Non-Small-Cell Lung	0.705
+DYRK2	Carcinoma, Non-Small-Cell Lung	0.7019742288705285
+FLT1	Colorectal Neoplasms	0.7002400491595308
+BRD4	Carcinoma, Non-Small-Cell Lung	0.700179825850283
+EPHB1	Lung Neoplasms	0.7001000000000001
+MAP4K4	Leukemia	0.7000891410048622
+NTRK2	Carcinoma	0.7000617012974344
+GRK4	Leukemia	0.7000287356321838
+PEAK1	Carcinoma, Non-Small-Cell Lung	0.7000111507582516
+FLT3	Cecal Neoplasms	0.7
+ULK2	Carcinoma, Non-Small-Cell Lung	0.7
+ALK	Adenoma, Islet Cell	0.7
+TEK	Adenoma, Sweat Gland	0.7
+SRC	Carcinoma, Hepatocellular	0.7
+BTK	Carcinoma, Hepatocellular	0.7
+PDK3	Carcinoma, Non-Small-Cell Lung	0.7
+MYO3A	Neoplasm Metastasis	0.7
+NTRK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.7
+MAP2K7	Adenoma, Islet Cell	0.7
+MET	Lymphoma, T-Cell	0.7
+PHKG2	Neoplasm Metastasis	0.7
+PRKCA	Carcinoma, Hepatocellular	0.7
+CSF1R	Esophageal Neoplasms	0.7
+CAMKV	Lung Neoplasms	0.7
+GRK2	Carcinoma, Non-Small-Cell Lung	0.6986666666666668
+ABL1	Genital Neoplasms, Female	0.6952325581395349
+NTRK1	Adenocarcinoma of Lung	0.6952076776364351
+KSR1	Lung Neoplasms	0.6951782572258804
+EPHB4	Leukemia, Myeloid	0.6951632611786752
+PIK3CA	Trophoblastic Tumor, Placental Site	0.6951598975991143
+AKT3	Carcinoma, Non-Small-Cell Lung	0.6951221611968461
+CDK8	Carcinoma, Non-Small-Cell Lung	0.695043213828425
+PTK2	Lymphoma	0.6950357142857143
+NUAK1	Lung Neoplasms	0.6950128810648347
+LIMK2	Carcinoma, Non-Small-Cell Lung	0.6950111507582516
+PDK1	Carcinoma, Non-Small-Cell Lung	0.695
+PKDCC	Lung Neoplasms	0.695
+AKT1	Adenoma, Sweat Gland	0.695
+PIK3CA	Mesenteric Cyst	0.695
+PIK3CA	Neoplasms, Muscle Tissue	0.695
+TESK2	Neoplasm Metastasis	0.695
+MAP2K7	Carcinoma, Non-Small-Cell Lung	0.695
+MAP2K7	Neoplasms, Fibrous Tissue	0.695
+TGFBR2	Leukemia	0.695
+AXL	Carcinoma, Hepatocellular	0.695
+AXL	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.695
+ABL1	Sarcoma 37	0.695
+ABL1	Neoplasms, Adipose Tissue	0.695
+TNIK	Carcinoma, Non-Small-Cell Lung	0.695
+FGFR1	Adenocarcinoma of Lung	0.695
+ERBB4	Liver Neoplasms	0.6917894736842105
+PAK6	Carcinoma, Non-Small-Cell Lung	0.6916790736145575
+BCR	Neuroendocrine Tumors	0.6905203697363916
+IGF1R	Testicular Neoplasms	0.6904350265197877
+MYLK3	Lung Neoplasms	0.6903444840915849
+FGFR3	Lymphoma, T-Cell	0.6902394601318774
+BCR	Leukemia	0.6902238903290778
+PTK2B	Carcinoma, Non-Small-Cell Lung	0.6902144202455162
+MKNK2	Carcinoma, Non-Small-Cell Lung	0.6901612903225807
+PDGFRA	Carcinoma, Bronchogenic	0.6901553421998236
+EPHA2	Carcinoma, Hepatocellular	0.6901478322883547
+ACVR1B	Lung Neoplasms	0.690136612021858
+ERBB3	Esophageal Squamous Cell Carcinoma	0.6901236263736262
+PRKCB	Carcinoma, Non-Small-Cell Lung	0.6901029149200434
+GRK7	Lung Neoplasms	0.6900370370370371
+TYRO3	Lung Neoplasms	0.690011911852293
+KDR	Neoplasms, Muscle Tissue	0.69
+EPHA2	Leukemia, Myeloid	0.69
+DCLK2	Carcinoma, Non-Small-Cell Lung	0.69
+LCK	Leukemia, Myeloid, Acute	0.69
+SYK	Carcinoma, Hepatocellular	0.69
+CCL3	Carcinoma, Non-Small-Cell Lung	0.69
+MERTK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.69
+NEK5	Lymphoma	0.69
+MET	Lymphoma, B-Cell	0.69
+MAPKAPK5	Carcinoma, Non-Small-Cell Lung	0.69
+NEK1	Lung Neoplasms	0.69
+PKMYT1	Carcinoma, Non-Small-Cell Lung	0.69
+MAST3	Lymphoma	0.69
+JAK2	Neoplasms, Muscle Tissue	0.69
+JAK2	Nonodontogenic Cysts	0.69
+BCR	Digestive System Neoplasms	0.69
+BCR	Neoplasms, Fibrous Tissue	0.69
+PTK7	Leukemia, Myeloid	0.69
+MAPK4	Carcinoma, Non-Small-Cell Lung	0.69
+CAMKV	Carcinoma, Non-Small-Cell Lung	0.69
+FGFR1	Adenoma, Sweat Gland	0.69
+SRC	Lymphoma	0.6891666666666667
+CDK14	Carcinoma, Non-Small-Cell Lung	0.6866666666666665
+EPHA5	Lung Neoplasms	0.6864554170661553
+AXL	Leukemia, Lymphoid	0.6858534402165034
+PDGFRA	Neoplasms	0.6855952380952381
+FGFR3	Lymphoma, B-Cell	0.6852379782660936
+NTRK1	Carcinoma, Squamous Cell	0.6852121498912854
+CDK2	Lung Neoplasms	0.685142857142857
+RPS6KB1	Carcinoma, Non-Small-Cell Lung	0.6851195219123505
+ITK	Carcinoma, Non-Small-Cell Lung	0.6850685943271954
+PTK6	Carcinoma, Non-Small-Cell Lung	0.6850326909841706
+VRK2	Carcinoma, Non-Small-Cell Lung	0.6850124069478909
+LTK	Neoplasm Metastasis	0.6850115919629057
+MAP3K2	Carcinoma, Non-Small-Cell Lung	0.6850111507582516
+BRAF	Histiocytoma	0.685
+ERBB3	Burkitt Lymphoma	0.685
+KIT	Otorhinolaryngologic Neoplasms	0.685
+STK32B	Carcinoma, Non-Small-Cell Lung	0.685
+STK35	Neoplasm Metastasis	0.685
+ACVRL1	Carcinoma, Hepatocellular	0.685
+JAK3	Adenoma, Sweat Gland	0.685
+IGF1R	Leukemia, Lymphoid	0.685
+TRPM6	Lung Neoplasms	0.685
+ABL1	Lymphocele	0.685
+ABL1	Neoplasms, Complex and Mixed	0.685
+ABL1	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.685
+PDK2	Lung Neoplasms	0.685
+JAK2	Spinal Neoplasms	0.685
+BCR	Carcinoma, Squamous Cell	0.685
+BCR	Adenoma, Sweat Gland	0.685
+PRKCH	Lung Neoplasms	0.6838568981377278
+BCR	Lymphoma, Non-Hodgkin	0.6821
+GRK2	Lung Neoplasms	0.6810121583244618
+ITK	Lung Neoplasms	0.6802820345749248
+PTK6	Leukemia	0.6802496348320227
+ALPK1	Carcinoma, Non-Small-Cell Lung	0.6801612903225807
+EPHA8	Leukemia	0.6801323548332874
+BCR	Neoplasm Metastasis	0.6801236263736263
+TEC	Leukemia	0.6800891410048622
+CCL8	Neoplasm Metastasis	0.6800777202072539
+EGFR	Adenoma, Sweat Gland	0.68
+EGFR	Neoplasms	0.68
+HIPK1	Carcinoma, Non-Small-Cell Lung	0.68
+KIT	Periodontal Cyst	0.68
+SRC	Adenoma, Sweat Gland	0.68
+PIK3CA	Neuroectodermal Tumors, Primitive, Peripheral	0.68
+TNK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.68
+NTRK1	Leukemia, Myeloid	0.68
+MAPKAPK3	Carcinoma, Non-Small-Cell Lung	0.68
+IGF1R	Leukemia, Myeloid, Acute	0.68
+PTK7	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.68
+ZAP70	Lymphoma	0.68
+FGFR1	Leukemia, Promyelocytic, Acute	0.68
+PIK3CD	Adenoma, Sweat Gland	0.68
+RPS6KB1	Carcinoma, Hepatocellular	0.6791228070175438
+NPR1	Neoplasm Metastasis	0.6759999999999999
+PRKCA	Lung Neoplasms	0.6755894736842106
+MAP2K7	Melanoma	0.6755138757854483
+NPR1	Lung Neoplasms	0.675272544283414
+BMPR1A	Lung Neoplasms	0.675203318335665
+AURKA	Carcinoma, Hepatocellular	0.6751851851851852
+MARK3	Carcinoma, Non-Small-Cell Lung	0.6751612903225807
+PKN1	Lung Neoplasms	0.6751585614637813
+EPHB3	Lung Neoplasms	0.6751576994434138
+PDPK1	Lung Neoplasms	0.6751051547522866
+ROR2	Leukemia, Myeloid	0.6750891410048623
+PTK2	Colorectal Neoplasms	0.6750775862068966
+IRAK2	Lung Neoplasms	0.6750484050435204
+FER	Neoplasm Metastasis	0.6750352609308885
+EPHA1	Lung Neoplasms	0.6750326909841706
+FLT3	Carcinoma, Brown-Pearce	0.675
+MST1R	Leukemia	0.675
+CSNK1D	Carcinoma, Non-Small-Cell Lung	0.675
+PRKACA	Carcinoma, Non-Small-Cell Lung	0.675
+TIE1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.675
+KIT	Cecal Neoplasms	0.675
+CLK2	Neoplasm Metastasis	0.675
+NEK8	Carcinoma, Non-Small-Cell Lung	0.675
+BMPR1B	Lymphoma	0.675
+TRIM24	Neoplasm Metastasis	0.675
+PIK3CA	Palatal Neoplasms	0.675
+BMPR1A	Carcinoma, Non-Small-Cell Lung	0.675
+ERBB2	Adenoma, Sweat Gland	0.675
+INSR	Carcinoma, Squamous Cell	0.675
+INSR	Lymphoma, B-Cell	0.675
+FGFR2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.675
+RPS6KB1	Adenoma, Sweat Gland	0.675
+PDGFRA	Testicular Neoplasms	0.675
+LMTK2	Carcinoma, Non-Small-Cell Lung	0.675
+JAK2	Mesenteric Cyst	0.675
+TNNI3K	Neoplasm Metastasis	0.675
+CIT	Neoplasm Metastasis	0.675
+CAMKV	Neoplasm Metastasis	0.675
+EIF2AK1	Lung Neoplasms	0.6719361029635302
+MUSK	Carcinoma, Non-Small-Cell Lung	0.6719021739130434
+PRKCB	Lung Neoplasms	0.6717402230727094
+AKT3	Lung Neoplasms	0.6706610970745344
+PRKCB	Lymphoma	0.6704834600225087
+EPHA1	Leukemia	0.6702152383527078
+MAPK13	Lung Neoplasms	0.6701688502016653
+PRKCZ	Carcinoma, Non-Small-Cell Lung	0.670078947368421
+TTK	Carcinoma, Non-Small-Cell Lung	0.67006387498545
+CDK14	Lung Neoplasms	0.6700499181018718
+EPHA5	Neoplasm Metastasis	0.6700144927536232
+PAK5	Carcinoma, Non-Small-Cell Lung	0.6700124069478909
+CDK16	Neoplasm Metastasis	0.67
+KIT	Leukemia, Experimental	0.67
+KIT	Neoplasms, Basal Cell	0.67
+CDKL1	Lung Neoplasms	0.67
+NTRK3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.67
+MTOR	Palatal Neoplasms	0.67
+ACVR2B	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.67
+INSRR	Carcinoma, Non-Small-Cell Lung	0.67
+TAF1	Neoplasm Metastasis	0.67
+MARK3	Neoplasm Metastasis	0.67
+MET	Adenoma, Sweat Gland	0.67
+IGF1R	Adenoma, Sweat Gland	0.67
+AXL	Leukemia, Myeloid	0.67
+SRPK3	Lung Neoplasms	0.67
+PDGFRA	Carcinogenesis	0.67
+FGFR1	Neoplasms, Fibrous Tissue	0.67
+ERBB2	Mesothelioma	0.668367816091954
+PIM3	Carcinoma, Non-Small-Cell Lung	0.6671943785578748
+ROR2	Carcinoma, Non-Small-Cell Lung	0.6670618795422558
+FGFR2	Adenocarcinoma	0.6665369695627987
+AKT2	Lung Neoplasms	0.6664525817985285
+TGFBR1	Carcinoma	0.6660568510881011
+ILK	Lung Neoplasms	0.6659756920818124
+KDR	Colonic Neoplasms	0.6657425213675213
+MET	Laryngeal Neoplasms	0.6655555555555556
+MAPK13	Leukemia	0.6651604938271605
+CDK20	Carcinoma, Non-Small-Cell Lung	0.665078947368421
+IKBKE	Leukemia	0.6650716633305589
+JAK2	Sarcoma 37	0.6650653594771242
+KIT	Mouth Neoplasms	0.665041881443299
+NLK	Lung Neoplasms	0.6650326909841706
+TXK	Carcinoma, Hepatocellular	0.665026845637584
+ACVRL1	Carcinoma	0.665023166023166
+CAMK1G	Lung Neoplasms	0.6650030450669914
+MST1R	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.665
+BRAF	Carcinoma, Krebs 2	0.665
+GRK3	Leukemia	0.665
+KIT	Cell Transformation, Viral	0.665
+CLK2	Lung Neoplasms	0.665
+CDK13	Carcinoma, Non-Small-Cell Lung	0.665
+ANKK1	Lung Neoplasms	0.665
+ACVR1	Leukemia	0.665
+AKT1	Adenoma, Islet Cell	0.665
+AKT1	Neoplasms, Fibrous Tissue	0.665
+DYRK4	Lymphoma	0.665
+TNK2	Carcinoma, Non-Small-Cell Lung	0.665
+LRRK1	Carcinoma, Non-Small-Cell Lung	0.665
+GSK3B	Adenoma, Sweat Gland	0.665
+CSNK1G1	Lymphoma	0.665
+PRKG2	Neoplasm Metastasis	0.665
+ALPK3	Carcinoma, Non-Small-Cell Lung	0.665
+CDK11B	Neoplasm Metastasis	0.665
+NEK7	Carcinoma, Non-Small-Cell Lung	0.665
+JAK2	Palatal Neoplasms	0.665
+CDC42BPG	Lung Neoplasms	0.665
+ERBB2	Lymphoma, B-Cell	0.6619090909090909
+MARK4	Lung Neoplasms	0.6614682981309901
+PDIK1L	Lung Neoplasms	0.6614682981309901
+FAM20C	Lung Neoplasms	0.6614285714285714
+ABL1	Neoplasm Seeding	0.6607881136950905
+YES1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.6606164383561643
+PAK1	Lung Neoplasms	0.6604911678917279
+PTK2	Neoplasm Metastasis	0.6603704764811897
+NTRK2	Carcinoma, Squamous Cell	0.6603252976801659
+IGF1R	Urinary Bladder Neoplasms	0.6603161787746284
+KIT	Neoplasms	0.66025
+ERBB3	Colonic Neoplasms	0.6601367942664647
+PRKCH	Carcinoma, Non-Small-Cell Lung	0.6600913543163119
+TGFBR1	Leukemia	0.6600891410048623
+CSK	Leukemia	0.660043213828425
+CDC42BPA	Lung Neoplasms	0.6600128810648347
+FGFR3	Carcinogenesis	0.66
+MAP2K2	Adenoma, Sweat Gland	0.66
+DCLK2	Lung Neoplasms	0.66
+MAP2K7	Adenocarcinoma	0.66
+IGF1R	Leukemia, Lymphocytic, Chronic, B-Cell	0.66
+FGFR2	Leukemia, Promyelocytic, Acute	0.66
+ABL1	Cecal Neoplasms	0.66
+JAK2	Carcinoma, Brown-Pearce	0.66
+JAK2	Lymphocele	0.66
+ROR2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.66
+BCR	Urinary Bladder Neoplasms	0.66
+BCR	Mesenteric Cyst	0.66
+ZAP70	Adenocarcinoma	0.66
+TYRO3	Lymphoma	0.6594
+ILK	Carcinoma, Non-Small-Cell Lung	0.6579439618306315
+NTRK1	Breast Neoplasms	0.65743849536141
+NLK	Carcinoma, Non-Small-Cell Lung	0.6571612903225806
+AXL	Neoplasm Metastasis	0.6565771073204075
+CSNK1A1	Lung Neoplasms	0.6564414524934062
+IGF1R	Gastrointestinal Stromal Tumors	0.655706166580201
+PIK3CD	Neoplasm Metastasis	0.6556000000000001
+PRKCI	Lung Neoplasms	0.6553993315327414
+PAK1	Leukemia	0.6552653815977627
+ILK	Leukemia	0.6552004465328277
+ERBB3	Mouth Neoplasms	0.6551991141477015
+SMG1	Lung Neoplasms	0.6551771548436308
+TYRO3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.6551522885114216
+RPS6KA6	Neoplasm Metastasis	0.6550777202072539
+BTK	Neoplasm Metastasis	0.6550379403794038
+AXL	Lymphoma	0.6550357142857144
+FLT3	Palatal Neoplasms	0.655
+BRAF	Nevus of Ota	0.655
+SBK1	Lymphoma	0.655
+KIT	Neoplasms, Complex and Mixed	0.655
+ALK	Spinal Neoplasms	0.655
+EPHB2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.655
+DCLK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.655
+PAK5	Neoplasm Metastasis	0.655
+ATP23	Carcinoma, Non-Small-Cell Lung	0.655
+MAP4K1	Carcinoma, Non-Small-Cell Lung	0.655
+MAP3K9	Neoplasm Metastasis	0.655
+TAF1L	Lymphoma	0.655
+NPRL2	Carcinoma, Non-Small-Cell Lung	0.655
+ABL1	Carcinoma, Brown-Pearce	0.655
+ABL1	Mesenteric Cyst	0.655
+ABL1	Periodontal Cyst	0.655
+PRKCQ	Leukemia	0.655
+JAK2	Neuroectodermal Tumors, Primitive	0.655
+FGFR4	Neoplasm Metastasis	0.655
+ZAP70	Neoplasm Metastasis	0.655
+PIM1	Lymphoma	0.6528699923605414
+PDPK1	Carcinoma, Non-Small-Cell Lung	0.6517210312533434
+FGFR3	Leukemia, Lymphoid	0.6512059799256597
+PIK3CA	Carcinoma, Bronchogenic	0.65085
+ABL1	Carcinoma, Small Cell	0.6507759867267608
+FGFR1	Digestive System Neoplasms	0.6507745108833138
+PTK2	Carcinoma, Non-Small-Cell Lung	0.6506350657452731
+PRKCA	Carcinoma, Non-Small-Cell Lung	0.6503026030231112
+OBSCN	Neoplasm Metastasis	0.6501802212610687
+MAP3K3	Lung Neoplasms	0.6501576994434137
+FGFR3	Liver Neoplasms	0.6500746823598936
+PAK3	Lung Neoplasms	0.6500684931506849
+FYN	Lung Neoplasms	0.6500649350649351
+CAMK1	Lung Neoplasms	0.6500481877952886
+CDKL2	Leukemia	0.650043213828425
+TGFBR2	Stomach Neoplasms	0.6500239675516224
+PDK1	Neoplasm Metastasis	0.65
+ERBB3	Nasopharyngeal Carcinoma	0.65
+NEK9	Carcinoma, Non-Small-Cell Lung	0.65
+EPHA2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.65
+KIT	Meigs Syndrome	0.65
+FRK	Lung Neoplasms	0.65
+BMPR1A	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.65
+AVP	Lung Neoplasms	0.65
+PTK2	Adenoma, Sweat Gland	0.65
+MAP2K1	Adenoma, Sweat Gland	0.65
+FLT4	Adenoma, Sweat Gland	0.65
+ACVRL1	Adenoma, Sweat Gland	0.65
+TGFBR2	Neoplasm Metastasis	0.65
+MATK	Neoplasm Metastasis	0.65
+ALPK3	Lung Neoplasms	0.65
+ERBB4	Adenoma, Sweat Gland	0.65
+LMTK3	Neoplasm Metastasis	0.65
+FGFR2	Lymphoma, B-Cell	0.65
+CASK	Neoplasm Metastasis	0.65
+PDGFRA	Burkitt Lymphoma	0.65
+PDGFRA	Neuroectodermal Tumors, Primitive	0.65
+MAPK15	Carcinoma, Non-Small-Cell Lung	0.65
+ABL1	Facial Neoplasms	0.65
+ABL1	Palatal Neoplasms	0.65
+BRSK2	Carcinoma, Non-Small-Cell Lung	0.65
+JAK2	Cecal Neoplasms	0.65
+JAK2	Esophageal Neoplasms	0.65
+TNNI3K	Carcinoma, Non-Small-Cell Lung	0.65
+BCR	Spinal Neoplasms	0.65
+FGFR1	Hodgkin Disease	0.65
+TEC	Lymphoma	0.6494176056338028
+ERBB4	Lymphoma, T-Cell	0.6483333333333334
+CDKL2	Carcinoma, Non-Small-Cell Lung	0.6472098804950918
+BRAF	Adenocarcinoma of Lung	0.6469657748715508
+FLT1	Mesothelioma	0.6464285714285714
+FLT1	Neoplasms, Second Primary	0.6462153802303018
+PIK3CA	Meningeal Carcinomatosis	0.6459951507164027
+PRKCE	Carcinoma, Non-Small-Cell Lung	0.6459561403508772
+FGFR4	Leukemia	0.6457142857142857
+MAP2K7	Colorectal Neoplasms	0.645708029653155
+POMK	Lymphoma	0.6453448275862069
+YES1	Carcinoma, Non-Small-Cell Lung	0.6452756597145566
+CCL5	Carcinoma, Non-Small-Cell Lung	0.6452355072463769
+AURKA	Carcinoma, Non-Small-Cell Lung	0.6451955603266633
+NME2	Carcinoma, Non-Small-Cell Lung	0.6451221611968461
+PRKCD	Leukemia	0.6450864779874215
+PRKCQ	Lung Neoplasms	0.6450791551806841
+SYK	Leukemia, Myeloid	0.6450585124624564
+TRIO	Carcinoma, Non-Small-Cell Lung	0.6450566459414364
+RPS6KA3	Carcinoma, Non-Small-Cell Lung	0.6450543645866768
+BRAF	Neoplasms, Bone Tissue	0.645
+NEK9	Neoplasm Metastasis	0.645
+EPHA2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.645
+EPHA1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.645
+PRKACB	Lung Neoplasms	0.645
+EPHA4	Leukemia, Myeloid	0.645
+PDGFRB	Dentigerous Cyst	0.645
+CDKN1A	Carcinoma, Hepatocellular	0.645
+STK32B	Lung Neoplasms	0.645
+INSR	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.645
+EPHB4	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.645
+STK17B	Neoplasm Metastasis	0.645
+ABL1	Adenoma, Islet Cell	0.645
+BCR	Adenocarcinoma of Lung	0.645
+BCR	Head and Neck Neoplasms	0.645
+BCR	Neoplasms, Muscle Tissue	0.645
+FGFR4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.645
+YES1	Lymphoma	0.6419021739130435
+CDK3	Carcinoma, Non-Small-Cell Lung	0.6416790736145574
+MOK	Lung Neoplasms	0.6414554170661555
+CDK8	Lung Neoplasms	0.6406734351470961
+ABL1	Neoplasms, Glandular and Epithelial	0.6402325581395348
+CLK1	Carcinoma, Non-Small-Cell Lung	0.6402222874429826
+PRKCD	Carcinoma, Non-Small-Cell Lung	0.640200839487806
+PDGFRA	Melanoma	0.6401821336450852
+ERBB3	Head and Neck Neoplasms	0.6401098901098902
+FLT3	Carcinoma, Bronchogenic	0.6400847457627118
+RET	Carcinogenesis	0.6400543478260868
+IKBKB	Leukemia	0.6400432138284251
+PTK2B	Colorectal Neoplasms	0.6400431034482759
+KIT	Adenoma	0.6400142993326977
+FLT3	Neoplasms	0.6400141520112286
+MST1R	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.64
+ERBB3	Adenoma, Sweat Gland	0.64
+TEK	Testicular Neoplasms	0.64
+RAF1	Adenoma, Sweat Gland	0.64
+ITK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.64
+EPHB2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.64
+PTK2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.64
+STK32B	Carcinoma	0.64
+NTRK2	Leukemia, Myeloid	0.64
+MAPKAPK3	Lung Neoplasms	0.64
+SRMS	Neoplasm Metastasis	0.64
+EPHA7	Neoplasm Metastasis	0.64
+TSSK3	Lung Neoplasms	0.64
+ABL1	Dentigerous Cyst	0.64
+AURKB	Carcinoma, Hepatocellular	0.64
+ZAP70	Carcinoma, Hepatocellular	0.64
+MAP2K7	Lymphoma	0.6391666666666667
+MAP2K7	Astrocytoma	0.639021052631579
+AXL	Adenocarcinoma	0.6380432054763316
+EPHA1	Carcinoma, Non-Small-Cell Lung	0.6370555555555556
+FLT1	Laryngeal Neoplasms	0.6365010351966874
+PDGFRA	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.6358746883316472
+MAP4K4	Lung Neoplasms	0.6354176913172401
+MET	Liver Neoplasms	0.6353856795818498
+ERBB4	Leukemia, Promyelocytic, Acute	0.6353846153846154
+FGFR3	Laryngeal Neoplasms	0.6353734567901235
+JAK2	Liver Neoplasms	0.635328947368421
+ABL1	Neoplasms, Basal Cell	0.6352325581395349
+NTRK1	Adenocarcinoma	0.6352168466996956
+PRKCZ	Leukemia	0.6352004465328277
+FYN	Carcinoma, Non-Small-Cell Lung	0.635145172533984
+CDK7	Carcinoma, Non-Small-Cell Lung	0.6351428571428571
+JAK3	Carcinoma, Hepatocellular	0.6351211852602254
+MAPKAPK5	Lung Neoplasms	0.6351
+CAMK4	Leukemia	0.6350891410048622
+TEK	Carcinoma, Squamous Cell	0.635064163787848
+TGFBR2	Lymphoma	0.635044776119403
+SRC	Stomach Neoplasms	0.6350344827586207
+NTRK1	Leukemia, Myeloid, Acute	0.6350115919629057
+PIK3CA	Carcinogenesis	0.6350084745762712
+LCK	Leukemia, Promyelocytic, Acute	0.6350055617352615
+FLT3	Mixed Tumor, Malignant	0.635
+ERBB3	Neuroblastoma	0.635
+MTOR	Facial Neoplasms	0.635
+TEC	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.635
+CAMKK1	Carcinoma, Non-Small-Cell Lung	0.635
+TAOK1	Carcinoma, Non-Small-Cell Lung	0.635
+PIK3CA	Leukemia, Promyelocytic, Acute	0.635
+AVP	Lymphoma	0.635
+CDKN1A	Lung Neoplasms	0.635
+INSR	Urinary Bladder Neoplasms	0.635
+AXL	Adenoma, Sweat Gland	0.635
+NEK1	Neoplasm Metastasis	0.635
+PDGFRA	Cecal Neoplasms	0.635
+ACVR2A	Leukemia	0.635
+BCR	Nasopharyngeal Carcinoma	0.635
+BCR	Dentigerous Cyst	0.635
+BCR	Neuroectodermal Tumors, Primitive	0.635
+EPHB2	Lymphoma, Non-Hodgkin	0.6341666666666668
+MAP4K4	Carcinoma, Non-Small-Cell Lung	0.6336666666666667
+INSR	Small Cell Lung Carcinoma	0.6332911906241965
+EIF2AK1	Carcinoma, Non-Small-Cell Lung	0.6322888278635128
+PRKACA	Lung Neoplasms	0.6322704100175108
+OBSCN	Neoplasms, Second Primary	0.6316751412429378
+AMHR2	Gastrointestinal Stromal Tumors	0.6306676171116068
+PLK3	Carcinoma, Non-Small-Cell Lung	0.630627589114416
+ERBB3	Gallbladder Neoplasms	0.6302925611210495
+TNK2	Lung Neoplasms	0.6302672230725741
+FYN	Neoplasm Metastasis	0.6302355072463768
+AURKB	Carcinoma, Non-Small-Cell Lung	0.6302211725205665
+HCK	Lung Neoplasms	0.630182200668475
+KIT	Carcinoma, Bronchogenic	0.6301056338028169
+TEK	Adenocarcinoma of Lung	0.6301056338028169
+NUAK1	Neoplasm Metastasis	0.6300906344410876
+GRK6	Lung Neoplasms	0.6300684052698851
+CCL3	Lung Neoplasms	0.630056032885002
+FGFR3	Hodgkin Disease	0.630044776119403
+FLT3	Carcinoma, Pancreatic Ductal	0.6300431034482759
+PTK2B	Neoplasm Metastasis	0.6300201342281879
+MAP3K13	Lung Neoplasms	0.6300128810648347
+CAMK2A	Neoplasm Metastasis	0.63
+KIT	Spinal Neoplasms	0.63
+KIT	Neoplasms, Bone Tissue	0.63
+MAP3K3	Carcinoma, Non-Small-Cell Lung	0.63
+LYN	Neoplasm Metastasis	0.63
+ACVR1C	Neoplasm Metastasis	0.63
+PRKD1	Leukemia	0.63
+INSR	Esophageal Neoplasms	0.63
+TESK2	Carcinoma, Non-Small-Cell Lung	0.63
+NLK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.63
+AKT2	Neoplasm Metastasis	0.63
+CAMK1G	Neoplasm Metastasis	0.63
+PDGFRA	Neoplasms, Complex and Mixed	0.63
+NPRL2	Neoplasm Metastasis	0.63
+ABL1	Neoplasms, Muscle Tissue	0.63
+UHMK1	Carcinoma, Non-Small-Cell Lung	0.63
+LMTK2	Neoplasm Metastasis	0.63
+BCR	Adenoma, Islet Cell	0.63
+BCR	Palatal Neoplasms	0.63
+MAPK1	Adenoma, Sweat Gland	0.63
+MAPK6	Neoplasm Metastasis	0.63
+PTK2	Carcinoma	0.6299497505038982
+PRKCE	Neoplasm Metastasis	0.62768779342723
+PRKCB	Leukemia	0.6272628240034263
+FGFR1	Gastrointestinal Stromal Tumors	0.6266439272915677
+INSR	Carcinoma, Neuroendocrine	0.6265415383750984
+AMHR2	Neoplasms, Second Primary	0.6264302325581395
+EPHB2	Carcinoma	0.6261828967337048
+IGF1R	Carcinoma, Bronchogenic	0.6258688505059554
+RET	Lymphoma, Follicular	0.6256561778838556
+DDR2	Hematologic Neoplasms	0.6256466863900422
+GRK2	Leukemia	0.6255748997098338
+DMPK	Lung Neoplasms	0.6253658225832138
+MELK	Lung Neoplasms	0.6253291479174614
+CCL3	Leukemia	0.6252822124498529
+TAOK2	Leukemia	0.6251572327044026
+EPHA1	Leukemia, Myeloid	0.6251228070175439
+BCR	Liver Neoplasms	0.6251056338028169
+MAP3K3	Leukemia	0.6250891410048622
+BRAF	Leukemia, Promyelocytic, Acute	0.6250864779874213
+PAK6	Lung Neoplasms	0.6250455720490055
+GRK3	Carcinoma, Non-Small-Cell Lung	0.6250438417424222
+PAK2	Leukemia	0.6250432138284251
+GSK3B	Carcinoma, Non-Small-Cell Lung	0.625023386342376
+MAPKAPK3	Neoplasm Metastasis	0.6250115919629057
+KIT	Cocarcinogenesis	0.625
+KIT	Submandibular Gland Neoplasms	0.625
+KIT	Central Nervous System Neoplasms	0.625
+STK32C	Lung Neoplasms	0.625
+PRKCI	Neoplasm Metastasis	0.625
+PRKACB	Adenocarcinoma	0.625
+PRKACG	Lung Neoplasms	0.625
+AVP	Carcinoma, Hepatocellular	0.625
+WNK2	Neoplasm Metastasis	0.625
+PDGFRB	Carcinogenesis	0.625
+CDKN1A	Carcinoma, Non-Small-Cell Lung	0.625
+INSR	Lymphoma, T-Cell	0.625
+WNK3	Carcinoma, Non-Small-Cell Lung	0.625
+MAP2K7	Leukemia	0.625
+MAP2K7	Nonodontogenic Cysts	0.625
+PAN3	Lung Neoplasms	0.625
+MUSK	Adenocarcinoma	0.625
+CSF1R	Adenoma, Sweat Gland	0.625
+SRPK3	Carcinoma, Non-Small-Cell Lung	0.625
+JAK2	Neuroendocrine Tumors	0.625
+BCR	Carcinoma, Brown-Pearce	0.625
+ERBB4	Testicular Neoplasms	0.624187898089172
+PIK3CA	Burkitt Lymphoma	0.6223645010903076
+CAMK2B	Lung Neoplasms	0.6223490678598061
+FGFR3	Adenocarcinoma	0.6223432210342484
+STK11	Lung Neoplasms	0.6221391124155854
+GRK5	Lung Neoplasms	0.6214365260786027
+BRD4	Lung Neoplasms	0.620775782632157
+BCR	Pancreatic Neoplasms	0.620573428759012
+ABL1	Pregnancy Complications, Neoplastic	0.6204325581395349
+ERBB4	Sarcoma	0.6202899515738499
+MOK	Adenocarcinoma of Lung	0.6202864884867207
+PDGFRA	Esophageal Squamous Cell Carcinoma	0.6202337585322166
+MET	Esophageal Squamous Cell Carcinoma	0.6202229185073515
+ROS1	Carcinoma, Bronchogenic	0.6201819828031977
+PIK3CA	Neoplasms, Adipose Tissue	0.6201598975991144
+PIM3	Lung Neoplasms	0.6201576994434137
+ERBB3	Squamous Cell Carcinoma of Head and Neck	0.6201572327044026
+ABL1	Carcinoma, Bronchogenic	0.6201311475409836
+MAPK1	Lung Neoplasms	0.6201263157894737
+TAOK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.6200933845670688
+AXL	Carcinoma	0.6200482700519874
+MKNK2	Lung Neoplasms	0.6200446028364638
+MAP3K8	Leukemia	0.6200432138284251
+ERBB3	Urinary Bladder Neoplasms	0.620041881443299
+MAP3K12	Lung Neoplasms	0.6200397267024186
+EPHA4	Lung Neoplasms	0.620037037037037
+PRKCH	Neoplasm Metastasis	0.6200115919629057
+TGFBR1	Adenoma, Sweat Gland	0.62
+EGFR	Testicular Neoplasms	0.62
+ACVR1B	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.62
+KIT	Carcinoma, Brown-Pearce	0.62
+KIT	Carcinoma, Krebs 2	0.62
+MTOR	Sarcoma 37	0.62
+TXK	Adenoma, Sweat Gland	0.62
+MAPK13	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.62
+FLT1	Adenoma, Sweat Gland	0.62
+FLT1	Leukemia, Promyelocytic, Acute	0.62
+AKT1	Nonodontogenic Cysts	0.62
+EPHA4	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.62
+ERBB2	Carcinoma, Bronchogenic	0.62
+TNK2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.62
+PDGFRB	Meigs Syndrome	0.62
+PDGFRB	Neuroectodermal Tumors, Primitive	0.62
+PHKG2	Carcinoma, Non-Small-Cell Lung	0.62
+CCNK	Neoplasm Metastasis	0.62
+FGFR2	Esophageal Squamous Cell Carcinoma	0.62
+PDGFRA	Palatal Neoplasms	0.62
+JAK2	Carcinogenesis	0.62
+MASTL	Carcinoma, Non-Small-Cell Lung	0.62
+MAPK4	Neoplasm Metastasis	0.62
+AXL	Lymphoma, Non-Hodgkin	0.6191735019366598
+EPHB2	Lymphoma	0.6191666666666668
+MARK2	Carcinoma, Non-Small-Cell Lung	0.6187109056602123
+MAP3K8	Carcinoma, Non-Small-Cell Lung	0.6174983420335534
+ERBB3	Digestive System Neoplasms	0.6169600410357297
+MYLK	Lung Neoplasms	0.6161464749294269
+TTK	Lung Neoplasms	0.615911596509047
+CCL5	Carcinoma, Hepatocellular	0.6153458867844
+TSSK4	Lymphoma	0.6153448275862069
+PDGFRA	Mixed Tumor, Malignant	0.6152806122448979
+BCR	Colorectal Neoplasms	0.6152676094803838
+KIT	Klatskin Tumor	0.61525
+ABL1	Gestational Trophoblastic Disease	0.6152325581395349
+ERBB4	Mesothelioma	0.6152193854995579
+NTRK1	Hematologic Neoplasms	0.615168781598197
+PKN2	Lung Neoplasms	0.6151397267024186
+CCNK	Lung Neoplasms	0.6151397267024186
+MAP2K7	Thyroid Neoplasms	0.6151228070175438
+BCR	Esophageal Neoplasms	0.6151056338028169
+BMPR1B	Leukemia, Myeloid	0.6150891410048622
+CHUK	Leukemia	0.6150432138284251
+FLT4	Esophageal Neoplasms	0.6150284495021338
+TEC	Leukemia, Lymphoid	0.6150231660231661
+DCAF1	Lung Neoplasms	0.6150128810648348
+CCL2	Lung Neoplasms	0.615
+BRAF	Meigs Syndrome	0.615
+KDR	Palatal Neoplasms	0.615
+SBK1	Carcinoma, Non-Small-Cell Lung	0.615
+KIT	Lymphatic Vessel Tumors	0.615
+STK32C	Carcinoma, Non-Small-Cell Lung	0.615
+CAMKK1	Neoplasm Metastasis	0.615
+AKT1	Mesenteric Cyst	0.615
+CDC42BPA	Neoplasm Metastasis	0.615
+JAK1	Neoplasms, Fibrous Tissue	0.615
+PDGFRB	Neoplasms, Glandular and Epithelial	0.615
+STK35	Carcinoma, Non-Small-Cell Lung	0.615
+CSNK1A1L	Neoplasm Metastasis	0.615
+INSR	Leukemia, Myeloid	0.615
+NTRK2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.615
+TGFBR2	Adenoma, Sweat Gland	0.615
+PTK2B	Adenoma, Sweat Gland	0.615
+IGF1R	Esophageal Squamous Cell Carcinoma	0.615
+NEK7	Neoplasm Metastasis	0.615
+TAF1L	Neoplasm Metastasis	0.615
+MAPK15	Neoplasm Metastasis	0.615
+JAK2	Carcinoma, Neuroendocrine	0.615
+PDIK1L	Neoplasm Metastasis	0.615
+ZAP70	Adenoma, Sweat Gland	0.615
+FGFR1	Nonodontogenic Cysts	0.615
+FGFR1	Lymphoma, T-Cell, Peripheral	0.6144103225971622
+GSK3B	Carcinoma, Hepatocellular	0.6141228070175438
+BRAF	Lymphoma, B-Cell	0.614092274544371
+FGFR2	Liver Neoplasms	0.6140432138284251
+CIT	Lung Neoplasms	0.6114554170661554
+PDK1	Lung Neoplasms	0.6111846008649293
+BMPR2	Carcinoma	0.611
+SRPK1	Lung Neoplasms	0.6108338070517647
+BRAF	Glioma, Subependymal	0.6108028055356172
+JAK1	Liver Neoplasms	0.6107844928981926
+KDR	Neoplasms	0.6107467426723057
+FLT1	Testicular Neoplasms	0.610625
+RET	Mixed Tumor, Malignant	0.6106
+CDK3	Lung Neoplasms	0.6104892626080356
+PAK3	Carcinoma, Non-Small-Cell Lung	0.6103679411252108
+STK35	Lymphoma	0.6103448275862069
+GRK5	Leukemia	0.6102974743381956
+TRIO	Lung Neoplasms	0.6102845450809976
+IRAK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.6102553026547297
+FGFR3	Esophageal Squamous Cell Carcinoma	0.6101470588235294
+CCL8	Lung Neoplasms	0.610136612021858
+RET	Neoplasms	0.6101063891922791
+TNK2	Leukemia, Myeloid	0.6100891410048622
+JAK2	Neurofibromatosis 1	0.6100653594771243
+AMHR2	Adenocarcinoma of Lung	0.6100602813735089
+LYN	Carcinoma, Hepatocellular	0.6100376916245688
+PDK1	Carcinoma, Hepatocellular	0.6100268456375839
+DMPK	Carcinoma, Non-Small-Cell Lung	0.6100112866817156
+WNK4	Lung Neoplasms	0.6100111507582515
+ACVR2A	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.6100030450669915
+EGFR	Carcinogenesis	0.61
+SRPK2	Neoplasm Metastasis	0.61
+CDK6	Laryngeal Neoplasms	0.61
+KIT	Sarcoma, Small Cell	0.61
+KIT	Sister Mary Joseph's Nodule	0.61
+BMPR1A	Leukemia	0.61
+STK25	Carcinoma, Non-Small-Cell Lung	0.61
+RPS6KB2	Neoplasm Metastasis	0.61
+PRKD2	Carcinoma, Non-Small-Cell Lung	0.61
+MAP2K7	Mesenteric Cyst	0.61
+CSNK1G1	Lung Neoplasms	0.61
+NEK5	Lung Neoplasms	0.61
+ACVRL1	Leukemia	0.61
+TGFBR2	Leukemia, Myeloid	0.61
+SGK2	Neoplasm Metastasis	0.61
+MUSK	Lung Neoplasms	0.61
+MAPK3	Adenoma, Sweat Gland	0.61
+NTRK1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.61
+IGF1R	Leukemia, Promyelocytic, Acute	0.61
+LMTK3	Carcinoma, Non-Small-Cell Lung	0.61
+PDGFRA	Carcinoma, Brown-Pearce	0.61
+PDGFRA	Laryngeal Neoplasms	0.61
+BCR	Cecal Neoplasms	0.61
+BCR	Nonodontogenic Cysts	0.61
+BCR	Sarcoma 37	0.61
+FGFR1	Esophageal Squamous Cell Carcinoma	0.61
+RPS6KB1	Lung Neoplasms	0.6099063883298417
+IGF1R	Digestive System Neoplasms	0.6065913919187826
+IGF1R	Colonic Neoplasms	0.6065692040573174
+CDK19	Lung Neoplasms	0.606556601201011
+AURKA	Carcinoma, Squamous Cell	0.6060443149280703
+BRAF	Neoplasms	0.6059722312712397
+ACVRL1	Adenocarcinoma	0.6059628544958123
+NTRK1	Liver Neoplasms	0.6056682138284252
+FGFR3	Leukemia, Lymphocytic, Chronic, B-Cell	0.6055756001694035
+MOK	Gastrointestinal Stromal Tumors	0.6054670663434173
+FGFR3	Burkitt Lymphoma	0.6054337764163817
+ERBB3	Leukemia, T-Cell	0.6053703703703703
+PSKH1	Lymphoma	0.6053448275862069
+ACVRL1	Lymphoma	0.60525
+STK11	Stomach Neoplasms	0.6052158763677732
+TGFBR1	Neoplasm Metastasis	0.6051604938271605
+FGFR3	Leukemia, Promyelocytic, Acute	0.6051556991774383
+BRAF	Lymphoma, T-Cell	0.6051527942187073
+MAPK3	Lung Neoplasms	0.6051263157894737
+CDK4	Carcinoma, Bronchogenic	0.6051241472759555
+AVP	Carcinoma, Non-Small-Cell Lung	0.605078947368421
+FLT1	Esophageal Squamous Cell Carcinoma	0.605072463768116
+TRIM28	Leukemia	0.6050577065820483
+PEAK1	Neoplasm Metastasis	0.6050144927536232
+SMG1	Carcinoma, Non-Small-Cell Lung	0.605
+PDK1	Adenoma, Sweat Gland	0.605
+KDR	Hypopharyngeal Neoplasms	0.605
+CAMK2B	Neoplasm Metastasis	0.605
+KIT	Neoplasm Seeding	0.605
+KIT	Neoplasms, Muscle Tissue	0.605
+KIT	Carcinogenesis	0.605
+MTOR	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.605
+IRAK2	Neoplasm Metastasis	0.605
+ERBB2	Mouth Neoplasms	0.605
+DYRK4	Carcinoma, Non-Small-Cell Lung	0.605
+PDGFRB	Carcinoma, Brown-Pearce	0.605
+INSR	Hodgkin Disease	0.605
+FLT4	Esophageal Squamous Cell Carcinoma	0.605
+MAP3K4	Lymphoma	0.605
+AURKA	Adenoma, Sweat Gland	0.605
+JAK2	Neoplasms, Complex and Mixed	0.605
+CDC42BPG	Neoplasm Metastasis	0.605
+BCR	Neoplasms, Complex and Mixed	0.605
+LTK	Gastrointestinal Stromal Tumors	0.6043999999999999
+NTRK2	Hematologic Neoplasms	0.602659070437759
+BCR	Carcinoma, Neuroendocrine	0.6021497683747771
+SRC	Adenocarcinoma	0.6018300931904729
+ERBB3	Mixed Tumor, Malignant	0.6015
+EPHA2	Carcinoma	0.6014785629465792
+PRKG2	Gastrointestinal Stromal Tumors	0.6014753699108538
+NTRK1	Neoplasms, Second Primary	0.6014539824282507
+NTRK2	Adenocarcinoma	0.6014436625860451
+IGF1R	Carcinoma, Small Cell	0.6012053996669181
+TYRO3	Lymphoma, Non-Hodgkin	0.6010714285714286
+PRKCG	Lung Neoplasms	0.6010403920410734
+PRKCE	Lung Neoplasms	0.6009118258016393
+SYK	Leukemia	0.600834282780816
+NME2	Lung Neoplasms	0.600713832560718
+EPHA2	Leukemia, Lymphocytic, Chronic, B-Cell	0.6006840152328874
+CDK1	Carcinoma, Non-Small-Cell Lung	0.600641382332414
+BCR	Leukemia, Lymphoid	0.6004571809276865
+CDK17	Lymphoma	0.6003448275862069
+CSNK1G2	Lymphoma	0.6003448275862069
+DYRK2	Lung Neoplasms	0.6003331885025982
+TAOK2	Carcinoma, Non-Small-Cell Lung	0.6002651743865455
+ABL1	Sister Mary Joseph's Nodule	0.6002325581395348
+CCL2	Leukemia	0.6001630434782609
+ITK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.6001228070175438
+FLT1	Lymphoma, B-Cell	0.6001101321585903
+FGFR2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.6000864779874214
+MAP2K2	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.6000842696629214
+AKT1	Stomach Neoplasms	0.6000666666666666
+GRK1	Lung Neoplasms	0.6000481877952886
+STK38	Neoplasm Metastasis	0.6000352609308885
+ITK	Leukemia, Myeloid	0.6000335345405768
+JAK2	Digestive System Neoplasms	0.6000229080953922
+PAK1	Leukemia, Myeloid	0.6000200803212852
+CAMK1	Carcinoma, Non-Small-Cell Lung	0.6000124069478908
+BRAF	Neoplasms, Basal Cell	0.6
+CDK4	Adenoma, Sweat Gland	0.6
+CDK4	Laryngeal Neoplasms	0.6
+CDK6	Adenoma, Sweat Gland	0.6
+KIT	Esophageal Squamous Cell Carcinoma	0.6
+TAOK1	Neoplasm Metastasis	0.6
+AKT1	Carcinoma, Non-Small-Cell Lung	0.6
+AKT1	Leukemia	0.6
+STK25	Neoplasm Metastasis	0.6
+RPS6KB2	Leukemia	0.6
+PDGFRB	Anal Gland Neoplasms	0.6
+PDGFRB	Submandibular Gland Neoplasms	0.6
+INSR	Carcinogenesis	0.6
+MAP2K7	Neoplasms, Muscle Tissue	0.6
+AKT2	Adenoma, Sweat Gland	0.6
+NTRK1	Leukemia, Promyelocytic, Acute	0.6
+CCNK	Gastrointestinal Stromal Tumors	0.6
+ERBB4	Cholangiocarcinoma	0.6
+CAMK1G	Carcinoma, Non-Small-Cell Lung	0.6
+VRK3	Lung Neoplasms	0.6
+PDGFRA	Lymphoma, Extranodal NK-T-Cell	0.6
+ABL1	Carcinogenesis	0.6
+SRPK2	Gastrointestinal Stromal Tumors	0.5996352330348473
+FLT1	Burkitt Lymphoma	0.5984434654919236
+IRAK4	Carcinoma, Non-Small-Cell Lung	0.5974983420335533
+NME2	Leukemia	0.5973714316536555
+AKT1	Colorectal Neoplasms	0.5969341166096767
+FGFR3	Carcinoma, Bronchogenic	0.5961499640232435
+RET	Colonic Neoplasms	0.5960529387351048
+IRAK4	Lung Neoplasms	0.5958569745725262
+FGFR1	Gallbladder Neoplasms	0.5958056306306306
+IGF1R	Neoplasms	0.5957925550668968
+IRAK3	Carcinoma, Non-Small-Cell Lung	0.5957385995530106
+EPHA1	Leukemia, Lymphoid	0.5957369701531191
+FGFR3	Hematologic Neoplasms	0.5955892880816651
+AKT2	Carcinoma	0.5955119464527026
+CASK	Adenocarcinoma of Lung	0.5954770088360075
+IGF1R	Small Cell Lung Carcinoma	0.5954736600833065
+CSNK1A1L	Lymphoma	0.5953448275862069
+INSR	Carcinoma, Small Cell	0.5953419247370366
+MAP4K1	Lung Neoplasms	0.5952845450809976
+JAK2	Small Cell Lung Carcinoma	0.5952725981575793
+ROR2	Leukemia, Lymphocytic, Chronic, B-Cell	0.5951970695221539
+TRIM24	Lung Neoplasms	0.5951953387882688
+JAK2	Carcinoma, Bronchogenic	0.5951373496290142
+BCR	Mesothelioma	0.5951177279874214
+EPHB2	Leukemia, Lymphoid	0.595087260034904
+IGF1R	Prostatic Neoplasms	0.5950811795271109
+MARK4	Neoplasm Metastasis	0.5950777202072539
+GRK4	Carcinoma, Non-Small-Cell Lung	0.5950667063138071
+ACVR1B	Carcinoma, Non-Small-Cell Lung	0.5950555555555556
+EPHB2	Leukemia, Promyelocytic, Acute	0.5950432138284252
+PTK2B	Leukemia	0.5950432138284252
+CCL2	Colorectal Neoplasms	0.5950412867894759
+PIM2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5950284495021337
+SBK1	Lung Neoplasms	0.595
+KIT	Gestational Trophoblastic Disease	0.595
+SYK	Adenoma, Sweat Gland	0.595
+STK38L	Carcinoma, Non-Small-Cell Lung	0.595
+EPHB2	Colorectal Neoplasms	0.595
+PIK3CA	Anal Gland Neoplasms	0.595
+CILK1	Gastrointestinal Stromal Tumors	0.595
+PDGFRB	Neoplasms, Complex and Mixed	0.595
+MYO3A	Carcinoma, Non-Small-Cell Lung	0.595
+STK33	Carcinoma, Non-Small-Cell Lung	0.595
+PIM1	Adenoma, Sweat Gland	0.595
+RET	Nonodontogenic Cysts	0.595
+PIK3R4	Carcinoma, Non-Small-Cell Lung	0.595
+CDK15	Lung Neoplasms	0.595
+CDK14	Neoplasm Metastasis	0.595
+BCR	Lymphoma, T-Cell	0.595
+ERBB4	Carcinoma, Neuroendocrine	0.5945310160900635
+ACVR2B	Lymphoma	0.5943999999999999
+NTRK1	Leukemia, Lymphoid	0.5940949786181985
+IGF1R	Carcinoma, Neuroendocrine	0.5938555676364297
+MET	Burkitt Lymphoma	0.593519056158028
+ERBB2	Burkitt Lymphoma	0.5933333333333334
+SGK1	Lung Neoplasms	0.5932844544321688
+ERBB3	Carcinoma, Neuroendocrine	0.5927380109082808
+ERBB3	Melanoma	0.5925326909841706
+FLT1	Carcinoma, Bronchogenic	0.5919030047670226
+MARK2	Lung Neoplasms	0.5917666666666667
+TBK1	Lung Neoplasms	0.591609406680484
+MAP3K10	Lung Neoplasms	0.5915053351680271
+ROS1	Lymphoma, T-Cell	0.5914029254969698
+MET	Testicular Neoplasms	0.5912530450669915
+PRKCE	Carcinoma	0.5910829764311387
+EPHA8	Lung Neoplasms	0.5910453367053381
+TGFBR2	Carcinoma	0.5909967167072214
+IGF1R	Lymphoma, T-Cell, Peripheral	0.5909418122122737
+ERBB2	Hypopharyngeal Neoplasms	0.5907177835051547
+ITK	Leukemia	0.5907142857142857
+FGFR1	Carcinoma, Bronchogenic	0.5906466218993975
+ERBB3	Skin Neoplasms	0.5905978260869564
+MAP2K3	Carcinoma, Non-Small-Cell Lung	0.5904983420335533
+GRK3	Lung Neoplasms	0.5904527839837621
+TTN	Carcinoma, Non-Small-Cell Lung	0.5904233006736068
+ERBB4	Carcinoma, Bronchogenic	0.5903974355187089
+ABL1	Neoplasms	0.5903099876367767
+RPS6KB1	Lymphoma	0.5902232142857143
+ROR2	Lymphoma, B-Cell	0.5901995863776355
+NTRK1	Esophageal Squamous Cell Carcinoma	0.5901480725379941
+ERBB3	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.5901403200189018
+ACVRL1	Adenocarcinoma of Lung	0.5901369307373839
+PDK2	Carcinoma, Non-Small-Cell Lung	0.5901333119550977
+DYRK2	Neoplasm Metastasis	0.5901282051282051
+SGK1	Carcinoma, Non-Small-Cell Lung	0.5900996085254459
+ALK	Cecal Neoplasms	0.5900653594771242
+ALK	Neoplasms, Muscle Tissue	0.5900653594771242
+SIK2	Neoplasm Metastasis	0.5900480769230769
+INSRR	Lung Neoplasms	0.590047030162167
+FGFR1	Mesothelioma	0.5900444444444445
+CCL2	Stomach Neoplasms	0.5900431034482758
+GSK3B	Neoplasm Metastasis	0.5900294106660358
+CDK4	Nasopharyngeal Carcinoma	0.5900284495021337
+ERBB3	Urologic Neoplasms	0.5900191791331032
+MAP3K10	Neoplasm Metastasis	0.59
+BMPR2	Lymphoma	0.59
+CSNK1E	Neoplasm Metastasis	0.59
+FGFR3	Neoplasms, Fibrous Tissue	0.59
+CDK4	Mouth Neoplasms	0.59
+PRKACB	Neoplasm Metastasis	0.59
+DCLK3	Neoplasm Metastasis	0.59
+MET	Nasopharyngeal Carcinoma	0.59
+GRK1	Carcinoma, Non-Small-Cell Lung	0.59
+CSF1R	Esophageal Squamous Cell Carcinoma	0.59
+PDGFRA	Sarcoma 37	0.59
+CDK10	Neoplasm Metastasis	0.59
+BCR	Facial Neoplasms	0.59
+FGFR1	Burkitt Lymphoma	0.59
+FGFR1	Carcinogenesis	0.59
+SGK3	Adenocarcinoma of Lung	0.589255807671529
+TEK	Liver Neoplasms	0.5892098804950918
+LRRK1	Small Cell Lung Carcinoma	0.5891783041470291
+PIM1	Carcinoma, Hepatocellular	0.5890376916245686
+AKT2	Lymphoma	0.5878264877240464
+PBK	Carcinoma, Non-Small-Cell Lung	0.5875229094208907
+FGFR3	Carcinoma, Neuroendocrine	0.587303165577506
+EPHB2	Breast Neoplasms	0.587230221191333
+FYN	Carcinoma	0.586754416363553
+CAMK2G	Carcinoma, Non-Small-Cell Lung	0.5866900530090426
+BCR	Small Cell Lung Carcinoma	0.5863066211040596
+PLK3	Lung Neoplasms	0.586267862956533
+PDGFRB	Neoplasms	0.5857274582988773
+AXL	Hematologic Neoplasms	0.5856213803716034
+MAPK7	Lung Neoplasms	0.5855249809305874
+BRAF	Carcinoma, Small Cell	0.5855077330274379
+FGFR2	Gallbladder Neoplasms	0.5854076066607758
+IGF1R	Gallbladder Neoplasms	0.5852499999999999
+AKT1	Lymphoma	0.5851822143601768
+MUSK	Carcinoma	0.5851811067737773
+BRAF	Anaplasia	0.5851807028144698
+PTK2B	Leukemia, Myeloid	0.5851572327044026
+MAPK12	Lung Neoplasms	0.5851166809459736
+KDR	Carcinoma, Brown-Pearce	0.5850946372239748
+PIK3CA	Mesothelioma	0.5850783197831979
+DAPK2	Neoplasm Metastasis	0.5850777202072539
+FLT3	Sarcoma 37	0.5850653594771242
+ALK	Dentigerous Cyst	0.5850653594771242
+CDK2	Carcinoma, Non-Small-Cell Lung	0.5850313479623824
+PDGFRA	Sarcoma, Kaposi	0.5850306184935701
+ROCK1	Carcinoma, Non-Small-Cell Lung	0.5850239675516223
+RPS6KA4	Lung Neoplasms	0.5850128810648347
+GRK4	Neoplasm Metastasis	0.5850115919629058
+MAPK10	Lung Neoplasms	0.5850111507582515
+ACVR1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.585010073875084
+TGFBR1	Stomach Neoplasms	0.585
+CCL2	Carcinoma, Non-Small-Cell Lung	0.585
+CDK18	Neoplasms, Second Primary	0.585
+ACVR1B	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.585
+CDK4	Adenocarcinoma of Lung	0.585
+TIE1	Hematologic Neoplasms	0.585
+KIT	Adenoma, Basophil	0.585
+KIT	Lymphoma, Primary Cutaneous Anaplastic Large Cell	0.585
+MTOR	Lymphocele	0.585
+EPHA10	Neoplasm Metastasis	0.585
+EPHB2	Adenoma, Sweat Gland	0.585
+EPHB2	Stomach Neoplasms	0.585
+ERBB2	Leukemia, Promyelocytic, Acute	0.585
+ERBB2	Neoplasms, Fibrous Tissue	0.585
+EPHA6	Neoplasm Metastasis	0.585
+PIM3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.585
+PDGFRB	Adenoma	0.585
+PDGFRB	Neoplasms, Muscle Tissue	0.585
+CDKN1A	Adenoma, Sweat Gland	0.585
+INSR	Leukemia, Promyelocytic, Acute	0.585
+TESK2	Lung Neoplasms	0.585
+MERTK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.585
+MAP4K3	Carcinoma, Non-Small-Cell Lung	0.585
+IGF1R	Burkitt Lymphoma	0.585
+HIPK3	Neoplasm Metastasis	0.585
+TBK1	Leukemia, Promyelocytic, Acute	0.585
+FASTKD3	Neoplasm Metastasis	0.585
+NPR2	Leukemia	0.585
+PIK3CD	Neoplasms, Fibrous Tissue	0.585
+JAK2	Sarcoma	0.5841666666666667
+RET	Lymphoma, Extranodal NK-T-Cell	0.5841033569056182
+IGF1R	Multiple Myeloma	0.5825326909841706
+YES1	Lymphoma, Mantle-Cell	0.5825047915668423
+FLT1	Lymphoma, Extranodal NK-T-Cell	0.5823560864927854
+BRAF	Burkitt Lymphoma	0.5822493965125392
+RPS6KA5	Carcinoma, Non-Small-Cell Lung	0.5822098804950918
+MYLK3	Carcinoma, Non-Small-Cell Lung	0.5820000000000001
+ERBB3	Lymphoma, Extranodal NK-T-Cell	0.5818302616736577
+TRPM7	Carcinoma, Non-Small-Cell Lung	0.5817333729804738
+TYRO3	Lymphoma, B-Cell	0.5814974190986698
+HIPK3	Lung Neoplasms	0.5814414524934062
+EPHA2	Neoplasm Metastasis	0.5813758079289987
+GSK3B	Lymphoma	0.5813100100881773
+NTRK1	Leukemia, Lymphocytic, Chronic, B-Cell	0.5811226177426448
+ERBB2	Mixed Tumor, Malignant	0.5808804346720976
+MAPK12	Carcinoma, Non-Small-Cell Lung	0.5808374696095077
+MAP2K6	Lung Neoplasms	0.5806678245943437
+ABL1	Sarcoma, Small Cell	0.5806515362417247
+HCK	Leukemia	0.5806410399153816
+NTRK3	Adenocarcinoma of Lung	0.5804715277712854
+IKBKB	Carcinoma, Non-Small-Cell Lung	0.5804049987718005
+JAK2	Carcinoma, Small Cell	0.5803906951775082
+ERBB3	Thyroid Cancer, Papillary	0.5803078567096358
+MTOR	Carcinogenesis	0.58020336896973
+LRRK2	Adenoma, Sweat Gland	0.5802
+PDGFRA	Leukemia, T-Cell	0.5801966101460116
+MAPK3	Carcinoma, Hepatocellular	0.5801369863013699
+CDK19	Neoplasm Metastasis	0.5801282051282051
+CDK20	Leukemia	0.5801081488933602
+EPHB3	Neoplasm Metastasis	0.5800906344410877
+TEC	Leukemia, Myeloid	0.5800891410048622
+PRKCG	Carcinoma, Non-Small-Cell Lung	0.580078947368421
+JAK2	Neuroectodermal Tumors, Primitive, Peripheral	0.5800653594771242
+BCR	Hodgkin Disease	0.5800579387377989
+FGFR1	Urologic Neoplasms	0.5800537634408601
+RPS6KB1	Leukemia	0.5800432138284252
+CDK8	Leukemia	0.5800432138284252
+KIT	Melanoma	0.580041881443299
+BMPR2	Leukemia	0.580037037037037
+EPHB1	Lymphoma	0.5800176056338028
+CDK4	Neoplasms, Fibrous Tissue	0.58
+KIT	Oncogene Addiction	0.58
+KIT	Pregnancy Complications, Neoplastic	0.58
+ALK	Neoplasms, Complex and Mixed	0.58
+ALK	Neuroectodermal Tumors, Primitive	0.58
+BMPR1B	Lymphoma, Mantle-Cell	0.58
+ACVR2B	Neoplasm Metastasis	0.58
+ACVR2B	Hematologic Neoplasms	0.58
+CSNK1A1	Neoplasm Metastasis	0.58
+PDGFRB	Lymphatic Vessel Tumors	0.58
+CSNK1A1L	Lung Neoplasms	0.58
+STK33	Neoplasm Metastasis	0.58
+TSSK6	Lung Neoplasms	0.58
+NEK5	Carcinoma, Non-Small-Cell Lung	0.58
+PHKG1	Lung Neoplasms	0.58
+MAPKAPK5	Neoplasm Metastasis	0.58
+BRSK2	Neoplasm Metastasis	0.58
+JAK2	ACTH Syndrome, Ectopic	0.58
+FGFR1	Mesenteric Cyst	0.58
+MAPK6	Lung Neoplasms	0.58
+EPHA8	Carcinoma, Non-Small-Cell Lung	0.5798074401327208
+ERBB4	Gastrointestinal Stromal Tumors	0.5791830641541076
+FGFR2	Mesothelioma	0.5787686125913395
+PTK7	Leukemia, Lymphoid	0.578623454345542
+FLT1	Carcinoma, Small Cell	0.5784062824999828
+RNASEL	Lung Neoplasms	0.5775429938219518
+VRK1	Carcinoma, Non-Small-Cell Lung	0.5774128765697534
+KIT	Neoplastic Syndromes, Hereditary	0.5770193517234001
+ERBB3	Small Cell Lung Carcinoma	0.5769485834314358
+BCR	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5769461993486403
+BRAF	Teratoma	0.57691030143272
+BRAF	Pinealoma	0.5768315005732199
+ALPK1	Leukemia	0.5767174432497013
+FAM20C	Adenocarcinoma	0.5766666666666667
+BCR	Colonic Neoplasms	0.5766666666666667
+PRKX	Lung Neoplasms	0.5764554170661554
+CDK13	Lung Neoplasms	0.5764414524934062
+NTRK2	Leukemia, Lymphocytic, Chronic, B-Cell	0.5763076605831824
+BUB1B	Carcinoma, Non-Small-Cell Lung	0.5760775681341719
+EEF2K	Carcinoma, Non-Small-Cell Lung	0.5758705578448018
+SRC	Carcinoma, Squamous Cell	0.5758010778880203
+LIMK1	Lung Neoplasms	0.5756253625868333
+CLK2	Gastrointestinal Stromal Tumors	0.5755540736145575
+JAK1	Stomach Neoplasms	0.5754054763143742
+ABL1	Cell Transformation, Viral	0.5753695444409047
+MAST4	Lymphoma	0.5753448275862069
+RET	Carcinoma, Pancreatic Ductal	0.5753428907395436
+PDGFRA	Central Nervous System Neoplasms	0.5753333333333334
+ROR2	Lymphoma	0.5752829386763814
+TGFBR1	Lymphoma	0.57525
+EPHA4	Lymphoma	0.575193413729128
+EPHB4	Neoplasm Metastasis	0.5751802431980632
+KDR	Carcinoma, Bronchogenic	0.5751556943687782
+DYRK1A	Lung Neoplasms	0.57514785823005
+DCLK1	Leukemia	0.5751350264662478
+KDR	Thymoma	0.5751311475409836
+SYK	Neoplasm Metastasis	0.5750892857142857
+FLT3	Facial Neoplasms	0.5750653594771242
+JAK2	Nevi and Melanomas	0.5750653594771242
+BCR	Cholangiocarcinoma	0.5750563371880052
+AURKB	Lung Neoplasms	0.575054347826087
+BCR	Prostatic Neoplasms	0.5750374732334047
+GRK7	Neoplasm Metastasis	0.5750352609308886
+MAP3K2	Neoplasm Metastasis	0.5750352609308886
+EPHA2	Hematologic Neoplasms	0.5750200803212852
+CCL5	Leukemia, Myeloid	0.5750055617352614
+EGFR	Neoplasms, Fibrous Tissue	0.575
+TSSK4	Lung Neoplasms	0.575
+TIE1	Leukemia, Lymphoid	0.575
+KIT	Mandibular Neoplasms	0.575
+KIT	Respiratory Tract Neoplasms	0.575
+ACVR1C	Lung Neoplasms	0.575
+AKT1	Neoplasms, Complex and Mixed	0.575
+PDGFRB	Cecal Neoplasms	0.575
+PDGFRB	Neoplasms, Bone Tissue	0.575
+DYRK1B	Neoplasm Metastasis	0.575
+WNK3	Neoplasm Metastasis	0.575
+MAP2K7	Dentigerous Cyst	0.575
+MAP2K7	Spinal Neoplasms	0.575
+TGFBR2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.575
+MET	Leukemia, Promyelocytic, Acute	0.575
+PRKCB	Carcinoma, Hepatocellular	0.575
+MUSK	Carcinoma, Hepatocellular	0.575
+MUSK	Neoplasm Metastasis	0.575
+MAPK3	Colorectal Neoplasms	0.575
+CDK15	Carcinoma, Non-Small-Cell Lung	0.575
+TTBK2	Neoplasm Metastasis	0.575
+ERBB4	Nasopharyngeal Carcinoma	0.575
+IGF1R	Carcinogenesis	0.575
+SRPK3	Lymphoma	0.575
+ABL1	Esophageal Squamous Cell Carcinoma	0.575
+ABL1	Mixed Tumor, Malignant	0.575
+STK11	Adenoma, Sweat Gland	0.575
+PKMYT1	Neoplasm Metastasis	0.575
+PRKCQ	Leukemia, Lymphoid	0.575
+TSSK2	Lung Neoplasms	0.575
+MAP2K7	Sarcoma	0.5744209039548023
+PTK2	Sarcoma	0.5736232849071833
+FGFR1	Neuroendocrine Tumors	0.5735229980643541
+FGFR1	Testicular Neoplasms	0.5733883218463998
+BUB1	Carcinoma, Non-Small-Cell Lung	0.5730638749854499
+VRK2	Neoplasm Metastasis	0.5725
+LMTK2	Carcinoma, Renal Cell	0.5724105649649168
+ITK	Adenocarcinoma	0.5722823906329957
+BCR	Leukemia, Myeloid, Acute	0.5721964582664861
+ALK	Mesothelioma	0.5718768266680125
+DYRK4	Neoplasms, Second Primary	0.5715555555555556
+PRKD1	Lung Neoplasms	0.5713172942413925
+EPHB1	Neoplasm Metastasis	0.5710352609308886
+IKBKB	Lung Neoplasms	0.5708927334080078
+MAPK13	Carcinoma, Non-Small-Cell Lung	0.5708374696095077
+BUB1	Lung Neoplasms	0.5708316310365518
+PIK3CA	Carcinoma, Neuroendocrine	0.5706919022771243
+PIK3CA	Small Cell Lung Carcinoma	0.5706635801009079
+ERBB2	Gastrointestinal Stromal Tumors	0.5706367096018735
+AKT3	Leukemia	0.5706164383561644
+LRRK1	Adenocarcinoma of Lung	0.5705700483091788
+FLT1	Mixed Tumor, Malignant	0.5704691486881805
+RET	Burkitt Lymphoma	0.5703804551426369
+FYN	Carcinoma, Hepatocellular	0.5702777777777778
+ALK	Leukemia, Promyelocytic, Acute	0.5702657982109147
+CSNK1E	Lung Neoplasms	0.5701913001682288
+ROCK2	Carcinoma, Non-Small-Cell Lung	0.5701551640810014
+PIK3CA	Submandibular Gland Neoplasms	0.5701169380945267
+MKNK1	Lung Neoplasms	0.5701123348931071
+MAP3K4	Leukemia	0.5700891410048622
+JAK1	Esophageal Neoplasms	0.5700862068965518
+TXK	Leukemia, Promyelocytic, Acute	0.5700716633305588
+NTRK2	Leukemia, Myeloid, Acute	0.5700666666666667
+JAK2	Facial Neoplasms	0.5700653594771242
+BCR	Lymphocele	0.5700653594771242
+CCL5	Lung Neoplasms	0.5700423106069981
+ZAP70	Carcinoma	0.5700411875873459
+ALPK1	Lung Neoplasms	0.5700326909841706
+MAPK15	Gastrointestinal Stromal Tumors	0.5700124069478908
+ADCK1	Lymphoma	0.57
+PRKG1	Carcinoma, Non-Small-Cell Lung	0.57
+HIPK1	Neoplasm Metastasis	0.57
+TIE1	Neoplasm Metastasis	0.57
+MAP2K2	ACTH Syndrome, Ectopic	0.57
+KIT	Hydatidiform Mole, Invasive	0.57
+KIT	Nevus of Ota	0.57
+NTRK3	Adenoma, Sweat Gland	0.57
+EPHA6	Carcinoma, Non-Small-Cell Lung	0.57
+PDGFRB	Carcinoma, Krebs 2	0.57
+INSR	Leukemia, Myeloid, Acute	0.57
+NTRK2	Adenoma, Sweat Gland	0.57
+NTRK2	Leukemia, Promyelocytic, Acute	0.57
+MAP2K7	Neuroectodermal Tumors, Primitive	0.57
+NTRK1	Carcinogenesis	0.57
+MAP4K3	Neoplasm Metastasis	0.57
+MAP3K8	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.57
+PDGFRA	Neoplasms, Muscle Tissue	0.57
+TAF1L	Lung Neoplasms	0.57
+RPS6KA4	Neoplasm Metastasis	0.57
+CDK11A	Carcinoma, Non-Small-Cell Lung	0.57
+PRKCQ	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.57
+STK4	Neoplasm Metastasis	0.57
+ZAP70	Esophageal Neoplasms	0.57
+STK25	Gastrointestinal Stromal Tumors	0.5694124069478907
+PAK1	Carcinoma, Hepatocellular	0.5690108459869848
+INSR	Esophageal Squamous Cell Carcinoma	0.569
+PDGFRA	Leukemia, Erythroblastic, Acute	0.5687891875685888
+PRKCD	Lung Neoplasms	0.5686683707267496
+MAPK13	Lymphoma	0.5686666666666667
+TRIM24	Gastrointestinal Stromal Tumors	0.5685601502639269
+AKT1	Glioma	0.568548139624089
+FGFR2	Carcinoma, Neuroendocrine	0.5679196244551195
+PRKD1	Carcinoma, Non-Small-Cell Lung	0.5673995584988962
+PTK2	Adenocarcinoma	0.5673128073287598
+HCK	Carcinoma, Non-Small-Cell Lung	0.5670291885580853
+WNK1	Leukemia	0.5668903940886699
+TRIM28	Carcinoma, Non-Small-Cell Lung	0.5668333333333334
+PRKCB	Carcinoma	0.5660735301736005
+PTK7	Lymphoma, B-Cell	0.5659249075087314
+BRAF	Head and Neck Neoplasms	0.5658727030740168
+ERBB3	Brain Neoplasms	0.5658002562042237
+NTRK1	Burkitt Lymphoma	0.5656299865262993
+PAK2	Lung Neoplasms	0.5655612204085323
+KIT	Hypopharyngeal Neoplasms	0.5654548672186709
+MAPK1	Carcinoma, Hepatocellular	0.5654227005870842
+NTRK1	Carcinoma, Bronchogenic	0.5653589405812766
+NTRK1	Testicular Neoplasms	0.5653160819208441
+MYLK	Carcinoma, Non-Small-Cell Lung	0.5653031834193922
+NTRK1	Glioma	0.5653023714533616
+FGFR1	Thyroid Cancer, Papillary	0.5652361565388112
+PTK7	Hematologic Neoplasms	0.5651576994434138
+MAP3K1	Leukemia	0.5651572327044025
+FGFR3	Sarcoma, Kaposi	0.5651249581162117
+NTRK2	Leukemia, Lymphoid	0.5651098901098901
+PDGFRB	Hypopharyngeal Neoplasms	0.5651056338028169
+EPHA5	Adenocarcinoma	0.5650995024875622
+CCL2	Carcinoma, Hepatocellular	0.5650943396226416
+FGFR2	Laryngeal Neoplasms	0.5650927835051547
+ACVR2B	Leukemia, Myeloid	0.5650891410048622
+MOS	Carcinoma, Non-Small-Cell Lung	0.565078947368421
+TYRO3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.565064935064935
+CDK20	Lung Neoplasms	0.5650432138284252
+PAK2	Carcinoma, Non-Small-Cell Lung	0.5650403393163368
+PIK3CA	Nasopharyngeal Carcinoma	0.5650284495021337
+FLT4	Testicular Neoplasms	0.5650183598531212
+MELK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5650030450669914
+YES1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.565
+NEK4	Neoplasm Metastasis	0.565
+STK32C	Lymphoma	0.565
+EPHB3	Hematologic Neoplasms	0.565
+EPHB1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.565
+MAPK8	Adenoma, Sweat Gland	0.565
+CAMK1D	Carcinoma, Non-Small-Cell Lung	0.565
+PDGFRB	Sarcoma 37	0.565
+INSR	Adenoma, Sweat Gland	0.565
+INSR	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.565
+SGK2	Carcinoma, Non-Small-Cell Lung	0.565
+IGF1R	Neoplasms, Fibrous Tissue	0.565
+FGFR2	Leukemia, Myeloid, Acute	0.565
+FGFR2	Lymphoma, T-Cell	0.565
+VRK3	Lymphoma	0.565
+BCR	ACTH Syndrome, Ectopic	0.565
+TNIK	Neoplasm Metastasis	0.565
+PRKCQ	Lymphoma	0.5646304507661651
+NTRK1	Laryngeal Neoplasms	0.5641653382334224
+FGFR2	Hematologic Neoplasms	0.5633333333333332
+ROCK2	Lung Neoplasms	0.5633245885603001
+EPHB2	Liver Neoplasms	0.5625391292695263
+IGF1R	Laryngeal Neoplasms	0.5623333333333334
+BCR	Sarcoma	0.5621877192982456
+PRKG2	Neoplasms, Second Primary	0.5618927769619014
+CHUK	Lung Neoplasms	0.5617973293482419
+RPS6KB1	Carcinoma	0.5614397898568544
+CHUK	Carcinoma, Non-Small-Cell Lung	0.5613691613541785
+CSNK2A2	Lung Neoplasms	0.5613156557439595
+PDGFRB	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.5611761408572052
+FGFR3	Lymphoma, Extranodal NK-T-Cell	0.5611041648424279
+MELK	Carcinoma, Non-Small-Cell Lung	0.5610409613150322
+INSR	Colonic Neoplasms	0.5610162556791106
+PDGFRA	Lymphoma, T-Cell, Cutaneous	0.5610057538325139
+CCL8	Gastrointestinal Stromal Tumors	0.5609112113758288
+INSR	Breast Neoplasms	0.5607830477056082
+PRKCZ	Lung Neoplasms	0.5607248161820784
+ALK	Carcinoma, Bronchogenic	0.5606073046124864
+NPRL2	Gastrointestinal Stromal Tumors	0.5606071937321938
+PRKCA	Neoplasm Metastasis	0.5605696472780157
+STK33	Neoplasms, Second Primary	0.5605
+ERBB3	Carcinoma, Bronchogenic	0.5603702202826236
+TBRG4	Lymphoma	0.5603448275862069
+BMP2K	Lymphoma	0.5603448275862069
+ERBB3	Rectal Neoplasms	0.5603258334732562
+MAP3K11	Lung Neoplasms	0.5602846612006794
+PAK1	Lymphoma	0.5602552064592925
+OBSCN	Adenocarcinoma of Lung	0.56025
+LYN	Colorectal Neoplasms	0.5602438867246192
+RPS6KB1	Neoplasm Metastasis	0.5602402383527079
+PDGFRA	Neoplastic Syndromes, Hereditary	0.5602365488111649
+ACVR1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5602127659574468
+MAP2K7	Liver Neoplasms	0.5602014315523003
+SRC	Leukemia, Lymphocytic, Chronic, B-Cell	0.5601479580151847
+PDGFRB	Neoplastic Syndromes, Hereditary	0.5601402006581501
+TEC	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5601238390092879
+PIK3CA	Laryngeal Neoplasms	0.5601234567901234
+JAK2	Thyroid Cancer, Papillary	0.5601228070175438
+OBSCN	Gastrointestinal Stromal Tumors	0.5601142954332851
+FLT1	Lymphoma, T-Cell	0.5601101321585903
+KDR	Cecal Neoplasms	0.5600946372239748
+PBK	Leukemia	0.5600891410048622
+MAP3K11	Leukemia	0.5600891410048622
+SIK1	Leukemia	0.5600891410048622
+JAK2	Carcinoid Tumor	0.5600818651501637
+BCR	Neurofibromatosis 1	0.5600653594771242
+CDK6	Nasopharyngeal Carcinoma	0.5600284495021337
+PDGFRB	Lymphoma, Primary Cutaneous Anaplastic Large Cell	0.560024154589372
+MAP4K1	Neoplasm Metastasis	0.5600144927536231
+CDK2	Adenoma, Sweat Gland	0.56
+STK32C	Carcinoma	0.56
+PBK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.56
+ACVR2B	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.56
+PRPF4B	Gastrointestinal Stromal Tumors	0.56
+PDK3	Neoplasm Metastasis	0.56
+STK38L	Neoplasm Metastasis	0.56
+ITK	Adenoma, Sweat Gland	0.56
+EPHB2	Leukemia, Lymphocytic, Chronic, B-Cell	0.56
+EPHB2	Leukemia, Myeloid, Acute	0.56
+PDGFRB	Hydatidiform Mole, Invasive	0.56
+SIK3	Neoplasm Metastasis	0.56
+STK35	Lung Neoplasms	0.56
+RET	Mesenteric Cyst	0.56
+MET	Neoplasms, Fibrous Tissue	0.56
+MAP3K4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.56
+ALPK3	Lymphoma	0.56
+ALPK3	Neoplasm Metastasis	0.56
+MAK	Neoplasm Metastasis	0.56
+IGF1R	Hepatoblastoma	0.56
+NEK6	Neoplasm Metastasis	0.56
+JAK2	Mouth Neoplasms	0.56
+FGFR1	Nasopharyngeal Carcinoma	0.56
+EIF2AK3	Neoplasm Metastasis	0.5596070364082667
+ILK	Carcinoma, Hepatocellular	0.5595028646749349
+BRAF	Lymphoma, T-Cell, Peripheral	0.558411787809698
+PLK1	Lung Neoplasms	0.5578083773018839
+MAPK7	Carcinoma, Non-Small-Cell Lung	0.5575762167125804
+IKBKE	Carcinoma, Non-Small-Cell Lung	0.5574719137695429
+WEE1	Carcinoma, Non-Small-Cell Lung	0.5574348229601261
+RNASEL	Carcinoma, Non-Small-Cell Lung	0.5572456140350878
+PDIK1L	Small Cell Lung Carcinoma	0.5572353768158901
+JAK1	Thyroid Neoplasms	0.557195045102958
+RPS6KA1	Carcinoma, Non-Small-Cell Lung	0.5567574995427108
+BCR	Carcinoma, Small Cell	0.5564464511804833
+FGFR1	Lymphoma, Extranodal NK-T-Cell	0.5563725120934658
+MAP2K7	Stomach Neoplasms	0.55625
+IGF1R	Mixed Tumor, Malignant	0.55625
+TEK	Neoplasms, Second Primary	0.5561315806615847
+CASK	Neoplasms, Second Primary	0.5556551353802802
+RET	Central Nervous System Neoplasms	0.5556448243173204
+IRAK4	Leukemia	0.5554979208710232
+MAP2K7	Carcinoma	0.5554661970397314
+TGFBR2	Adenocarcinoma of Lung	0.5554479820427052
+DCLK1	Lung Neoplasms	0.5554432188551156
+CDK6	Carcinoma, Bronchogenic	0.5554326910071271
+AURKA	Lung Neoplasms	0.5554104205637119
+IRAK1	Lung Neoplasms	0.5553612456296156
+FGFR3	Leukemia, Myeloid	0.5553310955203943
+CAMK2G	Leukemia	0.5553253043899151
+IRAK3	Lung Neoplasms	0.5552891363884688
+EGFR	Bone Neoplasms	0.5552884615384616
+IGF1R	Lymphoma, Extranodal NK-T-Cell	0.5552810716683784
+BCR	Carcinoma, Bronchogenic	0.5552367813438005
+PLK1	Carcinoma, Hepatocellular	0.5552282886334611
+NTRK2	Adenocarcinoma of Lung	0.55519117598627
+FYN	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5551572327044025
+MAP2K3	Leukemia	0.5551524351545725
+YES1	Leukemia, Myeloid	0.5551178766370461
+ERBB3	Hypopharyngeal Neoplasms	0.5550862068965517
+CDK14	Adenocarcinoma of Lung	0.5550725773746061
+STK39	Leukemia	0.5550716633305588
+MAP2K7	Carcinoma, Squamous Cell	0.5550437062937063
+WNK2	Lung Neoplasms	0.5550397267024185
+IGF1R	Nasopharyngeal Carcinoma	0.5550284495021337
+YES1	Leukemia, Lymphoid	0.555023166023166
+RIPK4	Neoplasm Metastasis	0.5550144927536231
+GRK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5550030450669915
+FLT3	Lymphocele	0.555
+NUAK2	Neoplasm Metastasis	0.555
+ADCK1	Lung Neoplasms	0.555
+FASTKD1	Lung Neoplasms	0.555
+TBRG4	Neoplasm Metastasis	0.555
+KIT	Nasopharyngeal Neoplasms	0.555
+NTRK3	Leukemia, Myeloid	0.555
+SRC	Leukemia, Myeloid, Acute	0.555
+SRC	Neoplasms, Fibrous Tissue	0.555
+CLK3	Carcinoma, Non-Small-Cell Lung	0.555
+MYLK2	Neoplasm Metastasis	0.555
+PLK1	Adenoma, Sweat Gland	0.555
+LRRK1	Neoplasm Metastasis	0.555
+PTK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.555
+PRKCG	Leukemia	0.555
+TESK2	Lymphoma	0.555
+MAP2K1	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.555
+MAPK14	Adenoma, Sweat Gland	0.555
+CDK11A	Neoplasm Metastasis	0.555
+FGFR4	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.555
+FLT4	Gallbladder Neoplasms	0.5546783100544357
+NTRK2	Lymphoma, B-Cell	0.5544258571793881
+BCR	Leukemia, Myeloid	0.5544209947704348
+MAK	Gastrointestinal Stromal Tumors	0.5544144927536232
+RPS6KB2	Lymphoma	0.5536666666666666
+MAPK1	Colorectal Neoplasms	0.5526263157894737
+PIK3CA	Germinoma	0.5526215166015784
+ERBB3	Biliary Tract Neoplasms	0.5525387293249703
+LIMK1	Carcinoma, Non-Small-Cell Lung	0.5520111507582516
+CSK	Carcinoma, Non-Small-Cell Lung	0.552
+ROCK1	Lung Neoplasms	0.5517511193220596
+AXL	Leukemia, Lymphocytic, Chronic, B-Cell	0.551663336057579
+INSR	Prostatic Neoplasms	0.5515701501153463
+FGFR3	Small Cell Lung Carcinoma	0.5515482233939815
+CDKL2	Lung Neoplasms	0.5514887224076054
+PTK2B	Carcinoma	0.5514242720855097
+NTRK1	Lymphoma, T-Cell	0.5510045185182997
+ALK	Lymphoma, T-Cell	0.5509864526547119
+TEC	Leukemia, Lymphocytic, Chronic, B-Cell	0.5509505343617473
+ROS1	Lymphoma, B-Cell	0.5508447366589523
+EPHA2	Leukemia, Lymphoid	0.5507762379143853
+JAK2	Adenoma	0.5507689860210995
+TYRO3	Hematologic Neoplasms	0.5507573681673142
+BRAF	Papilloma, Choroid Plexus	0.550736168564196
+BRAF	Mesothelioma	0.5507290003023053
+CDK1	Lung Neoplasms	0.5506900035388393
+CSK	Lung Neoplasms	0.5506580535710038
+NTRK1	Lymphoma, B-Cell	0.5505039200191577
+SYK	Leukemia, Lymphoid	0.5503450078538523
+CDK2	Colorectal Neoplasms	0.5503271909688374
+BCR	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.5503268977621765
+RPS6KA3	Lung Neoplasms	0.550315172634117
+SRC	Hematologic Neoplasms	0.550313877176045
+EPHA5	Adenocarcinoma of Lung	0.5502415015896307
+BCR	Esophageal Squamous Cell Carcinoma	0.5502337585322167
+BCR	Nevi and Melanomas	0.5502325581395349
+LTK	Adenocarcinoma of Lung	0.5502127659574468
+FLT3	Trophoblastic Tumor, Placental Site	0.5501851851851852
+EIF2AK1	Leukemia	0.5501610904654712
+SRC	Leukemia, Promyelocytic, Acute	0.5501234567901235
+DAPK2	Lung Neoplasms	0.550109171146863
+PDPK1	Leukemia	0.5500891410048623
+FLT3	Nevi and Melanomas	0.5500653594771242
+RIPK4	Lung Neoplasms	0.5500638826746209
+ZAP70	Carcinoma, Non-Small-Cell Lung	0.5500432138284251
+GRK4	Leukemia, Myeloid	0.5500287356321839
+FLT4	Urinary Bladder Neoplasms	0.5500284495021337
+STYK1	Neoplasm Metastasis	0.5500144927536232
+EGFR	Leukemic Infiltration	0.55
+MST1R	Leukemia, Lymphoid	0.55
+MAP3K10	Adenocarcinoma	0.55
+BTK	Nonodontogenic Cysts	0.55
+RYK	Neoplasm Metastasis	0.55
+PDGFRB	Palatal Neoplasms	0.55
+PDGFRB	Trophoblastic Tumor, Placental Site	0.55
+PDGFRB	Neoplasms, Basal Cell	0.55
+CDKN1A	Stomach Neoplasms	0.55
+MAP2K7	Urinary Bladder Neoplasms	0.55
+STK40	Lung Neoplasms	0.55
+PRKAA1	Adenoma, Sweat Gland	0.55
+ATP23	Neoplasm Metastasis	0.55
+JAK2	Trophoblastic Tumor, Placental Site	0.55
+PDIK1L	Adenocarcinoma	0.55
+BCR	Leukemia, Lymphocytic, Chronic, B-Cell	0.5495955862596819
+PDGFRA	Seminoma	0.5483401686033266
+PLK2	Carcinoma, Non-Small-Cell Lung	0.5477211182614897
+INSR	Neuroendocrine Tumors	0.5474587031078403
+FGFR4	Adenocarcinoma of Lung	0.547283288715696
+BRAF	Seminoma	0.547
+CSNK2A1	Lung Neoplasms	0.5469228086851335
+CDK11B	Gastrointestinal Stromal Tumors	0.5469167080685216
+FLT4	Digestive System Neoplasms	0.546913376203979
+EIF2AK1	Adenocarcinoma	0.5467256347290421
+MAP2K5	Lymphoma	0.5466666666666666
+LRRK1	Lung Neoplasms	0.5464285714285715
+PRKCI	Gastrointestinal Stromal Tumors	0.5464189016686775
+PTK2	Lymphoma, Non-Hodgkin	0.5463157894736842
+EGFR	Adenoma, Liver Cell	0.5458333333333333
+PDK1	Carcinoma	0.5456720590144926
+BRAF	Digestive System Neoplasms	0.5456574712643678
+DCLK1	Lymphoma, B-Cell	0.5456082408420646
+AURKA	Adenocarcinoma	0.545600572912986
+AXL	Hodgkin Disease	0.5455363586109855
+PIK3CA	Adenoma	0.5455339874247453
+MOK	Adenocarcinoma	0.5454618088836416
+TEK	Carcinoma, Bronchogenic	0.5454105745294671
+KIT	Teratocarcinoma	0.5453571428571429
+GSK3B	Carcinoma	0.5453274696529737
+GSK3A	Carcinoma, Non-Small-Cell Lung	0.5453007464092098
+CDKN1A	Glioma	0.5452958073148975
+MST1R	Neoplasm Metastasis	0.5452769344320924
+MAPKAPK5	Neoplasms, Second Primary	0.5452588147861352
+ABL1	Mouth Neoplasms	0.5452461561766265
+MAP2K2	Sarcoma 37	0.5452255639097744
+PTK2	Thyroid Neoplasms	0.5452222605091274
+PAK5	Lung Neoplasms	0.5452172360651683
+ERBB4	Laryngeal Neoplasms	0.5451991141477015
+TEK	Thyroid Cancer, Papillary	0.5451946720521582
+ACVRL1	Esophageal Neoplasms	0.5451683278480551
+SRC	Thyroid Neoplasms	0.5451583309962295
+SRC	Esophageal Neoplasms	0.5451503759398496
+JAK2	Rectal Neoplasms	0.5451358824928639
+AKT1	Neoplasm Metastasis	0.5451287543908306
+PRKCA	Colorectal Neoplasms	0.5451118290487527
+ROR2	Leukemia, Lymphoid	0.5451045350935322
+RPS6KA5	Leukemia	0.5450891410048623
+GRK6	Leukemia	0.5450891410048623
+LATS1	Carcinoma, Non-Small-Cell Lung	0.5450870555708474
+KIT	Bone Neoplasms	0.5450867489933766
+FGFR1	Biliary Tract Neoplasms	0.5450862068965517
+ZAP70	Urinary Bladder Neoplasms	0.5450649377162117
+CASK	Gastrointestinal Stromal Tumors	0.5450378790959992
+ACVR1	Lymphoma	0.5450320512820512
+BRAF	Liver Neoplasms	0.545029187247418
+TAOK3	Lymphoma	0.5450144927536232
+ERBB2	Carcinogenesis	0.5450142993326978
+BMPR2	Neoplasm Metastasis	0.545
+CDK2	Carcinoma, Hepatocellular	0.545
+CSNK1D	Neoplasm Metastasis	0.545
+CCL5	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.545
+GRK3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.545
+KIT	Uterine Cervical Dysplasia	0.545
+KIT	Muscle Neoplasms	0.545
+KIT	Squamous Intraepithelial Lesions of the Cervix	0.545
+ALK	Lymphocele	0.545
+MTOR	ACTH Syndrome, Ectopic	0.545
+MAP3K3	Lymphoma	0.545
+BMPR1B	Lymphoma, B-Cell	0.545
+FYN	Leukemia, Promyelocytic, Acute	0.545
+ERBB2	Adenoma, Islet Cell	0.545
+PDGFRB	Nevus of Ota	0.545
+DCAF1	Neoplasm Metastasis	0.545
+AKT3	Carcinoma, Hepatocellular	0.545
+MOS	Lymphoma	0.545
+MAP2K7	Neuroblastoma	0.545
+NRBP2	Neoplasm Metastasis	0.545
+ERBB4	Neoplasms, Fibrous Tissue	0.545
+BCR	Oropharyngeal Neoplasms	0.545
+FGFR4	Adenoma, Sweat Gland	0.545
+MAP3K7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.545
+IGF1R	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.5448321678321678
+BMPR1B	Lymphoma, Non-Hodgkin	0.5445968992248063
+MAP3K9	Gastrointestinal Stromal Tumors	0.5444124069478908
+CDK11A	Gastrointestinal Stromal Tumors	0.5444115919629057
+PTK7	Lymphoma	0.5444
+FGFR2	Mouth Neoplasms	0.5442402987512706
+MAP2K7	Lymphoma, Non-Hodgkin	0.5441666666666667
+CCNK	Neoplasms, Second Primary	0.5440030450669915
+PDGFRB	Hepatoblastoma	0.5433333333333333
+MTOR	Fibroma, Desmoplastic	0.543189195368521
+BCR	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5430081761754998
+RPS6KB1	Adenocarcinoma	0.5427651966445144
+ALK	Digestive System Neoplasms	0.542360833241079
+CSF1R	Biliary Tract Neoplasms	0.5421051725799911
+MARK3	Lung Neoplasms	0.5416259975744038
+ERBB2	Seminoma	0.5414764468342345
+MAK	Lung Neoplasms	0.5414285714285715
+PIM1	Leukemia	0.5413584407488155
+MAPK11	Lung Neoplasms	0.5412379581728571
+BCR	Carcinoid Tumor	0.541157259634235
+TIE1	Leukemia, Lymphocytic, Chronic, B-Cell	0.5410524061978466
+PIK3CA	Neoplasms	0.5410519814542162
+ALK	Mouth Neoplasms	0.5410327172827173
+MAP2K7	Prostatic Neoplasms	0.5409465641424956
+FGFR3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5408594398037269
+LATS1	Lung Neoplasms	0.5408421419553663
+JAK2	Colonic Neoplasms	0.5408201172569655
+MET	Lymphoma, Follicular	0.5407515994567029
+PAK6	Gastrointestinal Stromal Tumors	0.5406926042067158
+INSR	Carcinoma, Bronchogenic	0.5405781718281718
+ABL1	Adenoma	0.5404314339100056
+PIK3CA	Anaplasia	0.5404274378776683
+PTK2B	Lymphoma	0.540276405775076
+PDIK1L	Adenocarcinoma of Lung	0.5402624069478908
+BMPR2	Carcinoma, Hepatocellular	0.54025
+PIM3	Leukemia	0.5402496348320227
+TRPM7	Leukemia	0.5402463737092648
+FGFR3	Leukemia, Myeloid, Acute	0.5401756189922836
+ALK	Osteosarcoma	0.540171248835042
+IRAK3	Leukemia	0.5401610904654712
+MAP3K1	Lung Neoplasms	0.5401605993010214
+FGFR1	Mixed Tumor, Malignant	0.5401282351705816
+FLT3	ACTH Syndrome, Ectopic	0.540122699386503
+CSNK2B	Lung Neoplasms	0.540110871750613
+JAK2	Neurofibromatoses	0.5400653594771242
+BTK	Stomach Neoplasms	0.5400563868788288
+RIPK3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.540054347826087
+CDK6	Mouth Neoplasms	0.5400418814432989
+PKN2	Neoplasm Metastasis	0.5400352609308886
+HASPIN	Neoplasm Metastasis	0.5400352609308886
+ALPK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5400340112373951
+BRSK2	Adenocarcinoma of Lung	0.5400283431691356
+MAP3K8	Lung Neoplasms	0.540026845637584
+ILK	Leukemia, Myeloid	0.5400200803212851
+AKT1	Carcinoma	0.5400068352699932
+ADCK1	Carcinoma, Non-Small-Cell Lung	0.54
+BRAF	Neoplasm, Residual	0.54
+CDK18	Carcinoma, Non-Small-Cell Lung	0.54
+CCL5	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.54
+GRK4	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.54
+CDK6	Adenocarcinoma of Lung	0.54
+CDK6	Neoplasms, Fibrous Tissue	0.54
+KIT	Paget Disease, Extramammary	0.54
+CDKL1	Neoplasm Metastasis	0.54
+ALK	Carcinoma, Brown-Pearce	0.54
+PRKAA2	Adenoma, Sweat Gland	0.54
+CAMK1D	Adenocarcinoma	0.54
+INSR	Head and Neck Neoplasms	0.54
+MAP2K7	Carcinoma, Brown-Pearce	0.54
+TLK2	Neoplasm Metastasis	0.54
+IGF1R	Head and Neck Neoplasms	0.54
+PDGFRA	Facial Neoplasms	0.54
+PDGFRA	Nevi and Melanomas	0.54
+PTK7	Neoplasm Metastasis	0.54
+FASTKD3	Carcinoma, Non-Small-Cell Lung	0.54
+FGFR1	Carcinoma, Pancreatic Ductal	0.54
+CAMK2G	Lung Neoplasms	0.5395660423155406
+IRAK3	Lymphoma	0.5395547370051902
+KDR	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.5395
+INSR	Liver Neoplasms	0.539416020845969
+STK33	Gastrointestinal Stromal Tumors	0.5394124069478908
+ROCK2	Carcinoma, Hepatocellular	0.5393158660327471
+ACVR1B	Leukemia, Lymphocytic, Chronic, B-Cell	0.53875
+INSR	Neoplasms	0.538409090909091
+STK11	Lymphoma, Non-Hodgkin	0.5381440449737306
+MAPK15	Carcinoma, Renal Cell	0.5377472871064151
+ERBB3	Gastrointestinal Stromal Tumors	0.5370554711081662
+STK11	Lymphoma	0.5367187359820634
+PRKACB	Meningeal Carcinomatosis	0.5364970765114437
+KALRN	Lung Neoplasms	0.5364554170661554
+TYRO3	Leukemia, Lymphoid	0.5361927672016266
+FGFR2	Neoplasms, Second Primary	0.5361277412049398
+NEK2	Lung Neoplasms	0.5359386951847668
+FLT1	Leukemia, T-Cell	0.5359277959762541
+BRAF	Carcinogenesis	0.5359090909090909
+AVP	Carcinoma	0.5359089167151022
+TAF1	Gastrointestinal Stromal Tumors	0.5357838600371357
+FRK	Gastrointestinal Stromal Tumors	0.5357658424908425
+BRAF	Mouth Neoplasms	0.5357381876510149
+FRK	Neoplasms, Second Primary	0.5356328440575752
+TRIM28	Lung Neoplasms	0.5355950208240636
+CAMK4	Lung Neoplasms	0.5355581801962047
+ERBB3	Polycythemia Vera	0.5354529300520681
+INSR	Testicular Neoplasms	0.5354347826086956
+PIK3CA	Fibrosarcoma	0.5354237060580399
+CSNK1G2	Leukemia	0.5353448275862069
+MAP2K7	Carcinogenesis	0.5352577757654214
+HIPK3	Adenocarcinoma of Lung	0.53525
+MAP3K14	Leukemia	0.5352493398383321
+ZAP70	Carcinoma, Bronchogenic	0.5352380952380953
+ABL1	Skull Base Neoplasms	0.5352325581395349
+ITK	Carcinoma, Hepatocellular	0.5352146085219884
+CCL5	Colorectal Neoplasms	0.5351744850078284
+CSNK2A2	Carcinoma, Non-Small-Cell Lung	0.5351663148392529
+BMPR2	Adenocarcinoma of Lung	0.5351612903225806
+TAOK2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5351515151515152
+MAP2K6	Leukemia	0.5351323548332874
+LRRK2	Carcinoma	0.5351301209811323
+FLT3	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.535122699386503
+ANKK1	Carcinoma, Non-Small-Cell Lung	0.5351221611968462
+MAP3K2	Leukemia	0.5350891410048623
+MAP2K2	Lymphocele	0.5350842696629213
+PRKCE	Carcinoma, Hepatocellular	0.5350432138284251
+CDKN1A	Carcinoma, Squamous Cell	0.5350431034482759
+CDKN1A	Esophageal Neoplasms	0.5350431034482759
+CDK5	Carcinoma, Hepatocellular	0.5350374732334047
+EPHB2	Carcinoma, Squamous Cell	0.535030276816609
+PTK6	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5350284495021337
+NEK9	Adenocarcinoma of Lung	0.5350283431691356
+FLT3	Mouth Neoplasms	0.535
+EGFR	Burkitt Lymphoma	0.535
+TSSK4	Neoplasm Metastasis	0.535
+TEK	Leukemia, Promyelocytic, Acute	0.535
+LCK	Adenoma, Sweat Gland	0.535
+PEAK1	Lung Neoplasms	0.535
+TRIM24	Leukemia	0.535
+ERBB2	Mesenteric Cyst	0.535
+PTK2	Stomach Neoplasms	0.535
+PDGFRB	Leukemia, Experimental	0.535
+PAK6	Neoplasm Metastasis	0.535
+MYO3A	Lung Neoplasms	0.535
+MYO3A	Lymphoma	0.535
+MET	Leukemia, T-Cell	0.535
+AKT2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.535
+PRKCA	Adenoma, Sweat Gland	0.535
+TTBK2	Carcinoma, Non-Small-Cell Lung	0.535
+FGFR2	Neoplasms, Fibrous Tissue	0.535
+PDGFRA	Thymoma	0.535
+STK11	Carcinoma, Hepatocellular	0.535
+UHMK1	Gastrointestinal Stromal Tumors	0.535
+JAK2	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.535
+CDC42BPG	Carcinoma, Non-Small-Cell Lung	0.535
+FGFR1	Head and Neck Neoplasms	0.535
+ITK	Neoplasm Metastasis	0.5346963151068665
+LMTK2	Gastrointestinal Stromal Tumors	0.5344124069478908
+ACVR2B	Lymphoma, Non-Hodgkin	0.5344
+JAK1	Sarcoma	0.5336752899197146
+FLT3	Neoplastic Syndromes, Hereditary	0.5336561743341405
+BCR	Neoplasms	0.5329147183156165
+MAP3K11	Carcinoma, Non-Small-Cell Lung	0.5328374696095077
+WNK1	Lung Neoplasms	0.5325846298870583
+PDGFRA	Polycythemia Vera	0.5325664660399901
+FGFR3	Testicular Neoplasms	0.5324818091088311
+FGFR1	Small Cell Lung Carcinoma	0.5323688169840997
+RPS6KB1	Colorectal Neoplasms	0.5321689284988514
+BRAF	Testicular Neoplasms	0.5320666666666667
+KIT	Adenocarcinoma, Bronchiolo-Alveolar	0.5319294658829543
+NTRK3	Adenocarcinoma	0.531819752552748
+FGFR3	Fibrosarcoma	0.5317840605816073
+CCL3	Neoplasm Metastasis	0.5311877934272301
+CDK4	Uterine Cervical Neoplasms	0.5311655011655012
+INSR	Lymphoma, T-Cell, Peripheral	0.5311176975647937
+TRIM24	Neoplasms, Second Primary	0.5310852661535058
+NEK8	Neoplasm Metastasis	0.531
+CDK2	Adenocarcinoma	0.530999639355897
+EEF2K	Lung Neoplasms	0.5309795394305113
+PDGFRA	Adenoma	0.5308313061189502
+TNIK	Gastrointestinal Stromal Tumors	0.5307962962962963
+PTK7	Lymphoma, Non-Hodgkin	0.5307204994238103
+BMPR2	Adenocarcinoma	0.5307105058905226
+IGF1R	Lymphoma, Follicular	0.5306775847827969
+NPR1	Gastrointestinal Stromal Tumors	0.5306386655929947
+FLT1	Lymphoma, Mantle-Cell	0.530533033295913
+CDK6	Leukemia, Promyelocytic, Acute	0.5304666666666666
+PBK	Lung Neoplasms	0.5303829540513625
+FGFR1	Fibrosarcoma	0.5303666802545627
+TRPM7	Lung Neoplasms	0.5303432607512623
+EIF2AK2	Leukemia	0.5303355547934486
+PTK2B	Stomach Neoplasms	0.5302846875742456
+PRKCB	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.530243710691824
+TRPM6	Adenocarcinoma of Lung	0.5302355072463768
+ERBB2	Leukemia-Lymphoma, Adult T-Cell	0.5302337585322167
+EPHB4	Lymphoma	0.530230450766165
+BRAF	Leukemia, Erythroblastic, Acute	0.5302070332517224
+PRKCA	Leukemia	0.5302004465328277
+PRKCE	Leukemia	0.5301898734177215
+PRKAA2	Carcinoma, Non-Small-Cell Lung	0.5301668246944795
+MST1R	Lymphoma	0.5301576994434137
+GRK5	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5301572327044025
+RPS6KA1	Leukemia	0.5301323548332874
+RPS6KA3	Leukemia	0.5301323548332874
+JAK2	Laryngeal Neoplasms	0.530122699386503
+MAPK1	Carcinogenesis	0.530108618074376
+BTK	Thyroid Neoplasms	0.5300806396246626
+DYRK1A	Carcinoma, Non-Small-Cell Lung	0.5300789473684211
+NPR2	Lymphoma, B-Cell	0.5300681198910082
+FGFR3	Nonodontogenic Cysts	0.5300671140939598
+KIT	Neoplasms, Ductal, Lobular, and Medullary	0.5300653594771242
+PAK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.530064935064935
+NTRK3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.530054347826087
+AKT2	Leukemia	0.5300432138284251
+INSR	Leukemia, Lymphoid	0.5300326909841706
+PRKCQ	Leukemia, Myeloid	0.5300284495021337
+PDGFRB	Neoplasm Seeding	0.530024154589372
+MAPKAPK5	Gastrointestinal Stromal Tumors	0.530023386342376
+RIPK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5300200803212851
+JAK1	Neuroblastoma	0.5300167855644147
+NEK6	Adenocarcinoma of Lung	0.5300111507582516
+MAP2K5	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5300030450669915
+BRAF	Lymphoma, Primary Cutaneous Anaplastic Large Cell	0.53
+ERBB3	Neoplasms, Fibrous Tissue	0.53
+KDR	Dentigerous Cyst	0.53
+KDR	Neoplasms, Complex and Mixed	0.53
+FASTKD1	Carcinoma, Non-Small-Cell Lung	0.53
+ALK	ACTH Syndrome, Ectopic	0.53
+TTN	Neoplasm Metastasis	0.53
+MTOR	Trophoblastic Tumor, Placental Site	0.53
+SYK	Stomach Neoplasms	0.53
+EPHB3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.53
+TLK1	Neoplasm Metastasis	0.53
+AVP	Leukemia, Myeloid	0.53
+PTK2	Leukemia, Promyelocytic, Acute	0.53
+PDGFRB	Skull Base Neoplasms	0.53
+DMPK	Lymphoma	0.53
+MAP2K1	ACTH Syndrome, Ectopic	0.53
+DSTYK	Lung Neoplasms	0.53
+EPHB4	Hematologic Neoplasms	0.53
+MAP3K15	Lung Neoplasms	0.53
+MUSK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.53
+STK40	Neoplasm Metastasis	0.53
+EPHA8	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.53
+PDGFRA	Lymphocele	0.53
+JAK2	Esophageal Squamous Cell Carcinoma	0.53
+ACVR2A	Neoplasm Metastasis	0.53
+FASTKD3	Lung Neoplasms	0.53
+CDKL5	Lymphoma	0.53
+FGFR1	Adenoma, Islet Cell	0.53
+ACVR1B	Lymphoma	0.5294111507582515
+EPHA2	Adenocarcinoma	0.5293300339118922
+MAPK15	Neoplasms, Second Primary	0.529
+EPHA5	Neoplasms, Second Primary	0.5289346501986368
+FGFR2	Leukemia, Lymphocytic, Chronic, B-Cell	0.5286293999966815
+PIK3CA	Carcinoma, Small Cell	0.5283562018739073
+PDGFRA	Lymphoma, T-Cell, Peripheral	0.5276322322250915
+INSR	Gastrointestinal Stromal Tumors	0.5274095664197564
+FGFR2	Leukemia, Lymphoid	0.5274041400686216
+IKBKE	Lung Neoplasms	0.5273353969580782
+CCL5	Neoplasm Metastasis	0.5272601413292589
+PDGFRB	Seminoma	0.5265959005257251
+BRAF	Carcinoma, Bronchogenic	0.5261553724053725
+ALK	Laryngeal Neoplasms	0.5261183360031547
+MAP4K4	Leukemia, Myeloid	0.5259982319139531
+MAPK7	Leukemia	0.5259137495324573
+INSR	Digestive System Neoplasms	0.525896347288422
+IGF1R	Adenoma	0.525800435453353
+PTK7	Leukemia, Myeloid, Acute	0.5257769321833249
+TXK	Adenocarcinoma of Lung	0.5257096667408926
+TLK1	Carcinoma, Non-Small-Cell Lung	0.5255555555555556
+CDC7	Lung Neoplasms	0.5254975169818095
+FGFR3	Mouth Neoplasms	0.5254666675044948
+FGFR1	Laryngeal Neoplasms	0.5254484173079715
+ALK	Facial Neoplasms	0.5254078252305489
+AMHR2	Small Cell Lung Carcinoma	0.5253097937365235
+RIPK3	Leukemia	0.5252567351919647
+PAK4	Leukemia	0.5252538783942292
+MAP4K1	Gastrointestinal Stromal Tumors	0.5252439024390244
+SYK	Leukemia, Myeloid, Acute	0.5252340796216306
+INSR	Rectal Neoplasms	0.5252140567765567
+MET	Leukemia-Lymphoma, Adult T-Cell	0.5251938141669585
+TNK2	Leukemia, Lymphoid	0.525185952970297
+SMG1	Carcinoma, Hepatocellular	0.5251783607890991
+EPHB2	Hematologic Neoplasms	0.5251463961107589
+MAPK1	Neoplasm Metastasis	0.525145378966635
+ALPK1	Leukemia, Lymphoid	0.525139586823222
+MAP2K2	Trophoblastic Tumor, Placental Site	0.5251287141073658
+INSR	Laryngeal Neoplasms	0.5251234567901235
+ERBB2	Leukemic Infiltration	0.5250980392156862
+ROR2	Hematologic Neoplasms	0.5250910966680024
+MKNK2	Neoplasm Metastasis	0.5250896087569755
+FYN	Lymphoma	0.525088905775076
+CCNK	Meningeal Carcinomatosis	0.5250789735724356
+ERBB4	Neuroblastoma	0.5250724637681159
+ZAP70	Liver Neoplasms	0.5250675268000529
+FYN	Hematologic Neoplasms	0.525054347826087
+IKBKE	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5250485298234189
+MASTL	Neoplasm Metastasis	0.525048076923077
+LIMK1	Leukemia	0.525043213828425
+CSNK1G1	Liver Neoplasms	0.5250400821040285
+FRK	Adenocarcinoma of Lung	0.5250398863904355
+ERBB3	Carcinogenesis	0.5250355239786856
+IRAK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5250284495021337
+CAMK2B	Adenocarcinoma of Lung	0.5250283431691356
+SGK2	Gastrointestinal Stromal Tumors	0.5250268997015141
+MASTL	Lung Neoplasms	0.5250128810648347
+CCL2	Adenoma, Sweat Gland	0.525
+ERBB3	Seminoma	0.525
+EPHA2	Adenoma, Sweat Gland	0.525
+ALK	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.525
+TXK	Stomach Neoplasms	0.525
+BCKDK	Neoplasm Metastasis	0.525
+LYN	Adenoma, Sweat Gland	0.525
+AKT1	Spinal Neoplasms	0.525
+PASK	Carcinoma, Non-Small-Cell Lung	0.525
+BRSK1	Neoplasm Metastasis	0.525
+PDGFRB	Neuroectodermal Tumors, Primitive, Peripheral	0.525
+PRKD2	Neoplasm Metastasis	0.525
+DCLK3	Carcinoma, Non-Small-Cell Lung	0.525
+FLT4	Leukemia, Promyelocytic, Acute	0.525
+CAMK2G	Adenoma, Sweat Gland	0.525
+ALPK1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.525
+MAST3	Neoplasm Metastasis	0.525
+NME2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.525
+PIK3CD	Adenoma, Islet Cell	0.525
+CDK16	Gastrointestinal Stromal Tumors	0.5246207402812242
+NUAK2	Gastrointestinal Stromal Tumors	0.5244
+PLK1	Colorectal Neoplasms	0.5242935457163748
+PRKCD	Neoplasm Metastasis	0.5241353536509482
+IGF1R	Sarcoma, Kaposi	0.5237747464178082
+YES1	Lymphoma, B-Cell	0.5236158736134967
+NTRK1	Hodgkin Disease	0.5234353741496599
+FGFR1	Carcinoma, Small Cell	0.5227713226181396
+DAPK1	Carcinoma, Non-Small-Cell Lung	0.522658470475599
+SRC	Lymphoma, B-Cell	0.522539101721781
+DCLK1	Carcinoma, Non-Small-Cell Lung	0.5222666955932462
+MARK1	Carcinoma, Non-Small-Cell Lung	0.5222502198114286
+CDKL5	Carcinoma, Non-Small-Cell Lung	0.5222456140350877
+CAMK1D	Lung Neoplasms	0.5222222222222223
+FLT1	Bile Duct Neoplasms	0.5221265420373713
+ERBB4	Mixed Tumor, Malignant	0.5220853128893719
+LYN	Liver Neoplasms	0.5220626215057957
+FGFR3	Carcinoma, Small Cell	0.5220022406881627
+MET	Carcinoma, Bronchogenic	0.5218382999988157
+HASPIN	Adenocarcinoma	0.5217790926669815
+RET	Lymphoma, T-Cell, Cutaneous	0.5217642426234645
+RPS6KA6	Lung Neoplasms	0.5215232431859351
+BMPR1B	Leukemia, Lymphocytic, Chronic, B-Cell	0.5214459158200652
+ROS1	Burkitt Lymphoma	0.5213947339648627
+AXL	Cholangiocarcinoma	0.5213590033021093
+MAP2K4	Carcinoma, Non-Small-Cell Lung	0.5211450572922904
+NTRK2	Hodgkin Disease	0.5211253311751133
+EIF2AK3	Adenocarcinoma	0.520930892266146
+FGFR2	Carcinogenesis	0.5209302325581395
+EPHB2	Carcinoma, Bronchogenic	0.5208576196299443
+PDGFRB	Neoplastic Processes	0.5208093814033339
+IGF1R	Ovarian Neoplasms	0.5207956357175013
+BRAF	Ganglioneuroblastoma	0.5207803559251902
+AVP	Neoplasm Metastasis	0.5206808254834177
+ZAP70	Colonic Neoplasms	0.5205772448410485
+MAP2K7	Neoplasm Metastasis	0.5204728753413792
+BRAF	Hypothalamic Neoplasms	0.5204387544603908
+PDK4	Lung Neoplasms	0.5204368166577198
+GSK3B	Leukemia	0.5204058973986262
+STK36	Lymphoma	0.5203448275862069
+JAK2	Thymoma	0.5203015848980416
+ACVRL1	Stomach Neoplasms	0.5202941176470588
+PRKG2	Adenocarcinoma of Lung	0.52025
+MTOR	Esophageal Squamous Cell Carcinoma	0.5202337585322167
+CSK	Leukemia, Myeloid	0.5202320575512351
+ACVR2B	Lymphoma, B-Cell	0.5201604938271605
+TGFBR1	Lymphoma, Non-Hodgkin	0.5201418196607018
+CDKL2	Leukemia, Lymphoid	0.5201413327307814
+NEK7	Lung Neoplasms	0.5201397267024186
+STK11	Neoplasms, Fibrous Tissue	0.5201239322757779
+PDGFRA	Leukemia-Lymphoma, Adult T-Cell	0.5201206881051068
+MUSK	Lymphoma	0.5201198216885057
+MAP3K4	Neoplasm Metastasis	0.5201129811381425
+NEK9	Lung Neoplasms	0.5200962900820284
+ERBB4	Burkitt Lymphoma	0.5200943396226415
+TYRO3	Leukemia, Lymphocytic, Chronic, B-Cell	0.5200710859049374
+INSR	Mixed Tumor, Malignant	0.520066622775871
+ERBB3	Mastocytosis, Systemic	0.5200313479623824
+WNK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5200284495021337
+ZAP70	Nasopharyngeal Carcinoma	0.5200284495021337
+CAMK2A	Adenocarcinoma of Lung	0.5200283431691356
+PDGFRB	Cell Transformation, Viral	0.520024154589372
+BMPR1B	Hematologic Neoplasms	0.52000627090301
+MAP3K2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5200030450669915
+FLT3	Bone Neoplasms	0.52
+LATS1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.52
+MAP2K2	Carcinoma, Brown-Pearce	0.52
+KIT	Nevi and Melanomas	0.52
+EPHB3	Leukemia	0.52
+PAK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.52
+FLT1	Carcinoma, Pancreatic Ductal	0.52
+AKT1	Neuroectodermal Tumors, Primitive	0.52
+RPS6KB2	Leukemia, Myeloid	0.52
+KSR1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.52
+RET	Spinal Neoplasms	0.52
+TGFBR2	Leukemia, Promyelocytic, Acute	0.52
+MUSK	Leukemia	0.52
+NTRK1	Nasopharyngeal Carcinoma	0.52
+CDK15	Lymphoma	0.52
+CAMKK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.52
+IGF1R	Glioma	0.52
+PDGFRA	Oropharyngeal Neoplasms	0.52
+TRPM6	Neoplasm Metastasis	0.52
+ATM	Adenoma, Sweat Gland	0.52
+STK26	Neoplasm Metastasis	0.52
+ACVR2A	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.52
+BCR	Squamous Cell Carcinoma of Head and Neck	0.52
+MAPK1	Neoplasms, Fibrous Tissue	0.52
+NPR2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.52
+PRKCA	Carcinoma	0.5198554409531188
+PIM2	Lymphoma	0.5198138004642536
+EPHA8	Lymphoma	0.5194
+ROS1	Mesothelioma	0.5193534848015566
+EPHA6	Neoplasms, Second Primary	0.5187907361455748
+PRKCI	Lymphoma	0.5186666666666667
+ERBB3	Hepatoblastoma	0.5185876582728696
+PRKG2	Adenocarcinoma	0.5185681220149548
+MAPK4	Adenocarcinoma	0.5184313131313132
+IGF1R	Mesothelioma	0.5183333333333333
+HIPK2	Carcinoma, Non-Small-Cell Lung	0.5179218285174979
+AKT2	Lymphoma, Non-Hodgkin	0.5178455838935441
+IGF1R	Squamous Cell Carcinoma of Head and Neck	0.5177878787878788
+FGFR3	Head and Neck Neoplasms	0.5177759995985416
+BRAF	Optic Nerve Glioma	0.5177388095087472
+PLK1	Carcinoma, Non-Small-Cell Lung	0.5175569683227857
+STK39	Lung Neoplasms	0.517517812928628
+FGFR3	Mesothelioma	0.5169098493129247
+TRPM6	Neoplasms, Second Primary	0.5167216117216117
+LRRK1	Adenocarcinoma	0.5166666666666666
+AXL	Colorectal Neoplasms	0.516497582870771
+FLT1	Hepatoblastoma	0.5164612624127422
+BRAF	Teratocarcinoma	0.5164344827586207
+ERBB3	Lymphoma, Follicular	0.5162545971868782
+NTRK1	Gallbladder Neoplasms	0.5161886467474497
+JAK2	Kidney Neoplasms	0.5161365427296334
+DAPK2	Gastrointestinal Stromal Tumors	0.5159802610953035
+RPS6KA2	Lung Neoplasms	0.5159653741375303
+NME2	Lymphoma	0.5159302325581395
+RET	Lymphoma, Mantle-Cell	0.5156539433231826
+TGFBR2	Lymphoma, Non-Hodgkin	0.515570706840556
+KDR	Carcinoma, Pancreatic Ductal	0.5155635835648167
+BCR	Lymphoma, B-Cell	0.5155268725025561
+FGFR3	Squamous Cell Carcinoma of Head and Neck	0.5155194947056883
+ROS1	Mouth Neoplasms	0.5154995507575107
+PIK3CA	Neoplasms, Second Primary	0.5154912283385377
+CSNK2A1	Carcinoma, Non-Small-Cell Lung	0.5154468515922574
+CDKL5	Lung Neoplasms	0.5154190636573303
+FLT4	Carcinoma, Bronchogenic	0.5154043825763364
+EPHA4	Leukemia, Lymphocytic, Chronic, B-Cell	0.5153700491595307
+PLK1	Adenocarcinoma	0.515363463241049
+PTK2	Leukemia, Lymphoid	0.5153483914672418
+PKN2	Adenocarcinoma of Lung	0.5152611507582515
+PIK3CA	Sarcoma, Kaposi	0.5152547739146099
+EPHB4	Lymphoma, Non-Hodgkin	0.5152505310874502
+CSNK1A1	Adenocarcinoma of Lung	0.5152415015896308
+KIT	Adrenal Gland Neoplasms	0.5152218305759869
+PLK4	Carcinoma, Non-Small-Cell Lung	0.5152070059830034
+BCR	Thyroid Cancer, Papillary	0.5151745795836464
+ERBB2	Carcinoma, Pancreatic Ductal	0.5151506768106466
+PRKAA1	Carcinoma, Non-Small-Cell Lung	0.515139116458434
+FGFR1	Squamous Cell Carcinoma of Head and Neck	0.5151234567901235
+AXL	Stomach Neoplasms	0.5151131085564846
+AURKC	Neoplasm Metastasis	0.5150898718047725
+KSR1	Leukemia	0.5150891410048622
+TIE1	Lymphoma, Mantle-Cell	0.5150732718106468
+LMTK2	Adenocarcinoma of Lung	0.5150570788013196
+CCNK	Adenocarcinoma of Lung	0.5150283431691356
+CSK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5150200803212851
+FLT4	Laryngeal Neoplasms	0.5150183598531212
+MAP3K12	Neoplasm Metastasis	0.5150115919629057
+ERBB3	Oropharyngeal Neoplasms	0.515
+MAP3K20	Hematologic Neoplasms	0.515
+FGFR3	Nasopharyngeal Carcinoma	0.515
+PDK3	Lung Neoplasms	0.515
+ANKK1	Leukemia	0.515
+AKT1	Cecal Neoplasms	0.515
+MAPK12	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.515
+CDK3	Neoplasm Metastasis	0.515
+ARAF	Lymphoma, B-Cell	0.515
+CCL3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.515
+CCL3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.515
+MAP2K7	Leukemia, Promyelocytic, Acute	0.515
+EPHB4	Leukemia, Myeloid, Acute	0.515
+CSNK1G1	Carcinoma	0.515
+MKNK2	Lymphoma	0.515
+PTK2B	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.515
+ALPK2	Neoplasm Metastasis	0.515
+SRPK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.515
+PDGFRA	Mouth Neoplasms	0.515
+PDGFRA	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.515
+UHMK1	Neoplasm Metastasis	0.515
+AURKB	Adenoma, Sweat Gland	0.515
+JAK2	Nasopharyngeal Carcinoma	0.515
+JAK2	Burkitt Lymphoma	0.515
+ZAP70	Carcinoma, Squamous Cell	0.515
+PIK3CD	Mesenteric Cyst	0.515
+PAK6	Adenocarcinoma of Lung	0.5145248223192888
+CAMK2A	Gastrointestinal Stromal Tumors	0.5144
+LIMK2	Lymphoma	0.5144
+ERBB3	Carcinoma, Small Cell	0.5143900400215443
+MUSK	Liver Neoplasms	0.5143104955304388
+CCNK	Small Cell Lung Carcinoma	0.5142220917917355
+ERBB3	Lymphoma, Mantle-Cell	0.514212975378715
+MTOR	Vascular Neoplasms	0.5138745246052985
+IGF1R	Brain Neoplasms	0.5133452451856263
+EPHB4	Leukemia, Lymphoid	0.5131922183345669
+MYLK3	Lymphoma	0.5130666666666667
+NPR2	Carcinoma, Non-Small-Cell Lung	0.5128333333333334
+PDGFRA	Hepatoblastoma	0.5127616858237548
+AXL	Adenocarcinoma of Lung	0.5124961810394989
+EPHA2	Carcinoma, Squamous Cell	0.5124252626933177
+FGFR1	Lymphoma, Mantle-Cell	0.5123607244956732
+PDK2	Neoplasm Metastasis	0.5123115343923819
+NEK9	Meningeal Carcinomatosis	0.512300342685405
+FER	Neoplasms, Second Primary	0.5119978057120685
+PLK4	Leukemia	0.5119641410048622
+PRKACB	Small Cell Lung Carcinoma	0.5119422315092944
+NEK9	Neoplasms, Second Primary	0.5117021906453523
+CDK14	Adenocarcinoma	0.5116199922971022
+BMPR1A	Adenocarcinoma	0.5115871493336059
+DCLK1	Leukemia, Lymphocytic, Chronic, B-Cell	0.5115530679059966
+ERBB2	Lymphoma, T-Cell, Peripheral	0.5114553430875006
+MAP2K4	Lung Neoplasms	0.5113402845237291
+STK11	Carcinoma	0.5113218914561368
+LYN	Leukemia, Promyelocytic, Acute	0.5112053273453548
+CPNE3	Lymphoma	0.5109698275862069
+OBSCN	Small Cell Lung Carcinoma	0.5107875365499244
+ACVR1B	Leukemia, Myeloid	0.5107142857142857
+PLK4	Lung Neoplasms	0.5107013111024308
+OBSCN	Adenocarcinoma	0.5106279023683499
+NTRK3	Lymphoma, B-Cell	0.5106194786676082
+NTRK2	Lymphoma, T-Cell	0.5105919697523243
+TBK1	Carcinoma, Non-Small-Cell Lung	0.5105830746587958
+KIT	Paraneoplastic Syndromes	0.5105749185466361
+CILK1	Neoplasms, Second Primary	0.5105168947971145
+FGFR4	Adenocarcinoma	0.5105034447112512
+RPS6KA5	Lymphoma	0.5104937634158714
+JAK2	Neoplasms	0.5104661716171617
+ACVR1C	Adenocarcinoma of Lung	0.5104627659574468
+FGFR3	Mesenteric Cyst	0.5104545454545455
+CDK14	Gastrointestinal Stromal Tumors	0.5104522357723578
+PRKCA	Carcinoma, Squamous Cell	0.5104297482640141
+EGFR	Retroperitoneal Neoplasms	0.5103916017928757
+MST1R	Leukemia, Lymphocytic, Chronic, B-Cell	0.5103538636827152
+ABL1	Oropharyngeal Neoplasms	0.5103321678321678
+CDK6	Esophageal Squamous Cell Carcinoma	0.5103267367905175
+PDGFRA	Lymphoma, B-Cell, Marginal Zone	0.5103207508509993
+GRK3	Neoplasm Metastasis	0.5102918949378288
+BCR	Neuroectodermal Tumors, Primitive, Peripheral	0.5102325581395348
+IGF1R	Leukemia, T-Cell	0.5102092066022973
+MET	Mouth Neoplasms	0.5101991141477015
+LATS1	Leukemia	0.5101974608415347
+EPHA4	Leukemia, Lymphoid	0.5101864483818095
+KIT	Anus Neoplasms	0.5101762820512821
+CCL3	Leukemia, Myeloid	0.5101576994434137
+PTK2	Leukemia, Lymphocytic, Chronic, B-Cell	0.5101234567901235
+TRIO	Neoplasm Metastasis	0.5101120243000568
+PDGFRA	Anal Gland Neoplasms	0.5100946372239747
+ZAP70	Adenocarcinoma of Lung	0.5100720914219555
+MAP2K7	Brain Neoplasms	0.5100632911392405
+MAP2K7	Leukemia, Myeloid	0.510048076923077
+PDPK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5100284495021338
+KIT	Leukemia, Plasma Cell	0.5100241545893719
+ACVR2B	Lymphoma, Mantle-Cell	0.510023166023166
+PIK3C3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.51
+MAP2K2	Neoplasms, Complex and Mixed	0.51
+KIT	Palatal Neoplasms	0.51
+RIOK2	Neoplasm Metastasis	0.51
+EPHB1	Leukemia	0.51
+EPHB1	Hematologic Neoplasms	0.51
+LATS2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.51
+FYN	Adenoma, Sweat Gland	0.51
+SIK1	Lymphoma	0.51
+PRKACG	Carcinoma, Non-Small-Cell Lung	0.51
+PDGFRB	Cocarcinogenesis	0.51
+PDGFRB	Otorhinolaryngologic Neoplasms	0.51
+PDGFRB	Periodontal Cyst	0.51
+POMK	Lung Neoplasms	0.51
+MAP2K7	Nevi and Melanomas	0.51
+MAP2K1	Neoplasms, Muscle Tissue	0.51
+CSNK1G1	Carcinoma, Non-Small-Cell Lung	0.51
+JAK3	Neoplasms, Fibrous Tissue	0.51
+AXL	Leukemia, Myeloid, Acute	0.51
+FGFR2	Nasopharyngeal Carcinoma	0.51
+FGFR2	Mesenteric Cyst	0.51
+RPS6KB1	Neoplasms, Fibrous Tissue	0.51
+PDGFRA	Neuroectodermal Tumors, Primitive, Peripheral	0.51
+ABL1	Laryngeal Neoplasms	0.51
+LMTK2	Neoplasms, Second Primary	0.51
+MAST3	Lung Neoplasms	0.51
+BCR	Mixed Tumor, Malignant	0.51
+KIT	Leukemia, Erythroblastic, Acute	0.5098326201968678
+MET	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.5095698974836905
+IGF1R	Leukemia, Erythroblastic, Acute	0.5094741172839768
+TRPM6	Gastrointestinal Stromal Tumors	0.5094287356321839
+INSR	Biliary Tract Neoplasms	0.5092760803142732
+ERBB3	Glioma	0.509
+LRRK2	Lung Neoplasms	0.508804013232179
+BRAF	Peripheral Nervous System Neoplasms	0.5087662182457274
+ERBB3	Precancerous Conditions	0.5086142322097378
+RPS6KA2	Carcinoma, Non-Small-Cell Lung	0.5086118358510444
+RPS6KA4	Adenocarcinoma	0.5082091796960045
+BRAF	Infratentorial Neoplasms	0.5081038962864531
+ERBB2	Mastocytosis, Systemic	0.5076873100858743
+INSR	Sarcoma, Kaposi	0.5076236263736263
+PAK1	Carcinoma	0.5073934255474963
+INSR	Carcinoid Tumor	0.5072439365979402
+PDK1	Leukemia	0.5071097361182813
+KIT	Pleural Neoplasms	0.5070350293472912
+ALK	Central Nervous System Neoplasms	0.5068642409205445
+MET	Polycythemia Vera	0.506858816711081
+ALK	Lymphoma, B-Cell	0.5068031606890149
+EPHB2	Sarcoma	0.5067542372881355
+CSF1R	Mixed Tumor, Malignant	0.5067064166076904
+AMHR2	Adenocarcinoma	0.5066739288307915
+RIPK1	Carcinoma, Non-Small-Cell Lung	0.5065775790149933
+ERBB3	Bile Duct Neoplasms	0.5065657894736841
+UHMK1	Lung Neoplasms	0.50646829813099
+ERBB2	Fibrosarcoma	0.5063644633883516
+ATM	Lymphoma	0.5063282654876604
+RPS6KA5	Lung Neoplasms	0.506295805523336
+CCL8	Adenocarcinoma of Lung	0.5062322042344829
+NEK9	Gastrointestinal Stromal Tumors	0.5061996876496453
+BRAF	Carcinoma, Neuroendocrine	0.5061212568762506
+NTRK3	Carcinoma, Squamous Cell	0.5061162170131809
+NEK2	Carcinoma, Non-Small-Cell Lung	0.5060930635435351
+ITK	Leukemia, Promyelocytic, Acute	0.506051282051282
+ERBB3	Adenocarcinoma, Bronchiolo-Alveolar	0.5060219037854328
+YES1	Lymphoma, Non-Hodgkin	0.5060207701675593
+ROS1	Liver Neoplasms	0.5060007081789286
+BUB1B	Lung Neoplasms	0.5059676918156487
+TGFBR2	Colorectal Neoplasms	0.5059538097191597
+IRAK3	Leukemia, Lymphocytic, Chronic, B-Cell	0.505909090909091
+SYK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5058882909916194
+TTN	Adenocarcinoma	0.5057540934409661
+KIT	Medulloblastoma	0.5057292494760425
+MAP2K7	Skin Neoplasms	0.5057259401873957
+PRKD2	Carcinoma, Renal Cell	0.5057026035065004
+PDGFRB	Leukemia, Erythroblastic, Acute	0.5056610588887078
+AURKA	Lymphoma	0.5056434490833199
+FGFR2	Testicular Neoplasms	0.5055837178708764
+MAPKAPK5	Adenocarcinoma of Lung	0.5055789458744258
+FGFR2	Carcinoma, Bronchogenic	0.5055510523715149
+FLT3	Anal Gland Neoplasms	0.5054206170031621
+BCR	Kidney Neoplasms	0.5054179970374714
+CDK1	Colorectal Neoplasms	0.5053947956421746
+FASTKD2	Lymphoma	0.5053448275862069
+CDK1	Carcinoma, Hepatocellular	0.5052805064609576
+CLK2	Adenocarcinoma of Lung	0.5052539085375216
+PDGFRA	Nasopharyngeal Neoplasms	0.50525
+MKNK2	Leukemia	0.5052496348320227
+ACVRL1	Colorectal Neoplasms	0.5052317196757093
+BRAF	Neoplasms, Glandular and Epithelial	0.5052233640939597
+ERBB3	Lymphoma, T-Cell, Cutaneous	0.5052082840114573
+LRRK2	Lymphoma	0.5051965154404031
+FLT3	Lymphatic Vessel Tumors	0.5051880588636273
+PAK3	Neoplasm Metastasis	0.505168629298163
+PIK3CA	Lymphatic Vessel Tumors	0.5051598975991144
+ERBB2	Prostatic Intraepithelial Neoplasia	0.5051392933387114
+EPHA2	Lymphoma	0.5051382605790949
+DCLK1	Neoplasm Metastasis	0.5050777202072539
+PRKCZ	Carcinoma, Hepatocellular	0.505070059466009
+JAK2	Anal Gland Neoplasms	0.5050653594771242
+PRKCA	Stomach Neoplasms	0.5050543478260869
+FGFR1	Urogenital Neoplasms	0.5050537634408602
+PKMYT1	Adenocarcinoma of Lung	0.5050432283858072
+FLT1	Mouth Neoplasms	0.505041881443299
+EGFR	Leukemia, Erythroblastic, Acute	0.5050417246175243
+TTN	Carcinoma, Hepatocellular	0.5050374732334046
+SGK3	Neoplasm Metastasis	0.5050352609308886
+IKBKE	Leukemia, Myeloid	0.5050200803212852
+EPHB4	Carcinoma, Hepatocellular	0.5050191791331031
+NEK7	Gastrointestinal Stromal Tumors	0.5050124069478908
+BRAF	Laryngeal Neoplasms	0.505
+BRAF	Fibromatosis, Aggressive	0.505
+BRAF	Carcinoma, Medullary	0.505
+TSSK4	Carcinoma, Non-Small-Cell Lung	0.505
+MAP2K2	Palatal Neoplasms	0.505
+KIT	Skull Base Neoplasms	0.505
+MTOR	Neoplasms, Adipose Tissue	0.505
+MTOR	Nevi and Melanomas	0.505
+AKT1	Laryngeal Neoplasms	0.505
+RPS6KB2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.505
+AVP	Leukemia	0.505
+INSR	Nasopharyngeal Carcinoma	0.505
+MAP2K7	Cecal Neoplasms	0.505
+MAP2K7	Neoplasms, Complex and Mixed	0.505
+DAPK1	Adenoma, Sweat Gland	0.505
+NRBP2	Carcinoma, Non-Small-Cell Lung	0.505
+STK17B	Carcinoma, Non-Small-Cell Lung	0.505
+MET	Carcinogenesis	0.505
+CDK14	Leukemia	0.505
+FGFR2	Hodgkin Disease	0.505
+EPHA8	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.505
+NPR2	Lymphoma	0.505
+STK33	Carcinoma, Renal Cell	0.5048160160042875
+PRKD2	Gastrointestinal Stromal Tumors	0.5046352330348474
+BRSK2	Gastrointestinal Stromal Tumors	0.5046352330348474
+MOK	Neoplasms, Second Primary	0.5045938265214472
+NTRK1	Urologic Neoplasms	0.5041762820512821
+MET	Lymphoma, Mantle-Cell	0.5040647654378265
+INSR	Squamous Cell Carcinoma of Head and Neck	0.504
+BRAF	Spinal Cord Neoplasms	0.5038840761510986
+CSNK1A1	Meningeal Carcinomatosis	0.5031956909014581
+PRKCD	Carcinoma	0.5029188087439004
+PRKCB	Neoplasm Metastasis	0.502794185721129
+PIK3C3	Carcinoma, Non-Small-Cell Lung	0.5025275305916386
+FGFR1	Bile Duct Neoplasms	0.5025101760851761
+PLK2	Leukemia	0.502309906390895
+NTRK2	Breast Neoplasms	0.502267572787573
+SYK	Adenocarcinoma	0.50220157167099
+MET	Lymphoma, Extranodal NK-T-Cell	0.5020610573949232
+MAP2K7	Oligodendroglioma	0.5019412243675033
+ALK	Squamous Cell Carcinoma of Head and Neck	0.5019406431814113
+PRKCA	Adenocarcinoma	0.5017969058533273
+EIF2AK3	Lung Neoplasms	0.5016719256670008
+MOS	Lung Neoplasms	0.5014562634442487
+RET	Fibrosarcoma	0.5012688199305747
+EGFR	Neoplasms, Multiple Primary	0.5012037037037037
+GRK4	Leukemia, Lymphocytic, Chronic, B-Cell	0.500909090909091
+AKT1	Melanoma	0.5007485312479956
+EIF2AK3	Carcinoma, Hepatocellular	0.5006874579476029
+IGF1R	Thyroid Cancer, Papillary	0.5006656202696053
+PTK2	Urinary Bladder Neoplasms	0.5006411432925608
+JAK2	Lymphoma, Follicular	0.500625360957899
+CILK1	Adenocarcinoma of Lung	0.5005584375938813
+CCL3	Carcinoma, Hepatocellular	0.5005475542191313
+GRK4	Lymphoma, Mantle-Cell	0.500523166023166
+VRK1	Lung Neoplasms	0.5005105359439725
+AXL	Carcinoma, Squamous Cell	0.5005081902515471
+MAP2K7	Leukemia, Myeloid, Acute	0.5004666666666666
+RIPK2	Leukemia	0.5004547070425981
+FGFR4	Leukemia, Lymphoid	0.5004487259616615
+DYRK1B	Adenocarcinoma of Lung	0.5003761296122196
+GRK2	Lymphoma	0.5003329970595457
+LRRK2	Carcinoma, Hepatocellular	0.5003002825381943
+AKT1	Pancreatic Neoplasms	0.5002564102564103
+SRC	Prostatic Neoplasms	0.5002479046385926
+EPHB2	Melanoma	0.5002419265974861
+MAP2K7	Mouth Neoplasms	0.5002222777222777
+CLK2	Neoplasms, Second Primary	0.5002003802175959
+FLT3	Hydatidiform Mole, Invasive	0.5001880588636273
+MAPK3	Astrocytoma	0.5001630434782609
+FGFR1	Lymphoma, Follicular	0.5001418439716312
+GRK2	Carcinoma, Hepatocellular	0.5001183786863985
+IGF1R	Rectal Neoplasms	0.5001098901098902
+BCR	Laryngeal Neoplasms	0.5001056338028169
+MAPK1	Glioma	0.5001022016450771
+PDGFRA	Lymphatic Vessel Tumors	0.5000946372239747
+TEK	Lymphoma, T-Cell	0.5000906344410876
+ERBB2	Retroperitoneal Neoplasms	0.5000864779874213
+BMPR1B	Neoplasm Metastasis	0.5000777202072539
+ERBB3	Neoplastic Syndromes, Hereditary	0.5000445815463465
+PDIK1L	Gastrointestinal Stromal Tumors	0.500026899701514
+AKT2	Stomach Neoplasms	0.5000239675516224
+VRK3	Leukemia	0.5000175378206146
+VRK3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5000144927536232
+MAPK4	Adenocarcinoma of Lung	0.5000144927536232
+MAP3K10	Adenocarcinoma of Lung	0.5000138504155125
+FLT3	Carcinogenesis	0.5
+EGFR	Teratocarcinoma	0.5
+BMPR2	Adenoma, Sweat Gland	0.5
+LRRK2	Neoplasm Metastasis	0.5
+ULK2	Neoplasm Metastasis	0.5
+CCL5	Adenoma, Sweat Gland	0.5
+GRK3	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5
+CDK4	Leukemia, Promyelocytic, Acute	0.5
+KIT	Glomus Tympanicum Tumor	0.5
+BTK	Mesenteric Cyst	0.5
+FYN	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5
+ERBB2	Cecal Neoplasms	0.5
+ROCK1	Adenoma, Sweat Gland	0.5
+DCLK1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5
+AVP	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.5
+PDGFRB	Facial Neoplasms	0.5
+PDGFRB	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.5
+MAPK3	Stomach Neoplasms	0.5
+MAPK3	Neoplasms, Fibrous Tissue	0.5
+SRPK3	Carcinoma	0.5
+PIM2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.5
+JAK2	Neoplasms, Adipose Tissue	0.5
+MAPK1	Carcinoma, Non-Small-Cell Lung	0.5
+FASTKD3	Lymphoma	0.5
+ZAP70	Neoplasms, Fibrous Tissue	0.5
+FGFR1	Leukemia, T-Cell	0.5
+MAP3K21	Leukemia	0.5
+STK39	Lymphoma	0.49941115075825154
+BMPR1B	Leukemia, Lymphoid	0.49875
+NEK1	Neoplasms, Second Primary	0.49823893092052335
+PIK3CA	Papilloma, Choroid Plexus	0.4975037522966144
+FLT4	Lymphoma, T-Cell, Peripheral	0.4974854331091683
+CDK1	Adenocarcinoma	0.4973736326932211
+ALK	Liver Neoplasms	0.4973403727497028
+YES1	Leukemia, Lymphocytic, Chronic, B-Cell	0.4973325163628066
+STK25	Neoplasms, Second Primary	0.49722222222222223
+BCR	Hematologic Neoplasms	0.4971840059172554
+CAMKK2	Carcinoma, Non-Small-Cell Lung	0.4967210312533434
+CDKN1A	Uterine Cervical Neoplasms	0.49655011655011655
+MAP2K7	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.4965
+PRKCE	Lymphoma	0.4963415771960329
+CCL2	Cholangiocarcinoma	0.49631578947368427
+CDK5	Lymphoma	0.49616893357390046
+NEK1	Adenocarcinoma	0.4960943123070696
+AURKA	Carcinoma	0.49603701250089943
+INSR	Burkitt Lymphoma	0.4960253699788584
+BRAF	Fibrosarcoma	0.4959898588163385
+STK11	Adenocarcinoma	0.49593280146622926
+MST1R	Hematologic Neoplasms	0.49581798544295735
+ITK	Colorectal Neoplasms	0.4957993924912199
+CDK7	Lung Neoplasms	0.4957747942553015
+BRAF	Carcinoma, Lewis Lung	0.4957352286304875
+PRKCH	Gastrointestinal Stromal Tumors	0.4955996810207337
+PKDCC	Neoplasms, Second Primary	0.4955700483091788
+EPHB2	Gastrointestinal Stromal Tumors	0.495559503237051
+ERBB2	Adenomatous Polyps	0.49552796746875166
+ERBB2	Lymphoma, Follicular	0.4955094504168288
+KDR	Seminoma	0.4954761904761905
+IGF1R	Hypopharyngeal Neoplasms	0.49545562462229137
+ALK	Testicular Neoplasms	0.49541982048776106
+PLK1	Urinary Bladder Neoplasms	0.49541314811189935
+ABL1	Muscle Neoplasms	0.4953695444409047
+IRAK1	Leukemia	0.4953358178257535
+CDK6	Oropharyngeal Neoplasms	0.4953321678321679
+CCL3	Colorectal Neoplasms	0.4952788542836277
+NEK1	Adenocarcinoma of Lung	0.4952698447587664
+CHEK2	Esophageal Squamous Cell Carcinoma	0.4952048694828296
+KIT	Adenoma, Liver Cell	0.4951923076923077
+BRAF	Arachnoid Cysts	0.49518583796391236
+TYRO3	Neoplasm Metastasis	0.4951787497618378
+FGFR2	Oropharyngeal Neoplasms	0.4951786910315642
+SRPK1	Neoplasm Metastasis	0.49516346605909367
+CAMK1	Leukemia	0.49508914100486223
+MAPK11	Leukemia	0.49508914100486223
+BCR	Burkitt Lymphoma	0.49508620689655175
+PTK2	Lymphoma, T-Cell	0.4950763386859446
+ALK	Sarcoma 37	0.4950653594771242
+MAP2K4	Adenoma, Sweat Gland	0.4950653594771242
+EPHB2	Urinary Bladder Neoplasms	0.49505474452554743
+KIT	Retroperitoneal Neoplasms	0.49505177256610255
+CDKN1A	Adenocarcinoma of Lung	0.49504310344827585
+ERBB4	Mouth Neoplasms	0.49504188144329897
+NPRL2	Adenocarcinoma of Lung	0.4950398863904355
+ALK	Carcinogenesis	0.4950355239786856
+FAM20C	Adenocarcinoma of Lung	0.49502834316913563
+PDGFRB	Sister Mary Joseph's Nodule	0.495024154589372
+MAK	Adenocarcinoma of Lung	0.4950144927536232
+PRKG2	Pancreatic Neoplasms	0.49501385041551244
+LMTK3	Adenocarcinoma of Lung	0.49501115075825153
+EGFR	Parathyroid Neoplasms	0.4950068352699932
+MAP4K4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4950030450669915
+EGFR	Fibrosarcoma	0.495
+NEK4	Neoplasms, Second Primary	0.495
+MAP2K2	Cecal Neoplasms	0.495
+MAP2K2	Neoplasms, Fibrous Tissue	0.495
+KIT	Epidural Neoplasms	0.495
+MAPK13	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.495
+TYK2	Adenoma, Sweat Gland	0.495
+KSR2	Carcinoma, Non-Small-Cell Lung	0.495
+TRIM24	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.495
+ANKK1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.495
+KALRN	Neoplasm Metastasis	0.495
+MYLK3	Leukemia	0.495
+EPHB2	Cholangiocarcinoma	0.495
+AKT1	Palatal Neoplasms	0.495
+AKT1	Leukemia, Myeloid, Acute	0.495
+CAMK1D	Neoplasm Metastasis	0.495
+PDGFRB	Neoplasms, Adipose Tissue	0.495
+MYO3A	Carcinoma	0.495
+WNK4	Leukemia	0.495
+MAPK3	Carcinoma, Non-Small-Cell Lung	0.495
+PIK3R4	Neoplasm Metastasis	0.495
+PIK3R4	Gastrointestinal Stromal Tumors	0.495
+CSNK2B	Leukemia	0.495
+CDK1	Adenoma, Sweat Gland	0.495
+CLK4	Neoplasm Metastasis	0.495
+MAPK4	Neoplasms, Second Primary	0.495
+PIK3CD	Neoplasms, Muscle Tissue	0.495
+PIK3CD	Nonodontogenic Cysts	0.495
+PRKG2	Meningeal Carcinomatosis	0.49493091021167507
+MAPKAPK2	Lung Neoplasms	0.49484500053730457
+EPHB2	Lymphoma, T-Cell	0.49424906546634106
+FLT4	Neoplasms, Second Primary	0.4940498501912806
+HIPK3	Gastrointestinal Stromal Tumors	0.49392076597687756
+PDK4	Carcinoma, Non-Small-Cell Lung	0.49387654716175844
+MAP3K5	Carcinoma, Non-Small-Cell Lung	0.4936680950789605
+EPHB2	Colonic Neoplasms	0.4935904452597652
+ACVR2B	Neoplasms, Second Primary	0.49355035542884323
+NTRK1	Digestive System Neoplasms	0.4932942907514887
+KIT	Neoplasms, Multiple Primary	0.49328034399467396
+EPHA10	Carcinoma, Renal Cell	0.4930909752953612
+ERBB2	Leukemia, T-Cell	0.49255886970172696
+STK11	Colorectal Neoplasms	0.49234550750423495
+ERBB3	Urethral Neoplasms	0.4922602168619653
+PTK2B	Leukemia, Myeloid, Acute	0.49200000000000005
+ERBB4	Fibrosarcoma	0.49183734251984906
+GRK7	Adenocarcinoma	0.49166666666666664
+PTK2	Lymphoma, B-Cell	0.4915673284202373
+CSNK1D	Lung Neoplasms	0.49145541706615536
+FGFR3	Carcinoma, Pancreatic Ductal	0.4913882534902314
+CILK1	Adenocarcinoma	0.49135849284484173
+WNK2	Adenocarcinoma	0.49133349284484173
+PTK7	Leukemia, Lymphocytic, Chronic, B-Cell	0.4913253196892244
+NTRK3	Carcinoma, Neuroendocrine	0.4913099840970753
+BRAF	Bone Neoplasms	0.49128743746108633
+HIPK3	Adenocarcinoma	0.49124435183997955
+BRAF	Carcinoma, Pancreatic Ductal	0.4910956982393856
+MARK2	Gastrointestinal Stromal Tumors	0.49102502892758937
+RET	Laryngeal Neoplasms	0.49102282690923665
+EGFR	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.49099999999999994
+RET	Thymoma	0.4908970567006643
+BTK	Leukemia, Promyelocytic, Acute	0.4908529040799563
+CDK6	Digestive System Neoplasms	0.4908373717822779
+ERBB3	Carcinoma, Renal Cell	0.49081616446715715
+BRAF	Neuroma, Acoustic	0.4907422951009261
+MTOR	Neoplasms	0.4906892379301548
+PDK4	Leukemia	0.4906451739883483
+PDGFRB	Adenocarcinoma, Bronchiolo-Alveolar	0.49064098136075485
+FLT1	Polycythemia Vera	0.4906043972907306
+INSR	Kidney Neoplasms	0.49056391862718596
+KSR2	Neoplasms, Second Primary	0.490558600622547
+MAP2K4	Leukemia	0.49054558803014026
+PEAK1	Gastrointestinal Stromal Tumors	0.4905336622518584
+TGFBR2	Esophageal Neoplasms	0.49052850688730987
+KDR	Pancreatic Intraductal Neoplasms	0.49047713495848905
+IGF1R	Fibrosarcoma	0.49045434054800696
+IGF1R	Osteosarcoma	0.49044562859568047
+EIF2AK3	Leukemia	0.4904428684332231
+BMPR1B	Leukemia, Myeloid, Chronic-Phase	0.4903543754229476
+CDK4	Oropharyngeal Neoplasms	0.4903321678321679
+BRD4	Lymphoma	0.4903270996491077
+IGF1R	Thymoma	0.4903234552332913
+FLT1	Thymoma	0.49029333864529584
+IRAK1	Carcinoma, Non-Small-Cell Lung	0.4902884615384615
+AKT1	Carcinogenesis	0.4902793294395661
+IGF1R	Carcinoma, Pancreatic Ductal	0.49025141161632363
+BCR	Rectal Neoplasms	0.49024669542340665
+PKN1	Adenocarcinoma	0.4902036637242452
+FLT3	Submandibular Gland Neoplasms	0.49018805886362726
+PIK3CA	Carcinoma, Krebs 2	0.49018405218848643
+SIK1	Neoplasm Metastasis	0.49016346605909367
+MAPK12	Leukemia	0.4901604938271605
+FYN	Leukemia, Myeloid, Acute	0.49015723270440253
+NTRK2	Esophageal Squamous Cell Carcinoma	0.4901480725379941
+BCR	Mouth Neoplasms	0.4901234567901235
+JAK1	Esophageal Squamous Cell Carcinoma	0.4901101321585903
+FLT3	Paraneoplastic Syndromes	0.49009800733693404
+EIF2AK1	Neoplasm Metastasis	0.49007772020725393
+STK4	Lung Neoplasms	0.4900767637394556
+EPHA4	Hematologic Neoplasms	0.49006493506493504
+FGFR2	Lymphoma, T-Cell, Peripheral	0.49005887392743014
+SYK	Esophageal Neoplasms	0.4900431034482759
+BRD4	Carcinoma, Hepatocellular	0.4900374732334047
+MAPK4	Lung Neoplasms	0.4900268456375839
+RPS6KA1	Lymphoma	0.4900264350453172
+KDR	Neoplastic Syndromes, Hereditary	0.4900212314225053
+ERBB2	Neoplasms, Multiple Primary	0.49000683526999317
+DYRK1B	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.49000304506699144
+EGFR	Carcinoma, Ehrlich Tumor	0.49
+EGFR	Sarcoma, Kaposi	0.49
+CDK17	Neoplasm Metastasis	0.49
+CDK4	Mesenteric Cyst	0.49
+KIT	Pulmonary Adenomatosis, Ovine	0.49
+ALK	Palatal Neoplasms	0.49
+CDK13	Neoplasm Metastasis	0.49
+AKT1	Carcinoma, Brown-Pearce	0.49
+BMPR1A	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.49
+ERBB2	Nonodontogenic Cysts	0.49
+ERBB2	Precancerous Conditions	0.49
+RPS6KB2	Leukemia, Lymphoid	0.49
+PDGFRB	Nevi and Melanomas	0.49
+MAP2K7	Neurofibromatoses	0.49
+MAP2K7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.49
+MAP2K1	Neoplasms, Fibrous Tissue	0.49
+RET	Sarcoma 37	0.49
+PAN3	Neoplasm Metastasis	0.49
+TGFBR2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.49
+WNK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.49
+MUSK	Lymphoma, Non-Hodgkin	0.49
+CDK15	Carcinoma	0.49
+ILK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.49
+PDGFRA	Submandibular Gland Neoplasms	0.49
+PDGFRA	Trophoblastic Tumor, Placental Site	0.49
+PRKCQ	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.49
+ZAP70	Cholangiocarcinoma	0.49
+NPR2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.49
+EIF2AK3	Carcinoma	0.48990951587311365
+GSK3A	Lung Neoplasms	0.48988144923793703
+PTK2	Neuroblastoma	0.4897500390686044
+NTRK2	Liver Neoplasms	0.48970379276434656
+SIK2	Gastrointestinal Stromal Tumors	0.48964390243902445
+MAP3K10	Gastrointestinal Stromal Tumors	0.4894896087569755
+PRKACB	Gastrointestinal Stromal Tumors	0.4894625696767001
+TAOK1	Gastrointestinal Stromal Tumors	0.4894124069478908
+TNNI3K	Gastrointestinal Stromal Tumors	0.4894124069478908
+MAP2K4	Carcinoma, Hepatocellular	0.48917445953477456
+PAK4	Carcinoma, Non-Small-Cell Lung	0.4890274066960824
+NTRK1	Lymphoma, Mantle-Cell	0.4889642883777601
+PIK3CD	Sarcoma	0.4888816882685278
+EPHB2	Multiple Myeloma	0.488502824858757
+IGF1R	Neuroendocrine Tumors	0.48837717967097105
+EGFR	Peutz-Jeghers Syndrome	0.4883333333333333
+CDK11B	Pancreatic Neoplasms	0.48805132081250036
+FGFR1	Urethral Neoplasms	0.48796302162749533
+BRAF	Lymphoma, Follicular	0.4878413445606175
+SRC	Sarcoma	0.48767559255752374
+FLT4	Lymphoma, Extranodal NK-T-Cell	0.4876154672058899
+MAP3K5	Lung Neoplasms	0.48760355763086627
+FGFR1	Polycythemia Vera	0.48724672723409485
+KDR	Adenomatous Polyposis Coli	0.48704318307994254
+ALK	Fibrosarcoma	0.48695026270681835
+PLK1	Breast Neoplasms	0.4866181371625052
+TGFBR1	Gastrointestinal Stromal Tumors	0.48654679632991515
+VRK2	Lung Neoplasms	0.48646829813099
+TTK	Leukemia	0.48645370765558554
+MAP2K2	Nevi and Melanomas	0.4863546137032078
+FGFR4	Leukemia, Lymphocytic, Chronic, B-Cell	0.48625
+ERBB2	Dysplastic Nevus Syndrome	0.48623811684383367
+KDR	Respiratory Tract Neoplasms	0.4862326243979707
+EGFR	Dysplastic Nevus Syndrome	0.4862037037037037
+MAP2K3	Lung Neoplasms	0.4861594717773103
+MET	Carcinoma, Lewis Lung	0.4861403032430346
+PDGFRA	Peritoneal Neoplasms	0.48606774692863625
+ACVR2A	Lymphoma	0.4859478381919423
+CAMKK2	Lung Neoplasms	0.48588620510601943
+FLT3	Pleural Effusion, Malignant	0.4858438892798499
+SMG1	Leukemia	0.48584321382842505
+ERBB2	Adenoma, Liver Cell	0.4858333333333333
+CSF1R	Lymphoma, Extranodal NK-T-Cell	0.48577563560453174
+ALK	Burkitt Lymphoma	0.48571723827904406
+ERBB4	Biliary Tract Neoplasms	0.48564478062429983
+SRC	Urinary Bladder Neoplasms	0.48564114329256086
+FGFR3	Gallbladder Neoplasms	0.4856003000472133
+KDR	Adenocarcinoma, Bronchiolo-Alveolar	0.4855968329423386
+BRD4	Leukemia	0.4855860557054067
+PDGFRA	Thymus Neoplasms	0.48556128553428424
+CSK	Carcinoma	0.4855605053833097
+NPR1	Adenocarcinoma of Lung	0.4855446601022393
+ERBB3	Teratocarcinoma	0.48546806167534085
+FLT3	Carcinoma, Krebs 2	0.4854206170031621
+AVP	Leukemia, Promyelocytic, Acute	0.4854130648867491
+MAP3K15	Lymphoma	0.4853448275862069
+MET	Tongue Neoplasms	0.48534246575342466
+IGF1R	Oropharyngeal Neoplasms	0.48532051282051286
+MYLK	Neoplasm Metastasis	0.485312596749226
+EGFR	Carcinoma, Lewis Lung	0.4853125
+KIT	Adenomatous Polyps	0.48529433962264157
+BMPR2	Stomach Neoplasms	0.4852941176470588
+JAK3	Stomach Neoplasms	0.4852941176470588
+NTRK1	Oropharyngeal Neoplasms	0.4852673648629928
+PTK6	Leukemia, Lymphoid	0.4852496348320227
+MAP2K2	Dentigerous Cyst	0.48522556390977445
+MAP2K1	Sarcoma 37	0.48522556390977445
+CSNK1D	Gastrointestinal Stromal Tumors	0.4852083333333333
+GRK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4851773130256877
+CCL2	Leukemia, Myeloid	0.48516304347826084
+FGFR1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.48515690052263266
+KDR	Enteropathy-Associated T-Cell Lymphoma	0.48514821616027914
+RPS6KA2	Leukemia	0.48514350559153885
+CDKL2	Leukemia, Myeloid	0.4850831940276812
+TAOK2	Leukemia, Myeloid	0.4850827973282207
+MAP3K8	Leukemia, Myeloid	0.4850827973282207
+CDC42BPA	Adenocarcinoma of Lung	0.485080271973088
+FGFR2	Burkitt Lymphoma	0.48507692307692307
+AKT1	Adenocarcinoma	0.48507630712914107
+BRAF	Neoplasm Seeding	0.48506711409395975
+YES1	Neoplasm Metastasis	0.485054347826087
+EPHA8	Leukemia, Lymphoid	0.48505219172591924
+PIK3CA	Leukemic Infiltration	0.4850381357481462
+STK39	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.48501463702989717
+CDK14	Leukemia, Myeloid	0.4850144927536232
+BRAF	Oropharyngeal Neoplasms	0.4850115919629057
+CDK20	Leukemia, Myeloid	0.485
+TGFBR1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.485
+CDK2	Leukemia	0.485
+MKNK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.485
+CDK17	Lung Neoplasms	0.485
+AURKC	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.485
+KIT	Avian Leukosis	0.485
+CLK3	Lung Neoplasms	0.485
+CLK3	Neoplasm Metastasis	0.485
+ANKK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.485
+BRD4	Adenoma, Sweat Gland	0.485
+EPHA1	Hematologic Neoplasms	0.485
+EPHB2	Lymphoma, B-Cell	0.485
+PIM3	Neoplasm Metastasis	0.485
+PTK2	Leukemia, Myeloid, Acute	0.485
+CDKN1A	Esophageal Squamous Cell Carcinoma	0.485
+CSNK1A1L	Carcinoma, Non-Small-Cell Lung	0.485
+INSR	Glioma	0.485
+PRKD2	Neoplasms, Second Primary	0.485
+MAP2K1	Dentigerous Cyst	0.485
+MARK2	Neoplasm Metastasis	0.485
+LMTK2	Lung Neoplasms	0.485
+JAK2	Skin Neoplasms	0.485
+BCR	Glioma	0.485
+MAP2K4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.485
+MAPK1	Stomach Neoplasms	0.485
+PIK3CD	Neuroectodermal Tumors, Primitive	0.485
+INSR	Gallbladder Neoplasms	0.48480512937688397
+FGFR3	Urologic Neoplasms	0.484786582132385
+FGFR2	Glioblastoma	0.48448439305855606
+NTRK1	Urethral Neoplasms	0.4844233976894587
+PRKCD	Lymphoma	0.48378588659320726
+EPHA2	Multiple Myeloma	0.48374695555750885
+CDK5	Carcinoma, Non-Small-Cell Lung	0.4837008512095408
+MET	Leukemia, Erythroblastic, Acute	0.4835337371913811
+MKNK1	Carcinoma, Non-Small-Cell Lung	0.48324221965184866
+PKMYT1	Gastrointestinal Stromal Tumors	0.48309356636818074
+PIK3CA	Lymphoma, Extranodal NK-T-Cell	0.4827042434771016
+IKBKE	Lymphoma	0.4826140123363965
+PDGFRA	Lymphoma, Follicular	0.48246375049633256
+BRAF	Hemangioblastoma	0.48233981873370724
+TGFBR2	Adenocarcinoma	0.4823349701037843
+PRKCQ	Leukemia, Lymphocytic, Chronic, B-Cell	0.4822914528207214
+PRKCB	Adenocarcinoma	0.4819003378367247
+NTRK1	Squamous Cell Carcinoma of Head and Neck	0.48189664876571325
+CDKL2	Leukemia, Lymphocytic, Chronic, B-Cell	0.4818041595020391
+FGFR2	Polycythemia Vera	0.4817840115125717
+EPHA2	Adenocarcinoma of Lung	0.4816785785189597
+CCL5	Gastrointestinal Stromal Tumors	0.48157889096034956
+BTK	Carcinoma, Bronchogenic	0.4815252897356574
+CAMK2G	Neoplasm Metastasis	0.48151049382716044
+WNK3	Lung Neoplasms	0.4814554170661554
+EGFR	Lymphoma, T-Cell, Cutaneous	0.4812999375780274
+MET	Lymphoma, T-Cell, Cutaneous	0.4812997475143851
+SGK3	Pancreatic Neoplasms	0.481228541547509
+CSNK1E	Neoplasms, Second Primary	0.48111174782074473
+EPHA4	Lymphoma, B-Cell	0.48109077542113715
+BRAF	Mixed Tumor, Malignant	0.48104824936439156
+ERBB3	Tongue Neoplasms	0.48103163787839326
+BTK	Liver Neoplasms	0.4810265765181098
+KIT	Spinal Cord Neoplasms	0.48092754374529806
+AVP	Colorectal Neoplasms	0.4807611465742883
+RPS6KA1	Lung Neoplasms	0.4807552479295534
+TNIK	Neoplasms, Second Primary	0.48070367291832583
+BMPR1A	Lymphoma	0.4806387330528284
+BCR	Central Nervous System Neoplasms	0.4806032871791517
+MAP2K3	Lymphoma	0.4805718019111979
+PAK5	Adenocarcinoma of Lung	0.4805107658002668
+EGFR	Thyroid Carcinoma, Anaplastic	0.4804836127701881
+SYK	Leukemia, Lymphocytic, Chronic, B-Cell	0.4804353676284653
+BRAF	Lymphoma, Extranodal NK-T-Cell	0.4803966665264431
+FLT1	Leukemia-Lymphoma, Adult T-Cell	0.4803635550287555
+PDGFRA	Adenocarcinoma, Bronchiolo-Alveolar	0.4803435077093493
+LATS2	Leukemia	0.48032957719055636
+CCL3	Leukemia, Promyelocytic, Acute	0.4803207429216746
+MAP2K2	Neoplasms, Muscle Tissue	0.48030983357269574
+MST1R	Multiple Myeloma	0.48029954341504494
+MATK	Adenocarcinoma of Lung	0.48027934898879904
+IGF1R	Carcinoma, Renal Cell	0.4802757817592187
+PDGFRA	Neoplasms, Multiple Primary	0.48027214444228167
+MAP3K2	Lymphoma	0.4802355072463768
+DMPK	Leukemia	0.4802235124237233
+ZAP70	Colorectal Neoplasms	0.48021963947914587
+MAPK6	Gastrointestinal Stromal Tumors	0.4802155270655271
+ULK2	Lung Neoplasms	0.480209171146863
+MAPK9	Leukemia	0.4801840396419334
+CSNK2B	Carcinoma, Non-Small-Cell Lung	0.4801783446663988
+RAF1	Esophageal Squamous Cell Carcinoma	0.48014807253799413
+MARK1	Lung Neoplasms	0.480142045860204
+FLT3	Leukemia, Experimental	0.48012269938650304
+MAPK10	Carcinoma, Non-Small-Cell Lung	0.4801221611968461
+MAPK14	Lung Neoplasms	0.4801157382001342
+MAP3K8	Lymphoma	0.48011538461538467
+PDGFRB	Adrenal Gland Neoplasms	0.4801108208215599
+CDK6	Uterine Cervical Neoplasms	0.4801056338028169
+PAK4	Lung Neoplasms	0.48010275045017964
+ERBB2	Klatskin Tumor	0.48009278350515466
+RPS6KA6	Adenocarcinoma of Lung	0.4800897823384937
+EPHA2	Stomach Neoplasms	0.4800891410048622
+MAPK13	Leukemia, Myeloid	0.4800891410048622
+CAMK2G	Carcinoma, Hepatocellular	0.480066494792277
+CDK20	Adenoma, Sweat Gland	0.4800653594771242
+ACVR1B	Neoplasm Metastasis	0.4800476678787794
+MTOR	Nevus, Intradermal	0.48004444444444444
+ABL1	Neoplastic Syndromes, Hereditary	0.48004188144329896
+MYLK	Carcinoma, Hepatocellular	0.4800374732334047
+EPHB2	Hodgkin Disease	0.48003703703703704
+MST1R	Leukemia, Promyelocytic, Acute	0.48002844950213375
+NTRK2	Nasopharyngeal Carcinoma	0.48002844950213375
+CDK13	Gastrointestinal Stromal Tumors	0.480026899701514
+STK33	Adenocarcinoma of Lung	0.480025001173764
+MAP2K7	Testicular Neoplasms	0.4800212314225053
+BCR	Melanoma	0.480015666965085
+GRK4	Leukemia, Lymphoid	0.48000972762645916
+OBSCN	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.48000304506699143
+TGFBR1	Cholangiocarcinoma	0.48
+EGFR	Heart Neoplasms	0.48
+CCL2	Leukemia, Promyelocytic, Acute	0.48
+BRAF	Nerve Sheath Neoplasms	0.48
+CDK18	Neoplasm Metastasis	0.48
+TBRG4	Lung Neoplasms	0.48
+KIT	Pilonidal Sinus	0.48
+KIT	Leukemia, Feline	0.48
+KIT	Neoplasms, Adipose Tissue	0.48
+NTRK3	Leukemia, Myeloid, Acute	0.48
+MTOR	Lymphatic Vessel Tumors	0.48
+PRKD3	Carcinoma, Non-Small-Cell Lung	0.48
+PRKD3	Neoplasm Metastasis	0.48
+ERBB2	Sarcoma, Kaposi	0.48
+ERBB2	Neoplasms, Complex and Mixed	0.48
+VRK2	Gastrointestinal Stromal Tumors	0.48
+CHEK1	Adenoma, Sweat Gland	0.48
+PDGFRB	ACTH Syndrome, Ectopic	0.48
+TLK2	Carcinoma, Non-Small-Cell Lung	0.48
+MAPK3	Leukemia	0.48
+NTRK1	Mesenteric Cyst	0.48
+GSK3A	Adenoma, Sweat Gland	0.48
+FGFR2	Squamous Cell Carcinoma of Head and Neck	0.48
+PDGFRA	Carcinoma, Krebs 2	0.48
+MAPK15	Adenocarcinoma of Lung	0.48
+WEE2	Lung Neoplasms	0.48
+PIK3CD	Dentigerous Cyst	0.48
+PIK3CD	Spinal Neoplasms	0.48
+MTOR	Dysplastic Nevus Syndrome	0.47995893988536653
+TBK1	Polycythemia Vera	0.47992226793438464
+MAPKAPK3	Neoplasms, Second Primary	0.4798991546491176
+AXL	Multiple Myeloma	0.47988999933252025
+NTRK1	Polycythemia Vera	0.4793969147383782
+ROCK1	Carcinoma, Hepatocellular	0.4792890203951631
+CCL5	Leukemia, Myeloid, Acute	0.479
+JAK1	Testicular Neoplasms	0.4786138656740029
+ACVR2B	Leukemia, Myeloid, Chronic-Phase	0.4785767563648429
+ERBB3	Urogenital Neoplasms	0.4784037558685446
+LATS2	Carcinoma, Non-Small-Cell Lung	0.4782313640051455
+CCL3	Adenocarcinoma	0.4780621601668493
+FGFR3	Leukemia, T-Cell	0.47797356905298244
+ERBB2	Adrenal Gland Neoplasms	0.477578125
+PRKCE	Adenocarcinoma	0.4773928318734746
+NTRK3	Neoplasms, Second Primary	0.4773169098997523
+BRAF	Carcinoma, Embryonal	0.4772551731049719
+PDGFRB	Klatskin Tumor	0.4772497538209572
+ROS1	Digestive System Neoplasms	0.4770274436490527
+NTRK1	Neoplasms	0.4769770676964392
+SGK2	Carcinoma, Renal Cell	0.47692953018717077
+PAK5	Gastrointestinal Stromal Tumors	0.4768987640499976
+MTOR	Teratoma	0.476870273240404
+LTK	Neoplasms, Second Primary	0.47679166666666667
+ERBB3	Lymphoma, T-Cell, Peripheral	0.476694984105184
+TEK	Laryngeal Neoplasms	0.4764285714285715
+CCNK	Adenocarcinoma	0.4763334928448418
+TEC	Lymphoma, B-Cell	0.4762855239786856
+CDK9	Lung Neoplasms	0.47615646977431664
+MAPKAPK2	Leukemia	0.4760645582231178
+RPS6KA6	Gastrointestinal Stromal Tumors	0.4760246593678902
+RIPK1	Lung Neoplasms	0.47601970491466006
+FYN	Colorectal Neoplasms	0.47600000000000003
+PRKACG	Neoplasms, Second Primary	0.47600000000000003
+IGF1R	Carcinoma, Embryonal	0.4759708013322048
+INSR	Polycythemia Vera	0.4759412818464542
+NEK1	Gastrointestinal Stromal Tumors	0.4758742111626493
+CDKN1A	Carcinoma	0.4758332237211784
+INSR	Fibrosarcoma	0.4758214908799291
+JAK2	Leukemia, Experimental	0.47574074074074074
+ERBB3	Kidney Neoplasms	0.47572290439032494
+LIMK2	Neoplasms, Second Primary	0.4756729218605711
+TGFBR1	Adenocarcinoma of Lung	0.475553615845522
+ERBB3	Leukemia-Lymphoma, Adult T-Cell	0.47549882028986606
+NTRK1	Tongue Neoplasms	0.4754779718394915
+ROS1	Neoplasms, Fibrous Tissue	0.47545454545454546
+HCK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.47545454545454546
+PDGFRB	Carcinoma, Embryonal	0.47544541812822394
+CDC7	Carcinoma, Non-Small-Cell Lung	0.4754308700593415
+FLT3	Oncogene Addiction	0.47538167278266286
+PRKCE	Stomach Neoplasms	0.4753724330247682
+MAP3K7	Leukemia, Promyelocytic, Acute	0.47537046540086053
+ABL1	Uterine Cervical Dysplasia	0.4753695444409047
+ALPK1	Neoplasm Metastasis	0.4753405226175957
+MUSK	Hodgkin Disease	0.47533138554567134
+BRAF	Otorhinolaryngologic Neoplasms	0.4752987938596491
+PDGFRA	Tongue Neoplasms	0.4752819158540989
+RIPK1	Leukemia	0.4752674712177041
+BRAF	Squamous Cell Carcinoma of Head and Neck	0.47526159196290574
+RPS6KA4	Adenocarcinoma of Lung	0.4752553520051432
+ILK	Lymphoma	0.4752552064592925
+PIK3CA	Papilloma	0.475216228909907
+ROCK2	Neoplasm Metastasis	0.4752152383527079
+CDK12	Neoplasm Metastasis	0.47521503637683843
+AURKB	Carcinoma, Squamous Cell	0.47521344870506693
+LRRK2	Carcinoma, Non-Small-Cell Lung	0.4752111797696061
+CSK	Neoplasm Metastasis	0.47518779342723005
+CLK1	Neoplasm Metastasis	0.47518022126106874
+CCL5	Leukemia, Promyelocytic, Acute	0.4751686052135223
+NPR2	Lung Neoplasms	0.4751326909841706
+SRPK2	Meningeal Carcinomatosis	0.4751181024284216
+INSR	Lymphoma, Follicular	0.47511397058823523
+KSR1	Neoplasm Metastasis	0.47510019599582365
+FLT3	Sigmoid Neoplasms	0.475095330799419
+FLT1	Sarcoma, Kaposi	0.4750836820083682
+FGFR4	Leukemia, Promyelocytic, Acute	0.47507590481259576
+PDGFRB	Bone Neoplasms	0.47506811989100817
+JAK2	Hydatidiform Mole, Invasive	0.4750653594771242
+JAK2	Submandibular Gland Neoplasms	0.4750653594771242
+JAK2	Lymphatic Vessel Tumors	0.4750653594771242
+ZAP70	Pancreatic Neoplasms	0.4750649350649351
+AKT2	Esophageal Neoplasms	0.475060165328331
+PKN2	Neoplasms, Second Primary	0.47505856146378117
+STK25	Adenocarcinoma of Lung	0.4750570788013196
+PIK3CD	Leukemia, Promyelocytic, Acute	0.4750526315789474
+ERBB4	Carcinogenesis	0.47504399855495677
+PTK2	Esophageal Neoplasms	0.4750431034482759
+NLK	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.47502844950213374
+KIT	Adenoma, Acidophil	0.475024154589372
+BTK	Adenoma, Islet Cell	0.475024154589372
+IKBKB	Leukemia, Myeloid	0.4750200803212852
+FGFR3	Glioblastoma	0.4750164187163034
+CAMK1G	Neoplasms, Second Primary	0.4750144927536232
+ACVR1B	Lymphoma, Mantle-Cell	0.4750100738750839
+RPS6KA3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47500304506699154
+TGFBR1	Neoplasms, Fibrous Tissue	0.475
+FLT3	Neoplasms, Adipose Tissue	0.475
+FLT3	Seminoma	0.475
+CAMK1	Lymphoma	0.475
+CCL2	Esophageal Squamous Cell Carcinoma	0.475
+NTRK3	Neoplasms, Fibrous Tissue	0.475
+MTOR	Carcinoma, Krebs 2	0.475
+TEK	Esophageal Squamous Cell Carcinoma	0.475
+KSR2	Gastrointestinal Stromal Tumors	0.475
+PAK1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.475
+OXSR1	Neoplasm Metastasis	0.475
+ERBB2	Carcinoma, Brown-Pearce	0.475
+ERBB2	Neoplastic Syndromes, Hereditary	0.475
+PASK	Neoplasm Metastasis	0.475
+PDGFRB	Lymphocele	0.475
+TAOK3	Lung Neoplasms	0.475
+MAP2K1	Trophoblastic Tumor, Placental Site	0.475
+RET	Neoplasms, Complex and Mixed	0.475
+RET	Neuroectodermal Tumors, Primitive	0.475
+CAMK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.475
+PTK2B	Leukemia, Promyelocytic, Acute	0.475
+PDGFRA	ACTH Syndrome, Ectopic	0.475
+PDGFRA	Hydatidiform Mole, Invasive	0.475
+FGFR1	Spinal Neoplasms	0.475
+WNK3	Meningeal Carcinomatosis	0.4745489529421673
+ERBB4	Polycythemia Vera	0.4745337212467674
+EPHA2	Lymphoma, Non-Hodgkin	0.4745138303183695
+CLK3	Gastrointestinal Stromal Tumors	0.4744
+CHEK2	Esophageal Neoplasms	0.4743507357018008
+SRC	Gastrointestinal Stromal Tumors	0.4740640144990403
+TGFBR2	Lymphoma, B-Cell	0.47405619648995606
+NTRK3	Liver Neoplasms	0.47399864018501425
+BRAF	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.4738240852822074
+AXL	Sarcoma	0.4738084700923684
+FLT3	Adenomatous Polyposis Coli	0.4735951948885655
+NPR2	Neoplasm Metastasis	0.4735820567206971
+PIK3CA	Hepatoblastoma	0.4735255639097744
+ATM	Esophageal Squamous Cell Carcinoma	0.47278061849357017
+PAK1	Adenocarcinoma	0.47262582460430186
+FGFR4	Carcinoma, Squamous Cell	0.4723832715227729
+PIK3CA	Retroperitoneal Neoplasms	0.4723021871114172
+SIK2	Lung Neoplasms	0.4722619489246408
+KDR	Meningeal Carcinomatosis	0.4722592213772827
+CAMK2G	Lymphoma	0.472226641841802
+CCL3	Leukemia, Myeloid, Acute	0.47215769944341374
+LATS2	Lung Neoplasms	0.4720973844812505
+CSNK1D	Adenocarcinoma	0.47205109847864457
+BRAF	Leukemia, T-Cell	0.4720277869594894
+PIK3CA	Peritoneal Neoplasms	0.4720194116353025
+CDK4	Carcinogenesis	0.47201428923855526
+CHEK2	Carcinoma, Hepatocellular	0.4718908609023574
+FGFR4	Liver Neoplasms	0.4718390631724386
+KALRN	Adenocarcinoma	0.4717210144927536
+RET	Carcinoma, Bronchogenic	0.4716957868164559
+TTN	Carcinoma	0.4715789909274388
+CDK18	Lung Neoplasms	0.47146829813099006
+TNNI3K	Lung Neoplasms	0.47146829813099006
+KIT	Enteropathy-Associated T-Cell Lymphoma	0.4714645755305868
+STK38L	Lung Neoplasms	0.4714554170661554
+ERBB2	Adenomatous Polyposis Coli	0.47142857142857136
+ATM	Carcinoma, Squamous Cell	0.47133836753080616
+FGFR2	Fibrosarcoma	0.4712574452252213
+EGFR	Seminoma	0.47125
+ATM	Carcinoma, Non-Small-Cell Lung	0.47119582110311353
+LRRK1	Pancreatic Neoplasms	0.4711745458359764
+ALK	Esophageal Squamous Cell Carcinoma	0.4711602021881627
+TTN	Lymphoma	0.4711236462872676
+CASK	Small Cell Lung Carcinoma	0.4711037795721394
+LRRK1	Meningeal Carcinomatosis	0.47109438567439427
+MARK3	Neoplasms, Second Primary	0.47108757824780817
+FGFR1	Brain Neoplasms	0.4709424866320031
+DYRK1B	Gastrointestinal Stromal Tumors	0.4709172833377659
+PIK3CD	Liver Neoplasms	0.47086275700953495
+ERBB4	Thyroid Cancer, Papillary	0.47079905124059074
+SRC	Colonic Neoplasms	0.4707562962816344
+FGFR1	Mouth Neoplasms	0.4707318376068376
+PIK3C3	Lung Neoplasms	0.47070340628519475
+PIK3CA	Spinal Cord Neoplasms	0.47066017112787883
+RYK	Gastrointestinal Stromal Tumors	0.47063866559299455
+NLK	Leukemia, Lymphoid	0.4706318324448343
+PAK1	Leukemia, Promyelocytic, Acute	0.47062583084419596
+AKT1	Thyroid Neoplasms	0.4705861581920904
+PRKCA	Leukemia, Myeloid	0.47058251043469407
+SRMS	Neoplasms, Second Primary	0.47057004830917876
+IRAK2	Adenocarcinoma of Lung	0.4705431617504264
+AURKA	Leukemia	0.47046666666666664
+IGF1R	Leukemia-Lymphoma, Adult T-Cell	0.4704157393868657
+SMG1	Carcinoma, Squamous Cell	0.4704135956186669
+ERBB3	Sarcoma, Kaposi	0.4703968878374581
+AURKB	Breast Neoplasms	0.4703396896710527
+CDKN1A	Colorectal Neoplasms	0.4703389107631733
+FLT3	Hypopharyngeal Neoplasms	0.47031307895203184
+FLT3	Cocarcinogenesis	0.4702989814377851
+ABL1	Pituitary Neoplasms	0.47029842125529453
+NPR1	Adenocarcinoma	0.47025588885345904
+BTK	Urinary Bladder Neoplasms	0.4702517626691865
+KIT	Unilateral Breast Neoplasms	0.47025
+MAP2K6	Carcinoma, Non-Small-Cell Lung	0.4702456140350877
+ERBB3	Nasopharyngeal Neoplasms	0.47023759398496245
+HASPIN	Adenocarcinoma of Lung	0.4702355072463768
+PAK1	Neoplasm Metastasis	0.4702152383527079
+RYK	Adenocarcinoma of Lung	0.4702127659574468
+ZAP70	Thyroid Neoplasms	0.4701878947671514
+MAP3K14	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4701773130256877
+MAP3K1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4701572327044026
+MAPKAPK2	Carcinoma, Non-Small-Cell Lung	0.4701552963480174
+ALPK1	Leukemia, Lymphocytic, Chronic, B-Cell	0.47009203972268276
+JAK2	Histiocytoma	0.47006535947712424
+FGFR4	Lymphoma, B-Cell	0.4700555555555556
+BUB1	Leukemia	0.47004321382842507
+BRAF	Retroperitoneal Neoplasms	0.4700423803060276
+WNK3	Neoplasms, Second Primary	0.4700355239786856
+CAMK1	Neoplasm Metastasis	0.4700352609308886
+LIMK2	Neoplasm Metastasis	0.4700352609308886
+EPHA8	Leukemia, Lymphocytic, Chronic, B-Cell	0.4700317158261973
+TRPM7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47002844950213374
+NTRK3	Leukemia, Promyelocytic, Acute	0.47002844950213374
+NLK	Leukemia, Myeloid	0.47002844950213374
+FAM20C	Gastrointestinal Stromal Tumors	0.470026899701514
+PDGFRB	Adenoma, Basophil	0.470024154589372
+CCL5	Leukemia, Lymphoid	0.47002392158838263
+JAK2	Testicular Neoplasms	0.47002123142250535
+DCLK3	Adenocarcinoma of Lung	0.47001449275362317
+AAK1	Gastrointestinal Stromal Tumors	0.4700124069478908
+PIK3CA	Rhabdomyosarcoma	0.47000927643784784
+MAP3K3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47000304506699153
+MAP3K11	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47000304506699153
+EGFR	Chondrosarcoma	0.47
+EGFR	Carcinoma, Embryonal	0.47
+CCL2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.47
+SBK1	Carcinoma, Hepatocellular	0.47
+MAP4K4	Lymphoma	0.47
+KIT	Diffuse Intrinsic Pontine Glioma	0.47
+KIT	Anal Gland Neoplasms	0.47
+MTOR	Anal Gland Neoplasms	0.47
+PRKX	Neoplasm Metastasis	0.47
+JAK1	Mesenteric Cyst	0.47
+ERBB2	Spinal Neoplasms	0.47
+PLK1	Leukemia	0.47
+MAP2K7	Head and Neck Neoplasms	0.47
+NRBP2	Lung Neoplasms	0.47
+RET	Dentigerous Cyst	0.47
+GRK1	Neoplasm Metastasis	0.47
+PLK4	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47
+HCK	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.47
+MAP3K7	Adenoma, Sweat Gland	0.47
+FGFR1	Oropharyngeal Neoplasms	0.47
+RIPK1	Adenocarcinoma	0.4698779883593501
+CDK4	Neoplasms	0.4698334183995897
+PBK	Lymphoma	0.46979007268182654
+IGF1R	Teratocarcinoma	0.4697808988764045
+CHEK2	Carcinoma, Non-Small-Cell Lung	0.46966266258798944
+TLK1	Gastrointestinal Stromal Tumors	0.46963523303484733
+STK26	Gastrointestinal Stromal Tumors	0.46960833333333335
+DYRK2	Gastrointestinal Stromal Tumors	0.4695469500853029
+NEK6	Gastrointestinal Stromal Tumors	0.4694294880003112
+CAMK2B	Gastrointestinal Stromal Tumors	0.4694
+FAM20C	Small Cell Lung Carcinoma	0.469178304147029
+IGF1R	Urologic Neoplasms	0.46905376344086025
+NTRK1	Lymphoma, Extranodal NK-T-Cell	0.4689954212054736
+MAPK11	Carcinoma, Non-Small-Cell Lung	0.4687385995530105
+PTK7	Mastocytosis, Systemic	0.46853039438013155
+TAOK2	Leukemia, Lymphoid	0.46839061244596514
+PDGFRB	Papilloma	0.46836988218751885
+FGFR3	Neuroendocrine Tumors	0.4682959704027275
+RET	Leukemia, Erythroblastic, Acute	0.46802298137163395
+NTRK2	Neoplasms, Second Primary	0.4680132077145294
+PIK3CA	Myasthenia Gravis	0.46786708500469715
+PINK1	Carcinoma	0.46784296251824065
+MAPK4	Meningeal Carcinomatosis	0.4678332763092953
+MAPK1	Thyroid Neoplasms	0.4676347188698369
+PTK2B	Adenocarcinoma	0.46763470276748814
+FGFR2	Gastrointestinal Stromal Tumors	0.46761835624008236
+PTK2	Hodgkin Disease	0.4675
+MAP2K7	Hodgkin Disease	0.4675
+TGFBR1	Adenocarcinoma	0.4674838892204519
+BRAF	Peritoneal Neoplasms	0.46747299352564836
+BRAF	Central Nervous System Cysts	0.4673686796043311
+MST1R	Adenocarcinoma	0.46735286011452537
+TGFBR1	Breast Neoplasms	0.46721204608079075
+PDGFRB	Retroperitoneal Neoplasms	0.46700911345674373
+SYK	Lymphoma, Non-Hodgkin	0.4668955928040873
+ACVRL1	Urinary Bladder Neoplasms	0.46685967281544455
+ROR2	Lymphoma, Mantle-Cell	0.4668000227194911
+JAK1	Gallbladder Neoplasms	0.4667880199095316
+AKT2	Adenocarcinoma	0.4667199024309136
+MERTK	Leukemia, Lymphoid	0.46671395998569287
+FYN	Leukemia, Lymphoid	0.4667072152552057
+ZAP70	Stomach Neoplasms	0.46667041490728844
+CHEK1	Carcinoma, Squamous Cell	0.46653613805497207
+CDK5R1	Lung Neoplasms	0.4664299263283997
+BRAF	Leukemic Infiltration	0.4664285714285714
+NTRK3	Leukemia, Lymphocytic, Chronic, B-Cell	0.46621391785454797
+TAOK2	Lung Neoplasms	0.4662018355408663
+PIM1	Colorectal Neoplasms	0.4661217219403965
+PDGFRA	Carcinoma, Embryonal	0.4660642176609936
+ACVR2B	Leukemia, Lymphoid	0.46595910256984086
+ACVR1B	Lymphoma, Non-Hodgkin	0.46594138331639107
+KIT	Brain Stem Neoplasms	0.4658690943721466
+MAP2K7	Breast Neoplasms	0.4657988344988345
+CDK13	Meningeal Carcinomatosis	0.4657738408373258
+MAP3K1	Adenocarcinoma	0.4657700204498603
+ILK	Neoplasm Metastasis	0.46572872795907677
+CDK20	Carcinoma, Hepatocellular	0.4656529517676746
+CDK16	Neoplasms, Second Primary	0.465625
+ACVRL1	Mesothelioma	0.4655422523965214
+ZAP70	Leukemia, Myeloid, Acute	0.46553693070562424
+PDGFRB	Adenomatous Polyps	0.46552669355538207
+RYK	Neoplasms, Second Primary	0.4655196253345227
+CDKN1A	Nasopharyngeal Carcinoma	0.46549764890282136
+BMPR2	Lymphoma, Non-Hodgkin	0.46548906271632284
+ROS1	Leukemia, Promyelocytic, Acute	0.4654829445399805
+PTK2	Multiple Myeloma	0.4654773175332334
+ROS1	Leukemia-Lymphoma, Adult T-Cell	0.46547574440042566
+IGF1R	Lymphoma, Mantle-Cell	0.4653480842090345
+INSR	Adenoma	0.4653232266243367
+ITK	Lymphoma	0.46530967818872726
+IRAK4	Lymphoma	0.4653
+DAPK2	Adenocarcinoma of Lung	0.4652884518705553
+INSR	Carcinoma, Pancreatic Ductal	0.46528321678321677
+FLT1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.465274884132197
+JAK2	Gastrointestinal Stromal Tumors	0.4652653978202255
+ERBB2	Colorectal Neoplasms, Hereditary Nonpolyposis	0.4652564102564103
+NTRK1	Glioblastoma	0.4652458547741567
+GRK4	Hematologic Neoplasms	0.46523643741316156
+CDK7	Leukemia	0.4652004465328276
+MAPK3	Carcinogenesis	0.4651860234963606
+PDGFRA	Barrett Esophagus	0.46517628205128203
+KDR	Carcinogenesis	0.46517251028005546
+ABL1	Insulinoma	0.4651646544385109
+IGF1R	Rhabdomyosarcoma	0.4651622965641953
+MAP3K10	Neoplasms, Second Primary	0.46512406947890816
+RPS6KB1	Leukemia, Myeloid	0.46512345679012346
+ERBB2	Bone Neoplasms	0.46511879045252935
+NTRK1	Neoplastic Syndromes, Hereditary	0.46511608143400757
+ACVR2A	Leukemia, Myeloid, Chronic-Phase	0.46509915210999425
+LTK	Carcinoma, Renal Cell	0.4650907946315686
+MAP3K3	Leukemia, Myeloid	0.4650891410048622
+PLK3	Leukemia	0.4650891410048622
+ZAP70	Prostatic Neoplasms	0.4650890196251573
+EPHA2	Hodgkin Disease	0.46508181315644004
+JAK2	Carcinoma, Krebs 2	0.46506535947712424
+IRAK1	Leukemia, Promyelocytic, Acute	0.46506407545254613
+CHEK2	Stomach Neoplasms	0.4650569538637883
+CAMK1D	Neoplasms, Second Primary	0.46505494505494505
+ALPK1	Carcinoma, Hepatocellular	0.4650507765830346
+CDK2	Lymphoma	0.4650357142857143
+PAK3	Lymphoma	0.4650355239786856
+PKN1	Neoplasm Metastasis	0.4650352609308886
+CDC42BPA	Gastrointestinal Stromal Tumors	0.4650294307089423
+TRIM28	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.46502844950213373
+PRKD2	Meningeal Carcinomatosis	0.46501629678713735
+PRKD2	Adenocarcinoma of Lung	0.46501449275362317
+FASTKD2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.46501449275362317
+PTK2	Burkitt Lymphoma	0.46500927643784784
+EGFR	Hemangiosarcoma	0.465
+EPHA2	Leukemia, Myeloid, Acute	0.465
+KIT	Neoplastic Processes	0.465
+KIT	Pharyngeal Neoplasms	0.465
+CLK3	Adenocarcinoma	0.465
+PRKCD	Adenoma, Sweat Gland	0.465
+ANKK1	Neoplasm Metastasis	0.465
+TLK1	Pancreatic Neoplasms	0.465
+SIK3	Carcinoma, Non-Small-Cell Lung	0.465
+TP53RK	Neoplasms, Second Primary	0.465
+INSR	Oropharyngeal Neoplasms	0.465
+MARK3	Adenocarcinoma	0.465
+TESK2	Carcinoma	0.465
+MAP2K1	Nonodontogenic Cysts	0.465
+RET	Neoplasms, Muscle Tissue	0.465
+ACVRL1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.465
+PDGFRA	Enzootic Bovine Leukosis	0.465
+SPEG	Neoplasm Metastasis	0.465
+MAP3K13	Neoplasm Metastasis	0.465
+BCR	Uterine Cervical Neoplasms	0.465
+CDKL2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.465
+ERBB3	Leukemia, Erythroblastic, Acute	0.464752553384701
+ERBB3	Neuroendocrine Tumors	0.46464757591605116
+PRKX	Gastrointestinal Stromal Tumors	0.46462074028122413
+ERBB3	Fibrosarcoma	0.46404822290435915
+PTK2	Carcinoma, Squamous Cell	0.46402076164112727
+ERBB3	Osteosarcoma	0.46399999999999997
+NUAK1	Gastrointestinal Stromal Tumors	0.4638869200912783
+ANKK1	Lymphoma	0.46366666666666667
+EPHB2	Polycythemia Vera	0.46359035446389835
+ACVRL1	Hematologic Neoplasms	0.4635132532952383
+KDR	Neoplasm Recurrence, Local	0.46334016860332655
+TGFBR1	Sarcoma	0.46333333333333326
+FGFR2	Digestive System Neoplasms	0.4632023296220234
+AURKB	Carcinoma	0.4630700189852823
+ERBB2	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.4629960655241554
+MOK	Meningeal Carcinomatosis	0.462995225468875
+PIM1	Neoplasm Metastasis	0.46287158510193394
+EIF2AK2	Carcinoma, Non-Small-Cell Lung	0.46270419915441857
+EPHB4	Adenocarcinoma of Lung	0.46253645225550544
+PIK3CA	Leukemia-Lymphoma, Adult T-Cell	0.4625209072776015
+MAPK9	Neoplasm Metastasis	0.4624619057376592
+BRAF	Paraneoplastic Syndromes	0.4624323057815012
+JAK1	Melanoma	0.462279151376481
+PIK3CA	Carcinoma, Pancreatic Ductal	0.4622413703334724
+MAP2K7	Thyroid Cancer, Papillary	0.4622277602874522
+ERN1	Carcinoma, Non-Small-Cell Lung	0.4621790092579641
+TRPM7	Neoplasm Metastasis	0.46207905648515984
+CAMK4	Carcinoma, Non-Small-Cell Lung	0.4620789473684211
+EPHA5	Gastrointestinal Stromal Tumors	0.46203336526181354
+BRAF	Leukemia-Lymphoma, Adult T-Cell	0.4620277869594894
+FGFR2	Small Cell Lung Carcinoma	0.4620227089015507
+MAP4K3	Small Cell Lung Carcinoma	0.46194223150929437
+CDK2	Carcinoma, Squamous Cell	0.4618067552602437
+TEK	Gallbladder Neoplasms	0.4618012563877225
+STK26	Neoplasms, Second Primary	0.46170219064535223
+CHEK2	Lung Neoplasms	0.46168664608671284
+MAPK11	Lymphoma	0.46166666666666667
+MTOR	Dermatofibrosarcoma	0.4616513307918193
+PIK3CA	Thymoma	0.46163048668169365
+AKT1	Glioblastoma	0.4615911220802294
+PRKCD	Adenocarcinoma	0.46158952759672267
+SRPK2	Lung Neoplasms	0.46146829813099005
+EGFR	Paraneoplastic Syndromes	0.4614120370370371
+INSR	Leukemia, Lymphocytic, Chronic, B-Cell	0.4613771352956558
+PTK2B	Carcinoma, Squamous Cell	0.4613389779473828
+ALK	Neoplastic Syndromes, Hereditary	0.4613007853892966
+IGF1R	Biliary Tract Neoplasms	0.4612931034482759
+AURKB	Adenocarcinoma	0.4612639054017674
+MAP2K7	Esophageal Neoplasms	0.46125
+NTRK1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.461213519203972
+PAK6	Leukemia, Lymphoid	0.46099823191395317
+MST1R	Adenocarcinoma of Lung	0.4609783358852606
+CDK16	Carcinoma, Renal Cell	0.46095008558230155
+EPHA1	Neoplasm Metastasis	0.4609294932564216
+MAP4K3	Adenocarcinoma	0.46090909090909093
+PINK1	Adenocarcinoma	0.4609047189755991
+NPR2	Leukemia, Lymphocytic, Chronic, B-Cell	0.4608694691090349
+PIK3CA	Carcinoma, Ehrlich Tumor	0.4608521588350161
+BCR	Adenoma	0.46085110676961344
+ROS1	Testicular Neoplasms	0.46080977405537055
+ERN1	Leukemia	0.4607868670519343
+ZAP70	Leukemia	0.46074764244182675
+FGFR3	Lymphoma, Follicular	0.4607195658274683
+FGFR4	Leukemia, Myeloid	0.4607142857142857
+CDK2	Laryngeal Neoplasms	0.46071120689655176
+MET	Neoplasms	0.46067896633222283
+IGF1R	Astrocytoma	0.4606666666666666
+CDK6	Hypopharyngeal Neoplasms	0.4606485552126714
+EGFR	Choriocarcinoma	0.460625
+ACVRL1	Lymphoma, Non-Hodgkin	0.46062387357973095
+FGFR2	Urologic Neoplasms	0.4605942928039702
+TGFBR1	Lymphoma, B-Cell	0.46059152750916915
+JAK2	Central Nervous System Neoplasms	0.46058447230049426
+CAMKV	Neoplasms, Second Primary	0.46057004830917875
+PIK3CA	Chondrosarcoma	0.46056133200678145
+MAP2K7	Laryngeal Neoplasms	0.46054184808901794
+SGK2	Neoplasms, Second Primary	0.4605268456375839
+PDGFRB	Carcinoma, Ehrlich Tumor	0.4605083088954056
+EPHA10	Neoplasms, Second Primary	0.46049999999999996
+PRKCA	Lymphoma	0.46045459535539757
+SYK	Leukemia, Promyelocytic, Acute	0.46041862662201055
+JAK2	Uterine Cervical Neoplasms	0.460385931273028
+MAP4K1	Neoplasms, Second Primary	0.4603552060491932
+BRAF	Nasopharyngeal Carcinoma	0.4603520378992078
+CDK20	Neoplasm Metastasis	0.46034983082784636
+TEC	Lymphoma, Non-Hodgkin	0.46034783819194236
+STK4	Gastrointestinal Stromal Tumors	0.4603478260869565
+INSRR	Adenocarcinoma of Lung	0.46027640722113466
+CLK3	Small Cell Lung Carcinoma	0.4602631578947369
+CDK4	Gallbladder Neoplasms	0.46025
+INSR	Thyroid Cancer, Papillary	0.46024558181007746
+FYN	Stomach Neoplasms	0.4602355072463768
+AXL	Laryngeal Neoplasms	0.46022936209528764
+CDK8	Lymphoma	0.46020664833274383
+JAK3	Esophageal Neoplasms	0.46019633905514196
+CDKN1A	Lymphoma	0.46019341372912803
+CDK2	Glioma	0.46018960692871425
+TGFBR1	Leukemia, Myeloid	0.46018864349242444
+NME2	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.460186888001499
+MAPK1	Astrocytoma	0.46017625450774274
+RIPK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4601688246673083
+INSR	Mouth Neoplasms	0.4601653382334224
+PIK3CA	Nevus of Ota	0.4601598975991144
+PRKCZ	Leukemia, Myeloid	0.46015151515151514
+BCR	Sarcoma, Kaposi	0.460151401016939
+ROR2	Neoplasm Metastasis	0.46014537896663504
+MKNK1	Leukemia	0.4601435055915388
+JAK2	Sarcoma, Kaposi	0.46013688794784846
+CAMKK1	Lung Neoplasms	0.46012684563758394
+ALK	Nasopharyngeal Carcinoma	0.46012362637362636
+FLT3	Skull Base Neoplasms	0.4601226993865031
+MUSK	Hematologic Neoplasms	0.46012206287957325
+PIM2	Neoplasm Metastasis	0.4601129811381425
+MYLK3	Neoplasm Metastasis	0.4601025010538148
+PIK3CA	Hydatidiform Mole, Invasive	0.46009278350515465
+GRK3	Leukemia, Myeloid	0.4600891410048622
+SRPK1	Leukemia	0.4600891410048622
+ROCK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4600765270278408
+PTK2B	Hematologic Neoplasms	0.4600744281473721
+JAK2	Brain Neoplasms	0.4600660792951542
+NLK	Neoplasm Metastasis	0.46005434782608695
+CCL2	Thyroid Neoplasms	0.4600520176606049
+TEK	Nasopharyngeal Carcinoma	0.4600491106591585
+NEK7	Adenocarcinoma of Lung	0.4600394939273872
+MAP3K3	Neoplasm Metastasis	0.4600352609308886
+SGK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4600316722841909
+ANKK1	Leukemia, Myeloid	0.46002873563218394
+NTRK3	Hematologic Neoplasms	0.46002855489755634
+MAPK7	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.46002008032128516
+GRK4	Lymphoma	0.46001115075825155
+EPHA2	Colorectal Neoplasms	0.46000847457627114
+TEK	Urinary Bladder Neoplasms	0.46000847457627114
+CDK14	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4600030450669915
+MKNK2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.46000304506699147
+PRKG1	Carcinoma, Hepatocellular	0.46
+PRKACA	Leukemia	0.46
+MAP2K2	Spinal Neoplasms	0.46
+KIT	Follicular Cyst	0.46
+MTOR	Histiocytoma	0.46
+EIF2AK3	Adenoma, Sweat Gland	0.46
+RPS6KA1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.46
+PAK1	Adenoma, Sweat Gland	0.46
+MYLK2	Carcinoma, Non-Small-Cell Lung	0.46
+SIK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.46
+AKT1	Leukemia, Promyelocytic, Acute	0.46
+AKT1	Neuroectodermal Tumors, Primitive, Peripheral	0.46
+JAK1	Nasopharyngeal Carcinoma	0.46
+PIK3CA	Carcinoma, Medullary	0.46
+ERBB2	Palatal Neoplasms	0.46
+ERBB2	Pheochromocytoma	0.46
+PDGFRB	Precancerous Conditions	0.46
+CDKN1A	Leukemia	0.46
+CCL3	Adenoma, Sweat Gland	0.46
+MAP2K7	Sarcoma 37	0.46
+MAP2K7	Submandibular Gland Neoplasms	0.46
+MAP2K7	Lymphoma, B-Cell	0.46
+MAP2K7	Neuroectodermal Tumors, Primitive, Peripheral	0.46
+MAP2K1	Spinal Neoplasms	0.46
+RET	Carcinoma, Brown-Pearce	0.46
+MAPK15	Lung Neoplasms	0.46
+MAPK1	Adenoma, Islet Cell	0.46
+MAPK1	Leukemia	0.46
+PTK6	Lymphoma	0.45991198620642804
+ITK	Leukemia, Lymphoid	0.4598554828408711
+CIT	Gastrointestinal Stromal Tumors	0.45957818621729785
+TRPM6	Adenocarcinoma	0.4594789810100926
+TNIK	Adenocarcinoma of Lung	0.459218960004993
+PRKD1	Carcinoma, Hepatocellular	0.4590806870618298
+EIF2AK3	Carcinoma, Non-Small-Cell Lung	0.4589623589797748
+FYN	Leukemia, Lymphocytic, Chronic, B-Cell	0.45883343438268925
+TXK	Neoplasms, Second Primary	0.4588285185539551
+EPHB4	Leukemia, Lymphocytic, Chronic, B-Cell	0.4586977704732923
+ERBB4	Carcinoma, Small Cell	0.4585731869371296
+AKT3	Carcinoma	0.4582497697258077
+EPHB2	Neoplasms, Second Primary	0.4580365778640957
+GRK2	Carcinoma	0.4579256624097973
+NTRK3	Breast Neoplasms	0.45790030709958
+PAK1	Leukemia, Lymphoid	0.45786638147410513
+MAP2K1	Lymphoma, T-Cell	0.4578442511345466
+CHEK1	Carcinoma, Non-Small-Cell Lung	0.45781959747467105
+BCR	Gallbladder Neoplasms	0.4578096153846154
+SRC	Liver Neoplasms	0.4577869990078966
+CDK9	Carcinoma, Non-Small-Cell Lung	0.4576972203846063
+AKT2	Liver Neoplasms	0.457624907224328
+STK11	Leukemia	0.457578617930454
+MAPK8	Carcinoma, Hepatocellular	0.4575094383697634
+IGF1R	Mastocytosis, Systemic	0.4573809523809524
+SYK	Carcinoma, Squamous Cell	0.4572961967940175
+RET	Rhabdoid Tumor	0.4572493121489999
+CDK8	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4572222222222222
+SYK	Thyroid Neoplasms	0.4571939897167045
+TGFBR1	Lymphoma, T-Cell	0.45716136280555375
+CAMK2B	Adenocarcinoma	0.45697436442167316
+PRKD2	Small Cell Lung Carcinoma	0.4569706810114281
+PDK1	Lymphoma	0.4568704146311759
+CSF1R	Bile Duct Neoplasms	0.45679788314143815
+NTRK1	Mesothelioma	0.45679260981692293
+ERBB3	Lymphoma, B-Cell, Marginal Zone	0.4567492849987069
+PAN3	Neoplasms, Second Primary	0.4565555555555556
+MST1R	Lymphoma, Non-Hodgkin	0.4565488311113773
+ACVR1	Leukemia, Myeloid	0.45654146353036074
+SRC	Hodgkin Disease	0.4565335662902932
+STYK1	Lung Neoplasms	0.45642857142857146
+CIT	Adenocarcinoma	0.4563657550089666
+ERBB3	Adenomatous Polyps	0.45631040960273156
+AKT3	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.45627008032128513
+SGK1	Lymphoma	0.45624005015191327
+PLK2	Lung Neoplasms	0.4561689640910098
+KDR	Carcinoma, Lewis Lung	0.45614730046948354
+CDK10	Adenocarcinoma	0.45613891619832503
+GSK3B	Lung Neoplasms	0.456079774820174
+MAP4K4	Leukemia, Lymphoid	0.4560750685355501
+FGFR1	Lymphoma, T-Cell, Cutaneous	0.45605720999953275
+JAK1	Nonodontogenic Cysts	0.4560526315789474
+PDGFRB	Paraneoplastic Syndromes	0.45600326190823337
+MAP3K1	Carcinoma, Non-Small-Cell Lung	0.4559570297632641
+NEK9	Adenocarcinoma	0.45592669654289375
+LYN	Stomach Neoplasms	0.4558605072463768
+FAM20C	Pancreatic Neoplasms	0.4558359526424664
+EPHA1	Leukemia, Lymphocytic, Chronic, B-Cell	0.45578432119018186
+TGFBR2	Thyroid Neoplasms	0.4557761682803334
+JAK2	Melanoma	0.4557482853215857
+CDK9	Leukemia	0.4557011313495006
+MAP2K7	Neoplasms	0.4557002816113805
+KIT	Myasthenia Gravis	0.45569877578331386
+AKT1	Astrocytoma	0.45566829743114867
+MAPK14	Adenocarcinoma	0.455649938718269
+ALK	Leukemia, Erythroblastic, Acute	0.4556056918511874
+PDGFRA	Adenomatous Polyps	0.4556019979776347
+ATP23	Neoplasms, Second Primary	0.45557004830917874
+AAK1	Carcinoma, Non-Small-Cell Lung	0.45555555555555555
+AKT1	Esophageal Squamous Cell Carcinoma	0.4555084498834499
+MAPK3	Neoplasm Metastasis	0.4555025218237779
+PIK3CD	Esophageal Squamous Cell Carcinoma	0.45546697104338973
+ERBB4	Leukemia, T-Cell	0.45546092851868536
+OBSCN	Carcinoma, Renal Cell	0.45544602741041784
+MTOR	Pleural Effusion, Malignant	0.4554265099832994
+KIT	Pancreatic Pseudocyst	0.4554164120307647
+TGFBR1	Colorectal Neoplasms	0.455414259759178
+BTK	Nasopharyngeal Carcinoma	0.4554113418087913
+PRKD1	Neoplasm Metastasis	0.455403031779938
+IKBKB	Carcinoma, Hepatocellular	0.4553990198431914
+CAMK2A	Neoplasms, Second Primary	0.45538827838827833
+FGFR3	Adenoma	0.4553729125879855
+MARK3	Gastrointestinal Stromal Tumors	0.4553687076111185
+FLT1	Neoplasms	0.4553647021170714
+JAK2	Biliary Tract Neoplasms	0.45536368832297425
+BRAF	Meningeal Neoplasms	0.4553561830987451
+IRAK2	Gastrointestinal Stromal Tumors	0.45533439233035655
+BCR	Brain Neoplasms	0.45529974454240246
+CDKN1A	Thyroid Neoplasms	0.4552976151621398
+EGFR	Pancreatic Cyst	0.4552704326923077
+ERBB4	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	0.45525143609910323
+PTK2B	Esophageal Neoplasms	0.4552422175959774
+MAP3K13	Adenocarcinoma of Lung	0.4552415015896307
+INSR	Leukemia, T-Cell	0.45522912759781337
+FLT3	Leukemic Infiltration	0.45521108349927614
+MET	Mixed Tumor, Malignant	0.45520445135526283
+CDKN1A	Urinary Bladder Neoplasms	0.45516949152542374
+CSF1R	Carcinoma, Pancreatic Ductal	0.4551650943396226
+KDR	Precancerous Conditions	0.45515723270440256
+MAPK10	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.45515723270440256
+MAP2K7	Nasopharyngeal Carcinoma	0.45515723270440256
+PTK2	Esophageal Squamous Cell Carcinoma	0.45515037593984964
+EGFR	Tuberous Sclerosis	0.4551296097386323
+RPS6KB1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4551234567901235
+KIT	Prostatic Intraepithelial Neoplasia	0.4551084745762711
+NTRK2	Neoplasms, Fibrous Tissue	0.45509278350515464
+CDK11B	Adenocarcinoma of Lung	0.4550756859131085
+LIMK1	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.45506493506493506
+RET	Palatal Neoplasms	0.4550568181818182
+RET	Anti-N-Methyl-D-Aspartate Receptor Encephalitis	0.4550568181818182
+AKT1	Adenocarcinoma of Lung	0.45504310344827587
+NTRK1	Biliary Tract Neoplasms	0.4550399540403084
+EGFR	Adrenal Gland Neoplasms	0.4550349690309202
+STK26	Adenocarcinoma of Lung	0.45502834316913565
+PDGFRB	Uterine Cervical Dysplasia	0.45502415458937195
+EPHA2	Esophageal Neoplasms	0.4550206611570248
+CASK	Leukemia, Myeloid	0.4550144927536232
+CAMKK1	Gastrointestinal Stromal Tumors	0.4550124069478908
+TGFBR1	Leukemia, Promyelocytic, Acute	0.4550030450669915
+TGFBR1	Esophageal Neoplasms	0.455
+TGFBR1	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.455
+PRKG1	Adenoma, Sweat Gland	0.455
+PRKACA	Leukemia, Myeloid	0.455
+KIT	Pallister-Hall Syndrome	0.455
+TEK	Neoplasms, Fibrous Tissue	0.455
+MAPK11	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.455
+PRKD3	Gastrointestinal Stromal Tumors	0.455
+MAPK12	Lymphoma	0.455
+PRKACG	Neoplasm Metastasis	0.455
+CDKN1A	Laryngeal Neoplasms	0.455
+MAP2K7	Oropharyngeal Neoplasms	0.455
+MAP2K1	Carcinoma, Brown-Pearce	0.455
+RET	Cecal Neoplasms	0.455
+TTBK1	Neoplasm Metastasis	0.455
+PHKG1	Carcinoma, Non-Small-Cell Lung	0.455
+NTRK1	Neoplasms, Fibrous Tissue	0.455
+ILK	Adenoma, Sweat Gland	0.455
+ULK3	Lymphoma	0.455
+RPS6KB1	Stomach Neoplasms	0.455
+EPHA8	Leukemia, Myeloid	0.455
+PDGFRA	Neoplasms, Adipose Tissue	0.455
+BCR	Osteosarcoma	0.455
+PIK3CD	Cecal Neoplasms	0.455
