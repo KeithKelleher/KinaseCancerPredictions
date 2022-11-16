@@ -1,7 +1,7 @@
 const {handler} = require("./index");
-// handler({queryStringParameters: {target: "TSSK2,CAMK2A"}})
-handler({queryStringParameters: {target: "DRD2"}}).then((res: any) => {
-    console.log(res);
+// handler({queryStringParameters: {target: "TSSK2,CAMK2A"}}).then((res: any) => {
+handler({queryStringParameters: {disease: "D001249"}}).then((res: any) => {
+    // console.log(res);
     const resobj = JSON.parse(res.body);
     resobj.forEach((resp: any) => {
         console.log(resp);

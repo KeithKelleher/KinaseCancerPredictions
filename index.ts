@@ -27,9 +27,11 @@ exports.handler = async (event: any) => {
     if (params.target) {
         responseValue = getAndProcessData(params.target, targetLookup, formatDiseaseEntity);
         addCitations(responseValue);
+        addStyle(responseValue, 'table');
     } else if (params.disease) {
         responseValue = getAndProcessData(params.disease, diseaseLookup, formatTargetEntity);
         addCitations(responseValue);
+        addStyle(responseValue, 'card');
     } else if (params.allTargets) {
         responseValue = getAllData(targetLookup, formatDiseaseEntity);
     } else if (params.allDiseases) {
@@ -43,10 +45,18 @@ exports.handler = async (event: any) => {
 
 function addCitations(responseValue: any[]) {
     responseValue.forEach((resp: any) => {
-        if (resp) {
+        if (resp && resp.predictions && resp.predictions.length > 0) {
             addCitation(resp);
         }
     });
+}
+
+function addStyle(responseValue: any[], style: string) {
+    responseValue.forEach((resp: any) => {
+        if (resp && resp.predictions && resp.predictions.length > 0) {
+            resp.style = style;
+        }
+    })
 }
 
 const getAllData = function (lookupTable: any, extractMethod: any): any[] {
@@ -191,6 +201,11 @@ const addCitation = function (response: any): void {
             '@type': 'Organization',
             name: 'NAR Genomics and Bioinformatics',
             url: 'https://academic.oup.com/nargab'
+        },
+        identifier: {
+            '@type': 'PropertyValue',
+            name: 'PMID',
+            value: 34888523
         },
         creditText: 'Ravanmehr et al.'
     }
